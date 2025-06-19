@@ -2,8 +2,8 @@ import pandas as pd
 import yfinance as yf
 
 # 1. Read the RBI speech dates from your CSV
-speech_df = pd.read_csv('/Users/shreeakojwar/Downloads/IIMK_Project/rbi_speeches_list.csv')
-speech_df['Date'] = pd.to_datetime(speech_df['Date'])
+speech_df = pd.read_csv('/Users/shreeakojwar/Downloads/IIMK_Project/cleaned_rbi_speeches.csv')
+speech_df['Date'] = pd.to_datetime(speech_df['Speech_Date'].str[:10], format='%Y-%m-%d')
 
 # 2. Set up index tickers and output file names
 indices = {
