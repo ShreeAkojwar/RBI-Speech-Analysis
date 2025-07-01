@@ -1,0 +1,259 @@
+No More a Shadow (of a) Bank1
+(Remarks delivered  by Shri M. Rajeshwar Rao, Deputy Governor, Reserve Bank of India –
+February 09, 2024 - at the NBFC Summit organised by Confederation of Indian Industry at
+Mumbai)
+Ladies and Gentlemen!
+It’s a pleasure to be here at CII NBFC Summit 2024 . At the outset, let me thank Mr.
+Abhimanyu Munjal, Chairman, CII National Committee on Non -Banking Finance
+Companies ( NBFCs ) for extending the invitation to me for delivering this inaugural talk
+at the 6th edition of the NBFC summit organised by CII.
+I recall that it was at  this forum, in  earlier speech2 at CII NBFC Summit held in October
+2021, I had dwelt upon the introduction of Scale Based Regulatory (SBR) approach in
+the NBFC Sector. Much water has flown under the bridge since then.  SBR framework has since been rolled out for the NBFC sector and NBFCs have seamlessly
+transitioned to the revised regulations. While I had previously discussed the detailed
+contours of the SBR framework, today I propose to discuss the broad regulatory
+approaches  behind NBFC regulations, including SBR framework  and then focus on
+few specific issues pertaining to NBFC sector .
+Role of NBFCs in the Financial Sector
+In December 2023, Financial Stability Board (FSB) released its annual publication  ‘Global Monitoring Report on Non- Bank Financial Intermediation
+3’. It has noted that
+globally, the size of the non- bank financial intermediation (NBFI) sector has decreased
+by 3 per cent  in 2022, which is the first notable decrease since 2009. However,
+Economic Function 2 (EF2) entities i.e.,  entities undertaking lending activities, which
+are akin to NBFCs in India, have exhibited a growth of around 10 per cent  which is the
+highest among all five economic categories  of the NBFI sector  monitored by the FSB .
+The report also notes that  India accounts for third largest share of EF2 assets after the
+1 Inputs provided by Pradeep Kumar and Anuj Sharma  are gratefully acknowledged.
+2 Chasing the Horizon (Remarks delivered by Shri M. Rajeshwar Rao, Deputy Governor, Reserve Bank of India –
+October 22, 2021 - at the CII NBFC Summit on Role of NBFCs in Achieving $5 trillion Economy) available at
+https://www.rbi.org.in/Scripts/BS_SpeechesView.aspx?Id=1135
+3 https://www.fsb.org/2023/12/global -monitoring -report -on-non- bank -financial- intermediation -2023/   2
+United States and the UK. At individual country level, India has the highest contribution
+coming from lending entities in its total financial assets of NBFI sector.
+This report also mentions that over a five- year period between 2017 and 2022, the
+share of total financial assets held by the NBFI sector in half of the emerging market
+economies has come down. India is, however,  amongst very few countries which have
+shown a growth in the share of total financial assets held by NBFIs.  In essence, the
+data indicates that NBFC Sector in India remains a critical cog in the wheels of economic growth.  As of March 2023, NBFCs credit to GDP ratio stood at 12.6 per cent
+and the sector has grown to become 18.7 per cent of banking sector assets as on
+March 2023 as compared to 13 per cent ten  years ago (March 2013) .
+A very notable feature of Indian NBFI sector is the predominance of lending
+companies. While globally, collective investment vehicles such as Money Market Funds ( MMFs ), fixed income funds,  mixed funds, credit hedge funds,  real estate funds ,
+etc. contribute to around 74 per cent of the NBFI sector assets, the Indian case is quite
+different. This feature, combined with the fact that NBFCs have assumed certain significance and criticality over last few years, makes it imperative that the regulations
+of the NBFC sector keep pace with the changing landscape and move from a light touch regulatory approach to a more calibrated and nuanced approach to address the
+growing interlinkages  and emerging risks  in order to safeguard financial  stability .
+It may perhaps be worthwhile to first  take stock of the state of the affairs in the NBFC
+sector.  The SBR framework for NBFCs was issued on October 22, 2021
+and it became
+effective from October 1, 2022.  Usually, the impact of such a reform can only be
+assessed in medium to long term. However, the initial assessment suggests that the NBFC sector has become stronger and resilient post introduction of the SBR framework. Our interaction with industry also suggests that the framework has achieved the intended effect of proportionate regulatory burden on the entities based on the parameters of size, complexity and interconnectedness, among others.
+As on September 30, 2023, NBFCs in the base, middle and upper layers constitute d
+6 per cent , 71 per cent  and 23per cent of the total assets of NBFCs , respectively . The 3
+latest edition of the Financial Stability Report (FSR )4 notes that a ggregate lending by
+NBFCs rose by 20.8 per cent (y -o-y) in September 2023 from 10.8 per cent a year
+ago, primarily led by personal loans and loans to industry . The GNPA ratio of NBFCs
+continued on its downward trajectory with improvement across sectors  with overall
+GNPA ratio  in September 2023 being 4.6 per cent  vs. 5.9 per cent  in Sep 2022 and
+NNPA ratio was 1.5 per cent  vs. 3.2 per cent  in Sep 2022 . Capital adequacy of NBFCs
+has also improved to 27.6 per cent  from 27.4 per cent  during this period. The
+profitability of NBFCs ha s also improved as evident from increase in RoA to 2.9 per
+cent from 2.5  per cent .
+In terms of the outlook, stress tests conducted by the Reserve Bank shows that  the
+overall sector will be able to withstand future  shocks. For credit risk, u nder the baseline
+scenario, the one- year ahead GNPA ratio of the sec tor is estimated to be 3.8 per cent
+and CRAR at 22.0 per cent  while under a medium shock , the CRAR may drop by
+around 70 bps relative to the baseline and in the event of severe  shock, the capital
+adequacy ratio of the sector may decline by 101 bps relative to the baseline, to 21.0
+per cent.  Similarly, for liquidity risk, the  stress test results indicate that the number of
+NBFCs which would face negative cumulative mismatch in liquidity over the next one
+year in the baseline, medium and high- risk scenarios stood at 6 (representing 1.3 per
+cent of asset size of the sample), 17 (10.4 per cent) and 34 (15.0 per cent), respectively .
+Overall the NBFC sector remains healthy, stable and resilient to future shocks.
+However, the FSR also notes that during the last four years, the compound annual growth rate (CAGR) for personal loans (nearly 33 per cent) has far exceeded that for overall credit growth (nearly 15 per cent) for the NBFC sector.  Our recent increase in
+risk weights of select retail loan categories may have to be seen in this context.
+Regulatory approaches for NBFC sector
+Coming to the regulatory approach for the NBFC sector -
+While framing the regulations for the financial sector, Reserve Bank has always been
+conscious of the fact that the degree of regulation of a financial entity should be
+4 https://www.rbi.org.in/Scripts/PublicationReportDetails.aspx?UrlPage=&ID=1254   4
+commensurate with the perception of risks posed by the entity and the scale of its
+operations on the financial system. O ur regulatory approach towards NBFC sector has
+been guided by a combination of activity -based and entity -based regulations to
+safeguard financial stability and protect customers . We have tried to leverage the
+strengths of both these approaches to achieve a more comprehensive and flexible
+regulatory framework. We find this hybrid approach particularly valuable for an ever -
+evolving NBFC Sector, where innovations and new business models seem to be
+constantly emerging .
+Entity bas ed r egulations have the advantage of provid ing a comprehensive view of
+overall  risk exposure of a specific financial institution and is  better placed to address
+the systemic risks arising from the interplay of various activities within a single entity
+to minimise negative externalities . From regulator’s  perspective, entity -based
+regulations are generally easier to implement and enforce, as regulations are applied
+uniformly to a set of entities. However, the  flip side is that entity -based regulations
+may be less precise in targeting specific activities , slower to adapt to changing
+landscape,   and, at times, may potentially impos e extra burden on low -risk activities.
+On the other hand, a ctivity -based regulations allow for more precise targeting of
+potentially risky financial activities  by enabling the regulators to focus on high- risk
+activities regardless of the type of institution involved. Potential down- side is that such
+an approach could result in a fragmented regulatory landscape, with different rules for
+various activities, potentially making oversight more complex .  At times, systemic risks
+arising  from the combination of multiple activities  may remain undetected.
+It has been advocated that ideally,  the principle of same risk, same activity, same
+regulation should apply, i.e , there should be similar regulation for entities undertaking
+similar activity to avoid regulatory arbitrage.  As the saying goes - i f it looks like a duck,
+quacks like a duck, and acts like a duck, then it probably is a duck - and should be
+regulated as a duck . However, this approach needs to be calibrated suitably for
+effective yet non- stifling regulations. Instead of following a narrow approach of putting
+in place the same set of regulations for all financial institutions irrespective of their
+scale of operations, a nuanced approach may be more suitable for achiev ing the
+desired objectives .  5
+We have been cognizant of the fact that the NBFCs engage in speciali sed activities,
+each carrying its unique risks, and the flexibility inherent in the hybrid model has
+enabled us to adapt swiftly to the changes in the sector without sacrificing the
+overarching systemic risk management inherent in the entity -based regulati ons.
+Keeping this balance in mind, our regulatory approach has evolved into two broad
+categories – prudential regulations and conduct of business regulations. While the
+prudential regulation focusses on solvency, safety and soundness of the financial entities and overall financial system, the conduct of business regulation focusses on how the financial entities deal with their customers and fair business practices. The current regulatory landscape is a combination of entity and activity -based approaches
+under the pillars of prudential and conduct regulations.
+Let me cite  some recent  regulations in the NBFC sector  wherein we have tried to
+maintain the balance between different regulatory approaches:
+• The first case in point, I would like to mention is that of Peer  to Peer Lending
+Platforms (NBFC- P2Ps):  Since NBFC- P2Ps do not  undertak e any credit risk
+on themselves and are merely acting as a meeting place for the lenders and
+the borrowers, prudential regulations for NBFC- P2Ps have been kept very light
+at basic entry level requirements. On the other hand, as the lenders  on NBFC-
+P2Ps  trust the  platforms  for getting to know the borrowers, and avail additional
+services such as  KYC authentication, credit scoring, legal formalities, recovery
+assistance, etc. Therefore,  conduct norms for these platforms have been kept
+at par with other regulated entities in the financial sector.
+• Second example is that of m icrofinance sector. Microfinance loans are small -
+sized loans and constitutes a very small share in overall credit.  Therefore,
+probability of financial stability concerns emanating from microfinance loans is
+quite low . However, in terms of numbers, microfinance loans affect a  large
+number of borrowers and these borrowers belong to the vulnerable categor y.
+Therefore, it becomes necessary that the regulatory approach for microfinance loans is specifically targeted to protect the interests of these borrowers . With
+the objective of customer protection in mind, an entity -agnostic and activity -
+based comprehensive regulatory framework for microfinance loans has been
+put in place for microfinance loans provided by all regulated entities.  6
+• Third example is of r egulatory framework for Infrastructure Debt Fund- NBFCs
+(IDF-NBFCs) . Recently, we have reviewed the regulatory framework for IDF-
+NBFCs wherein regulatory guidelines for the activity of infrastructure financing
+have been harmonised to the extent possible with other categories of NBFCs engaged in infrastructure financing
+5. Accordingly, we have withdrawn the
+requirement of a sponsor for the IDF-NBFCs and have aligned their regulatory
+capital requirement  and exposure norms  with NBFC- IFCs and NBFC -ICCs in
+the middle layer. The approach allows for  harmonis ation of  the regulations
+applicable to infrastructure financing NBFCs while preserving the unique low -
+risk character of IDF- NBFCs.
+Are Upper Layer NBFCs regulated at par with banks?
+Now, coming to specific issues pertaining to NBFC sector, let me discuss two pert inent
+issues -
+First, there have been some reports and discussions  that the regulations for NBFCs ,
+especially for NBFCs in the Upper Layer,  have been made at par with banks. I would
+like to take this opportunity to set the record straight in this matter. While it is agreed that the regulations between banks and NBFCs have been harmonised in some areas
+and regulations for certain NBFCs especially upper layer NBFCs have been strengthened under SBR , framework  significant differences  continue to exist  between
+the regulations applicable to banks and NBFCs. I would like to highlight just a few of them to emphasize this -
+• Minimum initial capital  requirement for a universal bank is ₹1000 crore vis-à-vis
+₹10 crore for an NBFC. Also, the scrutiny for a banking license applicant is
+much more rigorous than the scrutiny for an NBFC license applicant primarily to reflect the access of public deposits throgh a bank  license . To provide a
+perspective, i t may perhaps be pertinent to mention here that RBI has provided
+certificate  of registration to 447 NBFCs over last five  years whereas no
+5  NBFC -Infrastructure Finance Companies (NBFC -IFCs) and NBFC -Investment and Credit Companies (NBFC -
+ICCs).  7
+universal bank license has been given and only 2 small finance banks  (SFBs)
+have been given licenses  during this period.
+• Second major difference is that  banks cannot engage in any activities other
+than those which are specifically provided under the Banking Regulation Act,
+1949. W hereas there is no such provision under RBI Act governing NBFCs’
+regulations. Also, banks are required to deploy minimum 40% of the adjusted net bank credit towards priority sector lending and this requirement is even higher for SFBs at 75%. NBFCs have no such requirements.
+• Sometimes, it is also  argued that the regulatory capital requirement of NBFCs
+is higher at 15% vis -à-vis 9% for banks. However, it needs to be noted that
+banks ’ capital requirement comprises of credit, market and operational risk
+capital charges whereas  for NBFCs (including NBFC s in the upper layer ), the
+capital requirement is based only  on credit risk capital charge. Even
+components of regulatory capital are not as elaborately prescribed as is the case for banks.
+• There are almost no regulatory restrictions for operations of NBFCs. Commercial b anks on the other hand, are subjected to detailed branch
+authorization policy prescribing the manner in which they can open the branches. There are no corresponding guidelines for NBFCs (including NBFCs -
+UL).
+In a nutshell, I would like to emphasize that the regulations for NBFCs (especially in
+the upper  layer) are much more calibrated and are certainly not on par with the
+regulations applicable to banks .
+Should NBFCs be allowed to accept deposits?
+The s econd issue which I would like to discuss is regarding the deposit taking activity
+of NBFCs.
+With the perception that SBR framework  has made regulations of NBFCs more bank -
+like, t here have also been intermittent demands that NBFCs  should be allowed to
+accept public deposits.  Having clarified the first issue, let me emphasize that it  is
+indeed the non- acceptance of public deposits by the NBFCs which provides the
+regulatory comfort to the Reserve Bank  to have lower entry barriers for NBFCs, allow 8
+them to specialise in any specific sector of their choice  and have lower exit barriers to
+wind up their business es.
+Acceptance of deposit, in whatever manner and form, necessitates existence of a
+macro financial safety net including deposit insurance and central bank liquidity
+backstop. These safety nets come with increased regulatory rigour and intense
+supervisory oversight. The NBFCs have evolved as a niche companies serving specific economic function and it is uncharacteristic for  them to demand becom ing like
+a bank.
+Considering this, Reserve Bank has not issued any certificate of registration to new
+NBFCs for acceptance of public deposits since  1997 . On the contrary , Reserve Bank’s
+approach has been to disincentivise deposit -taking activities of  NBFCs as evident from
+decrease in the number of deposit -taking NBFCs over last decade from 241 in March
+2014 to 26 in September 2023.
+Concerns and Expectations
+NBFC sector h as come a long way since its initial days and the regulatory framework
+for the NBFC sector  has aided its development of by providing the operational flexibility
+and proportionate regulations. However, there are certain risks on the horizon and I
+would like to use this forum to urge the NBFCs to monitor these risks in their business models or balance sheets and initiate necessary action as and when required:
+• NBFCs are large net borrowers of funds from the financial system, with the highest ex posure to banks. Several NBFCs maintain borrowing relationships
+with multiple banks. Banks also subscribe to their debentures and commercial
+papers. Such concentrated linkages coupled with high leverage may create
+contagion risks in the financial  system . Concentration of funding sources for
+NBFCs is also not a prudent strategy as they may face sudden drying up of such funding during stress events.  Therefore, i t may be prudent for  NBFCs to
+focus on broad- basing their funding sources and reduce over -dependenc e on
+bank credit .
+• In pursuance of high growth, there seems to be tendency among the NBFCs to
+get the customers on board with oversimplified underwriting processes . While
+the ease and convenience for a  borrower is very important, this should not 9
+come at the cost of underwriting standards. Besides improving the ease of
+lending, NBFCs should equally focus on maintaining the quality  of their loan
+portfolio.
+• Of late , some of the business practices of NBFC -P2Ps do not appear to be in
+line with  the regulatory guidelines. A large proportion of lenders on NBFC -P2Ps
+are individuals and they are not expected to be well -equipped to understand
+the risks involved in providing credit. Instead of educating the lenders about the
+inherent risks in the lending activity, NBFC -P2Ps have been observed to
+underplay the risks through various means such as promising high/ assured returns, structuring the transactions, providing anytime f und recall facilities , etc.
+Let me make it absolutely clear that any breach of licensing conditions and regulatory guidelines is non- acceptable.
+• Under the revised framework for microfinance loans, rule- based prescriptions
+on pricing of loans were  replaced with a principle- based framework with
+enhanced disclosures and transparency requirements. It has been observed that while the lenders were quick to pass on the increased costs to borrowers,
+they have been reluctant to pass on the benefits envisaged under the new
+framework . Some of the MFIs have increased their margins disproportionately
+in new regime. We are not oblivious to the misuse of the freedom provided to
+the microfinance sector  and irresponsible practices would compel us to act .
+• Post March 2023 banking sector turmoil in the US and Europe, the business
+models of financial entities have come under enhanced scrutiny. We have also
+observed concentrated business model in some NBFCs. For example, some of the NBFCs, have concentrated exposure to segments such as consumer loans, vehicle loans, etc.  If any of these segment faces economic stress, there can be
+significant impact on the financial of those NBFCs and, in turn, on their lenders including banks. It is in their self -interest that entities should consider these
+risks and we expect that Boards are having a pulse on such issues.
+• Lastly, in view of the increasing reliance of NBFCs on delivering their services
+through digital medium and their partnerships with Fintechs, the sector’s
+exposure towards technology related risks, including cybersecurity threats and
+operational disruptions, as well as their reliance on third party partnerships has
+increased significantly. Therefore, we expect the entities to put in place suitable 10
+risk mitigation measures, commensurate with their business and risk profile,
+even if it means going beyond the regulatory minimum requirements.
+Concluding thoughts
+We have recently come out with a draft omnibus framework for the Self -Regulatory
+Organisations (S ROs).  The SRO s are expected to play an important role in improving
+the compliance culture as well as promote ethical business practices, customer
+protection, better governance standards, sound risk management measures  and
+contribute positively to the orderly development of the financial sector, including
+NBFCs.
+The NBFC sector is an important stakeholder  of the I ndian f inancial sector.
+Strengthened regulation and enhanced oversight of the NBFC sector is the best
+testimony of the importance of the NBFCs  in not only the financial system but overall
+economy. It’s time that NBFC sector comes out of its own shadow  as well as that of
+the banking sector . I am sure that NBFC s will play a significant role in achieving the
+dream of a $5 trillion economy  going forward.
+Thank you.

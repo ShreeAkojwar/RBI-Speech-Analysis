@@ -1,0 +1,407 @@
+1
+Edited Transcript of Reserve Bank of India’s Post Policy
+Conference Call with Researchers and Analysts
+April 7, 2015
+PARTICIPANTS FROM RBI:
+DR. RAGHURAM G. RAJAN – GOVERNOR
+SHRI H.R.KHAN  - DEPUTY GOVERNOR
+DR. URJIT R. PATEL – DEPUTY GOVERNOR
+SHRI R. GANDHI – DEPUTY GOVERNOR
+SHRI S.S.  MUNDRA – DEPUTY GOVERNOR
+DR. MICHAEL D. PATRA –EXECUTIVE DIRECTOR
+MODERATOR :  MS. ALPANA KILLAWALA – PRINCIPAL CHIEF GENERAL
+MANAGER
+2
+Mode rator : Ladies and Gentlemen , good day and welcome to the Reserve Bank of India Conference Call
+on First Bi-monthly Monetary Policy , 2015 -16. As a reminder , all participant lines will be in
+the listen -only mode , and there will be an opportunity for you to ask questions after the
+presentation concludes. Should you need assistance during the conference call , please signal an
+operator by pressing ‘*’ then ‘0’ on your touch tone phone. Please note that this conferenc e is
+being recorded.
+I now hand the conference over to Ms. Alpana Kil lawala. Thank you and over to you Ma’am.
+Alpana Kil lawala:  Thank you , Shyma  and welcome to all. Since there are no questions in link , we will
+straightaway start with online questions. Okay , Shyma , you can begin with the queue.
+Moderator:  Thank you , Ma’am. Ladies and Gentlemen , we will now begin with the question -and-answer
+session.
+Sandeep Bagla:
+Trust Group  I have just one question ; I saw that the point inflation in March 2016 end is at 5.8 %. So my
+question is that for policy rate setting , is it relevant to look at the point inflation at the end of a
+period or the average expected inflation during the period , because looking at a point inflation
+might give the wrong picture ; the average could be 5% while the point inflation in March
+could be 5.8 % so what is relevant?
+Dr. Raghuram G. Rajan:  This is Raghu Rajan. Let me ask Dr. Michael Patra to take this question.
+Dr. Michael Patra : We have provided the whole path of inflation during the year in the policy document and in the
+Monetary Policy Review we have given you a path of inflation for 2  years ending in 2016 -17.
+So we take the whole path of inflation into conside ration . And as we mentioned , there are
+frictional factors and transient factors like base effects and seasonal effects that will
+characterize this path going forward . So it is not that we are targeting only 5.8 %, we are
+targeting the whole evolution of inflation over 2  years.
+Kaushik Das:
+Deutsche Bank  I have two questions : The first question is what is the potential growth rate that RBI is
+considering in its model to decide on future monetary policy action ? And the second is
+regarding transmission . What we saw in the last easing cycle is that in 2012 -13 we had a 125
+basis points repo rate cut , significant cut in CRR as well from 6% to 4% , and all we got was a
+50 basis points cut in bank lending rate . So this time around the bank lending rate cuts will
+happen probably but by a very small amount . So even if we achieve a 50 basis points cut in
+lending rate through the course of the monetary policy cycle this time around , do you think
+that is enough to kind of support economic recovery more from the investment side rather than
+the consumption side ?
+Dr. Raghuram G. Rajan:  Let me start with your question then turn the potential growth question to Michael again. What
+is important is that when we cut the interest rates there should be a sense that the deposit rates
+that are available to banks are commensurate with our interest rate cut . In other words if we are
+cutting interest rates and inflation stays really high , it may be difficult for banks to cut deposit
+rates . So we cannot outrun the pace of disinflation as we bring down interest rates because
+transmission will simply not happen simply because banks will not have the room to cut
+interest rates . That has not been the case so far and you have seen a number of banks c ut their
+3
+deposit rates. Now the question is how much time does it take for those cuts to feed into the
+lending rates?  Two factors play in favo ur of that happening sooner rather than later - one is the
+fact that credit growth has been tepid so banks are sit ting on tremendous amounts of liquidity
+which they can deploy today in more lending , and as SBI Chairman said , there is some
+evidence that the lending is also picking up . Second , markets themselves are willing to lend at
+lower rates , and as a result , if the banks do  not start cutting lending rates they will find
+themselves increasingly disintermediated and clearly that will be detrimental to profit . So my
+sense is the pass -through will happen more readily this time partly because of the first point I
+made it is accompanied by a significant reduction in CPI inflation. Remember , the previous
+time around there is more of a focus on WPI inflation while CPI inflation was still relatively
+high. That is different this time.
+Dr. Urjit R. Patel:  Just to add to  that that the previous cycle of easing was prematurely truncated in part because
+of the US Fed policy tantrums that ensued and therefore the full pass -through could not be
+effected for the reasons that  you are well aware of.
+Dr. Michael Patra : First of all, let me clarify that for the purpose of monetary policy setting , it is most important to
+know what the level of potential output is and potential growth is just the growth of that
+potential output ; potential output tells you where on the business cycle  you are and therefore
+how to position policy. We have addressed this in the Monetary Policy Report. The important
+thing to note is that potential output is always difficult to measure , and when you have just
+sixteen quarters of data it becomes even more d ifficult . So what we have tried to do is not to
+approach it in a structural sense in terms of what contributions labo ur and capital and
+productivity do . But we have tried to estimate some sort of trend given th is limited history of
+the data , and we give yo u various versions of trend estimations in the Monetary Policy Review
+and they give us estimates of trend growth rates in the range of 7.7 % to 8% and that is why we
+have chosen 7.8 % as the most feasible trend rate of growth for the economy going forward. A s
+we gather more history and more information on the new GDP series , we will work out
+potential output and we will release it in the public domain.
+Doad Manpreet Kaur:
+Mecklai Financial  Sir my question is on the increasing corporate vulnerability, recently . We got this data that the
+ECB has increased by 19 billion only in the quarter of December , and Sir looking at the
+hedging ratio which has been declining since 2014 like 50% it was in July -August 2014 , which
+has decreased to 24% in April -August . So lookin g at the risk management proposal of the
+corporate has been on the negligible part . So can we expect RBI to come into the picture to
+increase any kind of risk management proposal for the corporate by the action of the policies ?
+And Sir the second question is on the implementation of Bas el III. If we are planning to
+increase the Bas el III in the coming year , that also hinders the process in where the corporate
+can increase their focus on hedging because it adds an extra cost to them . So on that process
+what is your take on that?
+Dr. Raghuram G. Rajan:  Let me ask Mr. Khan to respond to the question on ECBs.
+Shri H. R. Khan : I am not sure the data you gave of 19 billion in one quarter how far it is correct , I do not think
+that is correct information. In any case we have an implicit ceiling in our minds and the last 2 -
+3 years the ECB borrowings have been within that ceiling. Although the external borrowings
+are increasing , as a percentage of GDP for ECB s we are one o f those countries which is not
+4
+very high . But nevertheless we have  articulated number of times that this unhedged exposure
+can have a firm level r isk as well as more importantly systemic level risk. That is why from the
+prudential side we have l aid down guidelines in terms of additional provisioning and additional
+capital charge. The issue which boils down is that how do we capture the information , that is
+why a lot of suggestions have come which we  are working on , whether you can bring it to
+CRILC , wheth er you can put it as a balance  sheet  disclosure through   ICAI. So these are some
+of the steps we are thinking of how to get more information. I think that is what we are trying
+to do , but overall what you say that percentage of hedging remains low , we are encouraging
+people to hedge and also simultaneously , some of the steps we have taken including the step
+we have taken recently for expanding the option framework, for that also so that hedging
+increases . Efforts are on to increase more instruments for that . So I think multiple actions on
+different f ronts  will ensure that corporates hedge more , and as Governor has been emphasizing
+that people should not take “ Stability o f rupee for granted ” and that should not lull them into
+complacency . This is what we have been telling.
+Dr. Raghuram G. Rajan:  Also just to thro w out a number , the net ECB that we have for 2014 -15, April -January is just
+4.6 billion.
+Manpreet Kaur:  Sir it is on the December quarter recently , I just went through an article it wa s saying like quite
+a leading financial publication.
+Dr. Raghuram G. Rajan:  You may be looking at approvals , you may be looking at only one side because what we really
+need for the stock is the net change and that is just 4.6 billion from April -January for  2014 -15,
+which is relatively small numbers . I for one am not aware of a substantial explosion in ECBs
+and I do  not think any of my colleagues are and I do  not think the numbers bear that out. The
+thrust of your question was “Are we going to think of some draconian measures ?” The answer
+is ‘no’ because what we would like to do is incentiv ize corporations to do more of it and
+perhaps find better ways for banks to monitor it and we will examine our regulations on that
+basis , but at this point I do  not think t here is a clear measure that is being contemplated in any
+way.
+Manpreet Kaur:  Sir, the implementation of Bas el-III is in process , we are saying that  by 2019 we will be
+turning into Bas el-III. In terms of that process if we see the hedging as to be followed  by the
+corporate , here the RBI wants hedging to be motivated among the corporates to cover their risk
+and all . But if we have a Bas el-III that becomes a hindrance process for the corporate to get
+into hedging and to hedge their exposures?
+Shri R. Gandhi : Basel-III related requirements are on the banks , not on the corporates.
+Manpreet Kaur:  Obviously , the bank would be incurring because again the bank has to keep an extra capital
+credit is required by the bank also , so even that wo uld not incentivized for the corporates also
+to get into long -term hedging in?
+5
+Shri R. Gandhi : That is true , in the sense that banks will have to have additional capital for that costing they
+have to appropriately price  their services to the corporate . But these are all booked for in the
+long-term interest of the banks capabilities and the financial health, this is the  proper risk
+management . So it should be seen in that angle .
+Mohan Po ddar:
+Fincap Investments  I have a question regarding inflation index ed bonds . At the current level  of CPI and WPI , why
+this inflation index ed bonds are quoted at such deep discounts . Is the market factoring in more
+fall in inflation henceforth ?
+Shri H.R.Khan : Actually we had issued some inflation index ed bond , I think around 6 ,000 is outstanding . We
+could not follow it up by subsequent issuances and inflation trajectory has gone in  a different
+direction . That is why it is in deep discounts . We are in discussion with government for a
+revised version of inflation index ed bond both for the institutional investor s as well as the
+retail investor s. So let us see if the new thing comes , and possibly we could consider how to
+take care of this illiquid inflation index ed bond , whether we can do some switching, we will
+take a view on that.
+Kumar Rachapudi:
+ANZ Bank  I have two questions : One is on the liquidity conditions which you mentioned which in your
+view are quite flush . But, if I look at indicators like either the reserve money of M3 or even
+incremental credit deposit ratio , which is right now at 83% in th e last 3  months versus LDR
+ratio of about 77% overall . And banks obviously have been on a daily basis - notwithstanding
+the fact that they have  deposit ing some money on the term reverse repos at the RBI , they have
+still been net borrowers from the central bank. So I am wondering why you are thinking that
+liquidity conditions are accommodative as of now ? That is no. 1. Second question is on the
+sterilization of F X inflows which the RBI has been probably doing . So if you look at the F X 3-
+month implied yields a t around 8.2% which is much higher where the overnight rate is, do you
+not think this way of sterilizing is prohibiting corporate s from hedging their F X liabilities . So
+are you considering any other ways of sterilization?
+Dr. Raghuram G. Rajan:  On your first question , I think you are looking overly at the March numbers when liquidity is
+generally tight , you have to look forward and see what happens when that liquidity unwinds .
+So from that forward -looking perspective that I am saying there is plenty of l iquidity in the
+market. On the second question , as far as the forward premium goes , if and when we intervene ,
+we take into account various issues including size of premia , etc., in deciding what might be
+the more effective way to intervene . That said the f act that premia sometimes push out has a
+variety of reasons not just because of intervention . For example , if credit is tight , the arbitrage
+leg to create a synthetic forward may be more difficult and may therefore imply a higher
+premium than otherwise . So I wo uld no t treat an expansion in the premium as primarily
+because of RBI intervention , there could be a variety of other reasons.
+Kumar Rachapudi:  Sir, just following up on the question on liquidity, in your assessment where do you see banks
+borrowing le t us say in May or June ? April I am presuming because of the increased
+government spending , they will be borrowing slightly lower numbers than what they did in
+March . According to your projections what are those numbers in May or June?
+Dr. Michael Patra : There are a lot of contingent factors ; there is the economy . Let us say the economy  goes
+through a  turning point and moves up , obviously there will be a little excess demand for
+liquidity or let us say that there is a less agricultur al activity if the mons oon does  not turn
+6
+favourable , then we will see a completely different roll out of liquidity in May and June . So it
+is too early to forecast liquidity in June when so many imponderables  exist today.
+Imran S ayed:
+Aegon Religare  My question has probably been partly answered ; it is related to inflation index ed bonds . Now it
+is good that you are looking forward to issuing CPI -linked inflation index ed bonds . Once you
+start doing that can we have some visibility ? Because the last time around the bonds  were
+issued , people created products around inflation index ed bonds , and now the bonds are no
+longer issued . Now if were to issue CPI -linked bonds if you could give us some roadmap as to
+how, certainty about being issued in the future so that we can develop certain products or
+certain business case around inflation index ed bonds provide customers some real hedge
+against inflation and also have a business case for us?
+Dr. Raghuram G. Rajan:  A very good suggestion and we will certainly k eep this in mind.
+Aastha G udwani:
+Birla Sun Life Asset
+Management  Sir, just one question . There are three conditions and in spirit actually four , which have been
+laid out as to the one s which will condition the accommodative monetary policy stance going
+forward . The point is that all these conditions will take at least 6, 9, and 12 and may be longer
+months in terms of shaping up and having their impact . So, do we from this decipher that the
+next policy rate move is actually deferred until that time that these four conditions are met?
+Dr. Raghuram G. Rajan:  I am not sure , when you say these conditions are met , it seems as if you have in mind a
+numerical something that is clear yes or no on each condition . I think t he conditions are
+reflecting the kinds of things that we would like to see movement on . Precisely how much is
+something that we have to look at compositely looking at all what is happening including the
+information that comes in . So I would not ascribe a threshold number to each of the conditions
+and say if this falls below X , no action will be forthcoming . It is a composite big picture that
+we are going to look at . As you put it some of these elements will play out over a longer time
+but announcements can  be made about what is likely to happen and that will also give us a
+sense of the composite picture.
+Aastha G udwani:  Sir, if you would allow just one point there ; so when we are talking of , for example , impact of
+transmissions of the front loaded rate cuts  or the supply response to the inputs such as power
+and land , so the announcements or the intention that these things are about to happen is what
+the RBI is going to look out for before the next action ?
+Dr. Raghuram G. Rajan:  You are trying to get me to be  more precise than I was . I am saying we look at all these
+elements and develop and composite sense . Now obviously , some transmission has to take
+place , but how much and what about the likely sort of prospects of more happening . Those are
+the things we wil l have to gauge in determining when we make our next move . But again , I do
+not want to be more precise than saying these are the elements we need to look at.
+Anjali Verma:
+Phillip Capital  I have two questions . One is when we talk about real interest rates , are we looking at repo as
+the interest rate or should we be looking at the deposit rate ? And second question is although
+we understand that RBI is largely targeting and focused on achieving CPI targets , but is it right
+if we are completely ignoring WPI d isinflation which is underway?
+7
+Dr. Raghuram G. Rajan:  As far as the real interest rate goes , thus far we have been talking about the risk -free real
+interest rate in the Indian context which typically would mean a look forward CPI , something
+like the repo rate minus the look forward CPI . So that would be a good definition or working
+definition for you of what we think is the real interest rate. As far as the WPI goes , clearly , it is
+an issue that it is a number that we look at to in form ourselves of what  is going on , both from
+international forces which have an effect on the WPI as well as corporate pressures because
+often this is a number which indicates to some extent corporate pricing power and corporate
+input cost . So it gives us  a sense of what corporate  see inflation as different from say the
+citizen . So it is an element in our thinking , but our target , if you will , is the CPI , not the WPI.
+Naveen Sharma:
+HDFC Life  I have two questions : One is that on the fiscal consolidation path, we are saying that
+government is on a deleveraging path because it is going on a fiscal consolidation path , on the
+private sector we see m id-private s they are also on a deleveraging path, banks are not able to
+lend big ticket size because they are ca pital cons trained. I am talking about the PSU banks
+which  constitute 70% of the total book, FII limits are not being opened up and whatever
+corporate bond FII limits is there , precisely the money is going to PFCs. So one question
+which I have if at all whe n the economy picks up  who is going to fund this growth?
+Dr. Raghuram G. Rajan:  It is a good question . As the economy picks up , we have to be alert to funding constraints . As
+of now I do  not see them as starkly as you see them , but we will certainly be alert , I think the
+government will also be alert to perhaps capital needs of PSU banks . So let us see , there is
+some room for banks to bring , especially the PSUs that can access markets , to raise capital
+from the markets also , over and above what they can do from the government. For the PSUs
+that do  not have market access , they will have to make the case that they do need capital , and I
+am sure at that point that some capital will be forthcoming from the government . So we are not
+in that position right now but that does  not mean we should  not be thinking about that and
+there is some active discussion going on in the government on how to do these things.
+Naveen Sharma:  Sir one more question was there that on the WPI  and CPI as you ha ve answered , now there is a
+stark difference between the fuel inflation in the WPI it is a (-14%) and CPI it is (+4%) The
+core reason which used to be close to be 0.98, now that is no more there from the last three or
+four readings . So how is RBI looking at it because I think it  is very difficult to get this
+composition of CPI right and the way the data is collected , obviously , the series  is not that old ,
+but is RBI looking at that also or it  is just that headline number and the core number which we
+are go ing by?
+Dr. Michael Patra : The petrol eum that we import is reflected in WPI , but what is reflected in CPI is the fuel that
+households consume , and in the fuel category you will find that its really firewood and
+electricity prices which are determining the evolution of the fuel category. Most of the motor
+fuels that households use are in the transport and communication in the CPI . So that  is the
+difference between the WPI and the CPI and we watch both very closely.
+Srinivas:
+Deutsche Bank  Sir, how does one square up your forecast of inflation at 5.8 % and growth at 7.8% by the end
+of the year in the backdrop of flexible inflation targeting. If you really look at it , if one applies
+8
+basically a monetary policy rule  to your forecast of both inflation and growth , then how does
+one square that up with the stance and the guidance that you have given?
+Dr. Raghuram G. Rajan:  What you basically I think hint ing at is what is our measure of potential growth ? Because that
+is the plug figure which is going to tell you whether it  is consistent with our stance or not ,
+right . I think this is wh at Michael talked about earlier. Of course , we have to admit that we are
+still trying to understand the new CSO numbers and we are somewhat constrained to project
+growth based on the new numbers which we do  not understand as well as we thought we
+understood the old numbers . So that is why it may se em that , as Michael said , determining
+potential growth is not that easy with such a short series of data and that creates a little bit of
+noise . But we feel fairly comfortable with our stance given , I think some of us have old growth
+numbers in mind , other s have new growth numbers in mind , but we feel that to some extent we
+are still slightly below potential.
+Srinivas:  Currently, the investment cycle is not really picking up because the system , that is the banks
+and borrowers , are undergoing a time correcti on, and by a time correction I really mean that
+banks are faced with stressed assets and they need to maintain capital and borrowers need to
+de-lever . So given this backdrop , would it have made sense to cut the CRR , I am giving a
+number say about 100 basis  points , which would have actually helped transmission , not from a
+liquidity perspective , but really from a cost of funds perspective for banks . It could have
+actually compressed this time correction , in some ways this will actually be tantamount to a
+backdoor recapitalization of the banking system and could have complemented the Rs.7,000
+crore that was budgeted and could have actually helped transmission . So is that line of enquiry
+correct , what are you r thoughts?
+Dr. Urjit R. Patel : I think that you are comparing apples and bananas . The issue of the CRR as we discussed in
+the morning , of 50 basis points reduction in the CRR if you have a 10% would have resulted in
+a 2 to 5 basis points reduction in the lending rate. I think the issue of banks not having enough
+projects  coming to them and corporate s being leveraged, in some ways that issue is being
+tackled through the government’s increase in investment  that was announced in the budget. So,
+that is where the investment gap in some ways is being filled up or the cycle is being kick
+started with respect to roads, railways and the power sector.
+Dr. Raghuram G. Rajan : First, I think just endorsing Urjit’s point about CRR cuts, these are miniscule . A 100 basis
+points cut in the CRR would release Rs.80,000 crore permanently into the system, but result in
+barely 7 or 8 basis points cut in lending rates even if they pass it all through and that is not
+clear also from the outset. So, I think we are talkin g orders of magnitude difference from CRR
+and I do not understand why the market has got so enthused about it. I n fact  it is of irrelevance
+at this point as far as the lending rates go. I think the issue about credit that you are talking
+about, I think SBI  chairman today talked a little bit about credit growth picking up in a view
+over and above coal and telecom  which obviously will need credit for the auctions that were
+conducted. So that is a good sign. But, also if you look at CMI E data which came out
+yesterday, it looks like investment is starting to pick up. These are early signs. Should not go to
+town celebrating about it, but stalled projects are coming down, investment intentions are
+picking up and I think that we are starting to see the beginnings o f an investment cycle.
+9
+Finally, what our hope is that we can create enough new avenues of purchasing some of these
+assets or liquefying them ; that highly leveraged players  can deleverage and sell out of some of
+these or bring in more equity so the leverage  comes down that way, but let us see.
+Abhay More :
+Axis Bank  I just wanted  to ask, you have been reducing fixed rate overnight liquidity injection earlier.
+Does it also mean we will be reducing the overnight LAF and if so what will allow us to do
+that?
+Dr. Raghuram G. Rajan:  I do not think any reduction in the overnight LAF is currently  contemplated. It will stay at
+0.25% of NDTL and we want to keep a readily accessible window at a fixed rate. Everything
+else has been moved to the market rate and that was th e intention. With us now providing
+additional liquidity as need be to ensure that the rate is close to the policy rate - the market rate
+is close to the policy rate.
+Harish Agarwal :
+FirstRand Bank  My question is regarding the reverse repo. Since like 2008 -09 we are not operating on a
+reverse repo rate and we understand that the WPI was around 10%. When we are looking at
+CPI and we are comfortably sitting where CPI may come down going forward. Are we looking
+to operate at a reverse repo going forward at any given point of time?
+Dr. Raghuram G. Rajan:  I hope you do not mind in saying this, but this is the second issue that I found a little puzzling
+this time around, first was the CRR, why people got sort of gung -ho about it, and the second is
+this movement to reverse repo. If I were to move to reverse repo today, that means the
+operational rate in the market would move down to 6.5%. You are talking about 100 basis
+points cut in the policy rate. Smell the coffee gu ys! We are not going to cut interest rate by 100
+basis points overnight. So, the policy rate is today at the repo rate of 7.5%. If I want to bring
+that rate down, I will cut the policy rate. And I have given you the conditions under which we
+will cut the p olicy rate. But this whole suggestion of moving to the reverse repo and moving to
+liquidity surplus is , pardon the  expression, just nuts !
+Samiran Chakraborty :
+Standard Chartered
+Bank  Two questions , related: One is on the Monetary Policy Report, the projection of CPI inflation
+for August 2015 is somewhat higher , the midpoint is around 5% but the policy statement sa id
+that it is closer to 4%. I am just wondering whether there is a subjective element that you have
+induced on the model to talk  about the 4% target for August . Second is that if you have built in
+a forecast for about 4% CPI by August, will the number above that surprise you and affect
+your monetary policy decision?
+Dr. Michael Patra : The 4% projection for August really comes out of what we already know. What we know
+today is that there will be base effects right up to August which will allow CPI inflation to ease
+down to 4%. That is what our projection s show. I wonder if you  have separ ate projection show
+that it will come 5%, but most market participants seem to suggest that these favo urable base
+effects will take it down to 4 -4.5% and then it will rise again.
+Samiran Chakraborty : I am just looking at the projection of CPI inflation in the Monetary Policy Report. The
+midpoint does not show 4% for August 2015.
+10
+Dr. Michael Patra : Yes, it does, I think you need to look at it carefully, it is also there in the policy , it is just an
+extension of the policy.
+Shubhada Rao :
+Yes Bank   I was just wanting to seek your comments on  a disconnect between banks and RBI perception
+of comfortable liquidity, because that clearly seems to be hampering the transmission and from
+assessment  we believe that there seems to be a disconnect in what is comfortable liquidity
+from banking system ’s perspective and what is from RBI’s perspective?
+Dr. Raghuram G. Rajan:  You may well be right that there is a disconnect in perception, so let me say what  I think RBI’s
+perception of comfortable liquidity is. We have done away with the windows where you could
+borrow any amount of liquidity at a fixed price . And as a result, certain market players who
+used to finance themselves through our windows are findin g it harder, because now they have
+to go and raise the money in the markets. We have tried to keep the market rate at close to the
+policy rate by injecting sufficient amounts of liquidity. Occasionally, there are spikes, for
+example, on March 31st. But if you look at the volatility around the policy rate it has been
+substantially lower . Of course, it would be zero;  if I give you an unlimited ability to borrow at
+the policy rate, because then you would just go to the window and borrow as much as you
+wanted . But given that we want to stop that and move towards market borrowing by the
+players, I think we have achieved a fair amount of consolidation or narrowness in the
+movement of market rates, they now tend to hug the policy rate. So, we would say there is a
+plenty of liquidity in the market , at least short -term liquidity when we hug the policy rate.
+There is also the aspect of long -term liquidity which is by how much do we increase the size of
+our balance sheet to accommodate credit growth. And there we make a n estimate of what the
+nominal growth of the economy is, how that translates into an expansion in the size of our
+balance sheet and over the year we try and maintain that size of growth of the balance sheet. In
+some years, that is determined primarily by our purchase of government bonds, in some years
+that is determined primarily by our purchase of foreign exchange. And if we do purchase
+substantial amounts of foreign exchange over and beyond what we want to grow the balance
+sheet at, we have to sort of adj ust the size of the balance sheet by selling government bonds, in
+other words, sterilization. That is basically what we do. I think we have been successful at both
+aspects but clearly, people you talk to may think differently.
+Shubhada Rao : Would it be that if there is a certain sense of visibility of liquidity going forward , the medium
+to long -term or a short liquidity, maybe the banking system as a whole would feel more
+confident of lowering the rates?
+Dr. Raghuram G. Rajan:  Ultimately, banks have to t ake a call. This is not their primary source of borrowing  and c annot
+be their primary source of borrowing. Our windows cannot be the primary source  by which the
+financial system finances itself. Now, there have been some murmurs from the banks that
+somebod y puts in money at 5 o’clock at night and they cannot immediately turn around and
+deposit at an adequate rate there. That is a question of management ; we have extended our
+windows for banks to be able to redeploy that money quite a bit. We have accommodate d
+some of these requests, but ultimately the Central bank cannot be the way banks manage their
+liquidity , they have to find other ways including sometimes not taking their clients ’ money or
+giving them an appropriate interest rate if it comes at 7 o’clock at night. So, the short -term
+11
+liquidity management sometimes is a source of friction, but banks have to figure out what is an
+appropriate amount of liquidity they are going to offer their clients and there is always an
+amount of liquidity at which they can perfectly well manage their balance sheets today. I do
+not think that we are going to persuade them to reduce lending rates by offering liquidity in the
+amounts that we possibly can . I mean, we are not going to be able to offer more than 1% of
+NDTL under a ny circumstance through windows. That was what we were doing in the past and
+we brought them down. So to see that as the reason they are not reducing lending rates, seems
+to be beside  the point, it is not the real reason.
+Alpana Killawala:  That is about it  for today’s conference call  of Researchers and Analysts. Thank you very much
+for joining in. Thank you, Governor.
+Dr. Raghuram G. Rajan:  Thank you.
+Moderator:  Thank you. Ladies and Gentlemen, with that we conclude this conference. Thank you for
+joining us. You may now disconnect your lines.

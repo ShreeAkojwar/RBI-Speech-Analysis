@@ -1,0 +1,845 @@
+April 1994 RESERVE BANK OF INDIA BULLETIN
+DEVELOPING THE MONEY AND SECURITIES MARKETS IN
+INDIA+
+C. Rangarajan*
+Overview
+lndia launched a programme of stabilisation
+and structural rcfornls in 1991-92' . The main
+objective is to improve the productivity and ef-
+ficiency of the entire economic system and im-
+par1 greater a,mpetitive and structural flexibility.
+Keforrn of the financial sector (encompassing,
+inter alia, the development of money and
+securities market) constitutes a critical con]-
+ponent of India's program towards economic
+liberalisation.
+2. lndia has long been characterised by a
+dense network of financial institutions. Since in-
+dependence in 1947 an active promotional role
+has been played by the public sector, led by the
+Reserve Bank of India (RBI), in setting up finan-
+cial institutions. Today, in addition to the RBI,
+thc banking network includes commercial and
+coopcralivc banks, and national and State level
+development banks. Non-banking financial in-
+stitutions include insurance companies, unit
+trusts and mutual funds, finance companies and
+stock exchanges.
+3. Thc comn~ercial banking systcm has been
+progressively nationalised over the years, starting
+with the creation of the State Bank of India in
+1955, and the subsequent nationalisat~on of four-
+teen major domestic private banks in 1969. (A
+further six banks were nationalised in 1980).
+Foreign hanks, many of whom have paled in
+India Srom colonial times, were not nationaljsd,
+although there were restrictions on branch
+growth, and on enlry of new foreign banks.
+These restrictions have been rece~~tly eased, and
++ This paper was presented at the Sixth Seminar on Central
+Bulking. at the Intornational Monetary Fund, Washington
+L).C on March 9. 1994.
+* The autlri~r gratdully aclulowledges the help of Suman
+Bery, K. Kmagasabapathy and Udaihir S. Das in the writing
+of this paper.
+I The Indian fiscal year runs from April 1 to March 31. foreign banks today account for approximately
+8% of bank deposits. Life insurance was
+nationalised in 1956 and general insurance in
+1972.
+4. Particularly since 1969 there has been a
+massive expansion in the scalc and gographic
+coverage of the banking systcm. These trends are
+reflected in various aggregate measures. The
+finance ratio (measured as the ratio of total finan-
+cial flows to national income) has risen liom 17
+per cent of GDP in 1965-66 to 43 per cent in
+1991-92. The intermediation ratio (the ratio of
+secondary issues to prin~ary issues) has risen
+from 0.46 to 0.75 over the same period. Equally,
+the M3 to GDP ratio ha$ increased from 25 per
+cent In 1970-7 1 to ahout 50 per cent in 1992-93.
+5. Though extensive, the financial systcm has
+functioned in an environment of finandal repres-
+sion, driven primarily by fiscal compulsions. The
+financial system (especially the banks) were
+directed to provide significant credit support for
+government expenditure (both current and capi-
+tal) as also to such prcfcrral economic sectors
+as small-scale industry, agricullure and the
+wcaker sections of society. Interest rates, though
+generally positive in real terms for dep(~sitors,
+were tightly controlled and tughly differentiated,
+incorporating significant elements of cross-sub-
+sidy. Concurrently, financial institutions have
+faced numerous statutory portfolio restrictions.
+The overall result has been to make the financial
+intermediaries (particularly those under public
+ownership) uncompetitivc.
+6. Monetary and internal debt managemenl
+policy in India, particularly since the late 19fiOs,
+was similarly undermined by excessive
+monetisation of the Central government's fiscal
+deficit by the Central Bank. As a result money
+and government securities markets lost thcir earlier
+vibrancy, and ceased to provide the basis for the 482 RESERVE BANK OF INDIA BULLETIN April 1994
+indirect conduct of monetary policy. The Bank
+rare (the rediscount rate) and open market opera-
+tions lost their effectiveness as policy tools. In-
+stead, cash reserve requirements, administered
+interest rates and credit controls became the
+dominant instruments. There was no level play-
+ing field for market agents, the regulatory system
+enforced the segmentation of markets and a non-
+transparent system inhibited compcti ti ve pricing
+of assets. Exchange controls cnsured considcr-
+able segmenlation between domestic and foreign
+asset markets.
+7. To make the Indian financial system more
+efticient and viable is the major focus of India's
+programme of structural reform in the tinancial
+sector, consistent with the thrust of reforms in
+other arcas. The problems now facing us are
+those 01' (he phasing and sequencing of reform
+nleasures. As a relative late-conicr, India is able
+to benetit from the experience of Latin American
+and Asian economies which had liberdised car-
+lier. Accordingly, I will dcvotc thc bulk of my
+talk to the issues and problems of managing the
+transition to freer financial markets in India.
+focusing on the development of money and
+government securities markets, interest rate
+deregulation and movement towards indirect
+tools of monetary policy.
+The Pre-reform Context
+Fiscal and Monetary Management
+8. In the two decadcs after its founding in
+1935. there was no siglliticant increase in thc
+Reserve Bank's holdings of internal government
+debt. A disZjnct shift occurred in the late sixties
+when stronger central control over credit alloca-
+tion was imposed, seeking to achieve grcater
+congruence betwccn crcdit flows and the pattern
+of pduction in the five-year plans. These trends
+received further impetus after bank nationalisa-
+tion in 1969.
+9. The period, from the early 1970s was also
+charactaised by weakening of fiscal discipline
+leading to a large expansion in the Central government's domestic and foreign borrowing
+requirements. The ratio of the gross fiscal deficit
+to GDP increased from 3.5 per cent in 1970-71
+to 8.4 per cent in 1990-91. Through obligatory
+cash reserve requirements (held at the Central
+hank) and a statutory liquidity ratio (to be met
+through holdings of government and other ap-
+proved securities), the resources of banks came
+to be incorporated into the fiscal allocation
+process, with less emphasis on bank profitability.
+With a view to keeping government borrowing
+costs down, the yields on both Trcasury bills and
+longer-term paper were kept artificially low. This
+limited the demand for government paper to the
+captive market of the banks (and other term
+financial intermediaries. such as insurance com-
+panies and provident funds). Rcsidual financing
+needs of government therchy devolved upon the
+RBI.
+10. Until the overall reform process was in-
+itiated in 1991. the basic goal of' monetary policy
+was to try and neutralisc the impact of the fiscal
+deficits. Simplifying somewhat, with a given tis-
+cal deficit the banking systcm would absorb a
+sir~ablc par1 of the tinancing requirement at low
+interest rates under the statutory liquidity ratio
+(SLR), while the Reserve Bank picked up any
+uncovered portion through the mechanism of cui
+hoc Treasury Bills, which were nor marketable,
+and were no more than a hook-keeping entry is-
+sued on demand instantly to mcct thc
+Government's requirements. Monetary manage-
+ment took the fom~ of compensatory increases
+in the cash reserve ratio (CRR) for banks, con-
+trols on growth of commercial credit (mainly to
+the enterprise sector) and of adjusting ad-
+minislered interest rates.
+I I. Such a mix of policies had deleterious
+long-term effects as large fiscal deficits became
+chronic and continuous escalation of the two
+ratios became necessary. In the early 1970s the
+cash reserve ratio for banks was as low as 3 per-
+cent and the statutory liquidity ratio was 25 per
+cent. By 1991-92 the ratios on incremental
+deposits were 25 per cent for the CRR and 38.5
+per cent for the SLR. At the sarne'time the RBI's April 1994 RESERVE BANK OF INDIA BULLETIN 483
+holdings of Central government debt (i.e. its
+monetisation of the government deficit) bal-
+looned. By 199 1 it was clear that the trajectory
+of growth in government debt was becoming un-
+sustainable, and that a significant improvement
+in the primary deficit was needed.
+12. In the presence of ad hoc- issue of
+Treasury bills, and in the absence of market-
+determined interest ratcs, open market operations
+were not available as a monctary instrument. Thc
+salcs and purchases of govcrnlicnt securities by
+Reserve Bank of' India were therefore used only
+for grooming the market and ensuring a success-
+ful borrowing pn)gramme for tllc government.
+Whlic the Reservc Bank did not buy securities
+for cash, it did however, conduct "switch opera-
+tions" in Central government securities, with a
+view to enabling thc banks and institutions to
+switch over Srolll low-yielding to high-yielding
+securities and to adjust portfolio maturities.
+The Money Market
+13. Thc Indian treasury hill market was rela-
+tively frec upto the early 1060s. Its development
+lhcrcaftcr was retarded by the trends in deficit
+finance clcscribcd above. The hulk of the treasury
+hill issue was of nd /roc- 9 I -day treasury bills,
+lirsl instituted in the 1950s2. The markcted 91-
+(fay bill (whch continued to be issued) also suf-
+tcrcd a decline. While Uis had earlier been sold
+through weekly tenders at market rates, after
+1965 ths was placed on tap at a low, fixed dis-
+count rate, its 11lain selling pnt being that it was
+freely rcdiscountable by the Central bank. Until
+1974. the discount was periodically adjusted to
+changes in the Bank rate, but thcrcafter th~s link
+was seOered, and the discount rate remained at
+a fixed level of 4.6%).
+14. Dealings in the money markct were con-
+fined to a few instruments like overnight call
+money and notice money (14 days). Rates of in-
+terest on such instruments also came to bc tightly
+controlled with ceilings prescribed on all rates.
+2 See Rangarajan C (1993). "Autonomy of Central Banb".
+Reserve Bank of India Bulletin. December 1993. The only money market instrument that operated
+relatively freely outside the regulatory
+framework was the inter-corporate deposit, with
+the administered lending rate of hanks providing
+a market tloor to the instrument.
+Government Securities Market
+15. Apart from treasury bills, Government
+securities in a broad sense include term securities
+of different maturities issued by Central and
+State governments and institutions guaranteed by
+these entities, primarily in such infrastructure
+sectors as power and transport. In India, thcse
+securities are referred to as 'dated' securities.
+They have an initial maturity in excess ot' one
+3 year, and interest is usually payable by coupon- .
+The six, maturity and coupon rates of these is-
+sues have throughout been managed by the
+Reserve Bank of India.
+16. The Government securities market had a
+wide base in the pre- independence period, with
+active secondary trading. With the expansion in
+the borrowing programme for the five-year plans
+in the 1950s and 1960s, banks, insurance com-
+panics and provident finds were statutorily re-
+quired to invest in these securities. The average
+maturity of securities remained fairly long --
+above 20 years -- rcflecting morc the preferences
+of the issuers than those of the investors. The
+combination of a tightly-controlled interest rate
+structure and statutory requirements to hold these
+securities, robbed the secondary market of any
+vibrancy.
+Markets in Transition
+Reform Measures 1985-91
+17. Even within the framework of ad-
+ministered interest rates, attempts were made
+during the second half of the 1980s to inlpart
+some tlexibility to thc money and government
+securities markets. These steps were hased on the
+recommendations of the Committee to Review
+the Working of the Monetary System (the "Chak-
+3 As ~~otcd helow. a zero-coupon insbrument has recently
+been introduced. 484 RESERVE BANK OF INDIA BULLETlN April 1994
+ravarty Committee", 1985) and thc Working
+Group on the Money Market (the "Vaghul Com-
+mittee", 1987). Several important measures
+were taken in this period.
+(i) With a view to encouraging secondary
+market activity, the maximuni coupon rate
+which had heen as low as 6.5 per cent in
+1.977-78 was raised in stages to 11.5 per
+cent in 1985-86. Concurrently, the maxi-
+mum maturity was reduced from 30 ycars
+to 20 years.
+(ii) Most of thc rates in the money market
+(those for call money, notice money, inter-
+hank deposits and hills rediscounting)
+wcre freed in 1989.
+(iii) Non-hank institutions wcre permitted to
+participate in the money market. although
+only as lenders.
+(iv) A number of instrunlcnts were developed
+to provide breadth and dcpth to the money
+market. A 182 - day treasury hill placed
+by auction, not rediscountable with the
+Central hank, was introduced in 1986.
+Certificates of Deposit (CDs), Commercial
+Paper (CPs) and Inter-hank Participations
+(PCs), all cntereci the scene at the initiative
+of the Rcscrvc Bank which frarncd
+guidelines for issuance of these instru-
+ments, suhjcct to ccrtain portfolio ceilings.
+(v) A Discount and Finance House of India
+(DFHI) was set up in 1988 as a Rescrvc
+Bank subsidiary with participation from
+othcr moncy market institutions to
+facilitate smoothcning of short-term li-
+quidity imbalances ant1 to impart greater
+tlexibility to the money market.
+(vi) As discussed more fully later, the term
+structure of interest rates was rationalised,
+reducing the number of adnlinis?ercd rates
+as also realigning short-term and long-
+term rates in the system. Reform Measures: post - 1991
+18. In the first half of 1991 the econaply suf-
+fered an acute balance of payments and inflation
+crisis. A comprehensive package of stabilisation
+and structural reform measures *was initiated in
+mid- 199 1. In the financial sector, the recommen-
+dations of the Committee on the Financial Sys-
+tem (the "Narasimham Committee", November
+I99 1) provided the basis for certain fresh initia-
+ti vcs.
+19. As already noted, part of thb stahilisation
+package involved raising the comined in-
+cremental preemption of resources through the
+SLR and CRR to an unprecedented and unsus-
+tainahlc level of 63.5% of demand and time
+liabilities. While these measures succeeded in
+curhing inflation, it was recognised that the time
+had come to totally reorient the tools of n~onetary
+policy, from dircct controls to indirect intervcn-
+tions. II was clearly recogniscd that such a
+change would he facilitated if government's
+financing needs were moderated, allowing
+govcrnnlent to pay market interest rates on its
+fresh debt. Additionally, greatcr integration of
+the various components of the money and capital
+markets would he needed. A sharp adjustment in
+the tiscal dcficit was made in financial year
+1991-92, from 8.4 per cent of GDP to 6.0 pcr
+cent. Thcrcatter the incremental CRR plus SLR
+was reduced to 45 per cent, and then further to
+39 per cent. Concurrent with these moves. major
+reforms werc introduced in the Government
+securities instruments and markets, discussed
+below.
+Treasury bills
+20. A 364-day treasury bill on an auction
+basis was introduced in April 1992; this replaced
+the previous 182-day bill, and as with its
+predecessor, is not purchased or rediscounted by
+the RBI. This instrument found ready acceptance
+in the market, and by January 1994 had absorbed
+Rs. 150 billion (approximately $ 5 billion at cur-
+rent exchange rates). 'The discount has varied be-
+tween 10.9 and 1 1.4 per cent, reflecting liquidity April 1994 RESERVE BANK OF INDIA BULLETIN
+conditions and market perceptions of yield curve
+evolution. By way of comparison, the annualiscd
+inflation rate during 1993 has ruled at about 8
+per cent.
+21. A 91-day auction treasury hill was intro-
+duced in January 1993 (in addition to the pre-
+existing tap bill), and has also won acceptance
+in the market. Around 30 per cent ot' the ag-
+gregate increasc in 9 I-day Treasury bills over thc
+past year has been in the form of thc auctioned
+bills (the remaining 70 per cent being represented
+by ad hoc bills and tap bills cligible for redis-
+count). The auctioned hills are absorbed almost
+entirely by the market; the rates emerging
+through competitive bids have hecome money
+market reference rates. Since its introduction, the
+discount on thc auctioned 91-day Treasury Bill
+has varied in the range of 7.9 per cent lo 10.3
+per ccnt. Two financial institutions have reccntly
+introduced floating rate contracts linked to
+Treasury Bill rates.
+22. Till 1992, accun~ulaterl RBI holdings of
+(id hoc treasury bills used lo be funded into spc-
+cia1 securities, without any maturity and market
+significance. As against this passive operation,
+funding of 364-day Treasury Bills and 91-day
+auction Treasury Bills was effected in 1993-94.
+converting them into daled securities of tlw and
+two year maturity respectively, at rates attractive
+to the market. These funded securities now fom~
+the basis of an active secondary market.
+Government Dated Secudtks
+f 23. In the casc of government dated securities,
+coupon rates were raised and maturities shor-
+tened to bring these securities closer to market
+terms. In 1991, the ceiling on interest rate on the
+Government securities was 11.5 per cent whle
+the minimum lending rate of banks for large ad-
+vances was as high as 20.0 per cent. There was,
+thus, a need to bring these rates into better align-
+mcnt.The coupon rate for a 10-year maturity was
+raised by as much as 2.75 per cent between 1991 and 1093. The maximum maturity has been
+reduced from 20 years to 10 years. Ttday the
+ceiling on the Government securities interest rate
+is 13.3 per ccnt while the minimum lending rate
+of banks is IS per cent. Thus has been a major
+correction of the earlier interest ratc disparities.
+24. Since April 1992 the entire Central
+government borrowing programme in daled
+securities has been conductetl through auctions.
+This has been a major advance and has evoked
+several l'avourable market responses:
+It has fostered an elastic band of interest
+responsiveness from investors for a range of
+maturities up to 10 ycars. This is an important
+step in the process of "price discovery".
+Second, and related lo the first, despite,
+relaxations in statutory requiremetlts for institu-
+tions to hold government securities, the market
+has absorbed all primary issues. without any
+significant devolvemcnt on Ule Central bank.
+A new treasury culture has developed among
+hanks and institutions. In an environment where
+inexperienced investors exisl side by side with
+sophisticated institutions, the auction system
+within an acindtustered framework has enabled
+development of bidding skills among all tnarket
+agents.
+The yield curve has become more flexible. A
+zero-coupon bond of the Central Government, of
+5-year maturity issued in January 1994 received
+an overwhelming response, shifting the yield
+curve significantly downward.
+Non-captive investors like financial institu-
+tions and private corporate sector arc now show-
+ing much greater keenness in acquiring govern-
+ment securities. Indeed, the accusation some-
+times now made is that yields on Govenunent
+securities are too attractive, and are responsible
+for keeping up the entire level of interest rates.
+In short, this expcricnce provides an example of
+how market grooming combined with yield cwve 486 RESERVE BM OF INDIA BULLETIN April 1994
+flexibility can take place even within an ad-
+ministered structure.
+Repurchase Agreements
+25. Another precursor to active open market
+operations has been the developmenl of the in-
+strument of repurchase agreements (repos) be-
+tween the RBI and the commercial banks. The
+first auction of such repos took place in Decem-
+ber 1992, collateralised by Central govcrnment
+dated securities, rather than Treasury Bills,
+which arc the more usual collateral in more
+developed markets. This choice of collateral was
+mainly detcrrnined by availability of marketable
+stock in the inventory of the RBI. The period of
+the rep) has varied between overnight (at the
+beginning, when the instrument was first intro-
+duced) to 14 days currently, which is the length
+of the reserves make-up period. The objective of
+the rcpo is to even out liquidity within the reser-
+ves make-up fortnight and to rcduce the volatility
+in the call moncy market. So far, the RBI has
+only used repos to drain reservcs from the banks,
+(i.e. to 'sell' from its holdings in exchange for
+cash) and not to supply reserves. Following the
+introduction of the rep) instrument, the volatility
+in call money ratcs has been significantly
+reduced. The rcps have also helpcd in lowering
+Reserve Bank credit to Ccntral government and
+reserve money expansion.
+26. With a view to initiating active debt
+management operations, all functions pertaining
+to internal deht management by Rcscrve Bank
+of India have been entrusted to an inter-discipli-
+nary unit called the Internal Debt Management
+Cell created in October 1992. me objectives are
+to evolve appropriate policies relating to internal
+deht management as a part of the overall
+monetary policy and, in pursuancc of this, b
+manage internal debt operations such as market
+borrowing and open market operations and to
+promote an active and efficient government
+securities market. Open Market Operations
+27. Since April 1992, a new approach has
+been followed by Reserve Bank in its sale/pur-
+chase operations in government securities. The
+switch operations were discontinued as they did
+no1 have any effect on the monetary aggregates.
+In setting its price list, the Reserve Bank now
+responds to market yields more quickly, using
+bidding patterns at its auctions as a guide. Also,
+in contrast to past practice, RBI is now prepared
+to purchaqe ccrtain securities for cash. Depend-
+ing upon the term preferences of the market and
+coupon rates, selective offers are made to the
+market at competitive prices. This has provided
+an instrument of yield curve management even
+in the absence of a primary dealer network.
+Ofher Measures
+28. A number of other measures have becn
+taken since 1991 to Impart greater flexibility to
+money and governtnent securities markets.
+Banks, bank subsidiaries and financial institu-
+tions have becn allowcd to set up money market
+mutual funds, though the response so far is
+lukewarm in the abscnce of an active secondary
+market for money market instruments. As a
+measure of deregulation, sclected financial in-
+stitutions, previously permitted only to lend to
+the call money market, have now been permitted
+to borrow from the short-term inter-bank money
+market for maturities between three and six
+months. Restrictions on issue of commercial
+paper (by blue chip corporations) and certificates
+of deposit (by banks) have been significantly
+relaxed. Serious irregularities in government
+securities transactions had cropped up in early
+1992, following which several regulatory
+guidclines were issued streamlining secondary
+market transactions in government secwi ties. All
+these steps have been designed to accustom
+market agents to greater choice and risk in the
+management of their portfolios, and to provide
+clear signals as to the future evolution of the sys-
+tem. April 1994 RESERVE BANK OF INDIA BULLETIN
+Future Evolution
+29. Our medium-term goals are clear: market-
+determined, interest rates with some concessional
+rates, greater integration of the Indian financial
+system with international flows and reliance on
+indirect methods of monetary control (i.e. policy
+induced adjus tnlents in the Central hank halance
+sheet) as the main mechanism of monetary
+policy. While the steps taken so far have suc-
+ceeded in restoring some vibrancy to the money
+and Government securities markets, there are
+several important measures to he undertaken
+before the markets can be considered free.
+30. The experience of Latin American and
+Asian economies provides some guidance on the
+appropriate preconditions and sequencing for
+successful financial reforms. The most important
+of these are 'sound public finances, a well-
+capitalised banking system, and effective pruden-
+tial regulations and monitoring. All Ulree areas
+arc being addressed as part of our rcforrn
+programme.
+FL.rcal Adjustment
+31. Sustained fiscal adjustment must underpin
+further reforms. In [he absence of creciihle fiscal
+control and price stability, there is some risk that
+interest rate deregulation could result in over-
+shooting and disrupt thc reform process. Thc
+Government of India has committed itself to con-
+tinued reduction in gross fiscal deficit from the
+level of 5.796 reached in 1992-93. Trcnds during
+the financial year 1993-94 have heen somewhat
+worrying, with the (seasonally unadjusted)
+deficit in the first half of the year running at an
+annual ;ate roughly triple the targeted year-end
+level. This reflects revenue shortfalls partly re-
+laM to sluggish industrial activity, and delay in
+sale of equity in public enterprises. There has
+been agreement betkeen the Reserve Bank and
+government that ds incremental deficit should
+not be rnonetised. Accordingly, government has
+resorted to additional borrowing through treasury
+bills and m-coupon bonds at market- related
+rates. Fortunately this unplanned Increase in the borrowing requirement has occmed at a time
+when the domestic market is flush with funds,
+but this is a short-term phenomenon that cannot
+be relied on. Nonetheless, the use of these market
+instruments has meant that the monetised deficit
+can be kept under control.
+Strengthening the Banking System
+32. Interest rate deregulation is also risky if
+the balance- sheets of financial intermediaries,
+particularly commercial hanks are weak, for the
+wcll-known reasons of adverse selection, high
+intermediation costs and illiquidity. A clean-up
+of halance sheets and restoration of profitability
+of the public-sector banks has been at the core
+of our financial sector reform programme. The
+process started with the introduction of new
+norms for asset classification and income recog-
+nition to be applied by the banks to their balance
+sheets for 1992-93, and the concurrent introduc-
+tion of a phased programme for reaching mini-
+mum standards of capital adequacy. The applica-
+tion of more rigomus accounting standards has
+revealed a high lcvel of non-performing assets
+and low levels of capital. Banks are currently
+engaged in increasing provisions, improving
+recovery where this is possible, and raising ad-
+ditional capital, This process of clcan-up is likely
+to take three or four years. Concurrently, we are
+revamping the bank supervision machinery, with
+Lhc establishment of an autonomous Board for
+Financial Supervision under the umbrella of the
+Reserve Bank.
+Towards Interest Rate Liberalisation
+33. To avoid destabilising shifts in portfolios,
+there needs to he parallel deregulation of interest
+rates in the hanking system and in the govern-
+ment securities markets. With regard to banking
+system interest rates, there has been a steady
+process of liberalisation, consistent with the
+needs of monetary policy and the condition of
+the banks. From a situation where varying inter-
+est rates were specified for a variety of end-
+users, currently only two lending rates are
+specified by the RBI for specific credit limits and 488 RESERVE BANK OF INDIA BULLETIN April 1994
+a minimum lending rate is established for all
+borrowers with credit limits above Rs. 2 lakhs
+(approximately $ 6,500). On the deposits side,
+while there is an administered savings deposit
+rate, only a ceiling term deposit rate has heen
+tixed. Banks are required to offer differentiated
+term deposit rates for three differenl maturities.
+34. In mid- 199 1, the most pressing rled was
+stabilisation, which required the administered
+minimum lcnding ralc of banks to be raised to
+20 per cent. As inflationary and balance of pay-
+ments pressures eased, the minimum lending rate
+has bccn brought down to 15 per cent in stages.
+Each downward adjustnlent in lending rate has
+been accompanied by almost equal adjustments
+in deposit rates to protect hank profitability.
+35. This steady process of deregulation has
+helped banks to accustom to better pricing of as-
+sets and liabilities and to the nced to manage
+interest rate risk across their balance sheets. As
+banking system balance sheets and managements
+strengthen and as international influences on
+domestic markets strengthen, these remaining ad-
+ministered stipulations can be removed.
+36. On the general question of the structure
+of intcrest rates, the objective of monetary policy
+will be to reduce the number of interest rates that
+are prescribed by the ccntral monetary zuthority,
+tahng into account the need for certain conces-
+sional rates. Eventually, we are expected to move
+towards a situation in which one of the rates of
+the Reserve Bank would emerge as a 'Reference
+Rate' in relation to which other rates in the
+market may be determined. Interest rate is a vari-
+able which is significantly influenced by Central
+bank actions. As part of monetary policy, the
+monetary authority will have to decide from time
+to time what the behaviour of interest rate should
+be and accordingly use the instruments at its dis- debt. The RBI Aould eventually withdraw fmm
+its role as an underwriter for government
+securities and limit its operations to purchase and
+sale in the secondary market. For this to happen,
+there needs to be development of an appropriate
+systcm of primary dealers in government debt;
+this is discussed below.
+38. Just as important is that the system of ad
+hoc Treasury bills should end, so that all primary
+government funding requirements are met from
+the market, leaving the RBI to operate exclu-
+sively in lhe secondary market, in discharge of
+its monetary policy rcsp~nsibilities. With the in-
+crease in market absorption of various auctioned
+treasury bills and dated sccuritics of Central
+government, I have proposed that the automatic
+accommodation by the Reserve Bank of Central
+government's cash deficit through the
+mechanism of ad hoc treasury bills should be
+phased out by 1996-97. Thereafter, the entire
+Central government borrowing rcquiremcnt
+should be met by market instruments at market
+terms. If, for short-term budgetary management,
+RBl's accommodation is still needed, this shoultl
+be through ways and means advances for short
+periods as in the case of State governments.
+39. A related issuc in moving to freer rates is
+that the current practice of a 'cap rate' setting
+the maximum yield to be offered on government
+securities would need to go. This cap currently
+is applicable to borrowing by Stale governments
+and government- guaranteed institutions insofar
+as their debt is 'placed' at a fixed price. ralher
+than being auctioned. There is no set view as yet
+on how best to make the borrowings of the State
+governments (and that of other institutional bor-
+rowers) markd-determined, as there is a serious
+concern for borrowing rates not to be excessively
+differentiated hetwecn financially stronger and
+weaker States.
+posal.
+Stimulating Primary and Secondary Market
+37. Moving towards fully market-determined Development
+interest rates on government securities requires
+policy evolution and market evolution in both the 40. There are intimate links between the
+primary and secondary markets for government development of the primary and the secondary April 1994 RESERVE BANK OF INDIA BULLETIN
+markets. Trading in liquid secondary markets tivity by other interested parties, the Reserve
+helps to establish a market yield curve and to Bank has proposed to establish a Securities Trad-
+support a network of specialist traders in govern- ing Corporation in India. This institution would
+ment paper, who can be used in the distribution endeavor to play a role of market maker by
+of fresh issues. Deregulation of interest rates providing two-way quotes for government
+should both promote and be facilitated by an ac- securities and public sector bonds. it would ac-
+tive secondary market in government securities. tively buy and sell securities at market brices
+4 1. In well-developed securities markets,
+securities dealers and brokers offer depth and li-
+quidity. A system of primary dealers also helps
+ihe borrowing operations of the Government
+through market making and dealing functions.
+Development of such an institutional structure in
+India will require addressing several problems.
+Though Government securitjes are listed on the
+major stock exchanges of the country, little trade
+is done on these exchanges. Instead, the secon-
+dary market in Government sccuritics remains an
+'over the counter' or 'telephone market'. There
+is also inadequate differentiation between the
+broking and dealing functions. This was partly
+responsible for irregularities in securities trans-
+actions in 1992. As a follow-up, several
+measures have been introduced, redefining the
+role of brokers in Government sccurities trans-
+actions and also improving settlement systems.
+Capital adequacy and other prudential norms for
+brokers are being developed and put in place by
+the Securities and Exchange Board of India.
+42. As far as dealing is concerned, the major
+traders in securities are primarily banks, in-
+surance corporations and Provident Funds. They
+also happen lo be the final investors in Govern-
+ment securities. Furthermore, statutory require-
+ments though reduced, still exist, forcing these
+institutiohs to hold government securities. In this
+environment, it becomes an extremely difficult
+task to designate a sub-set of the group of inves-
+tors as primary dealers. As the ownership of
+government securities gets more broad - based
+and when interest rates get fully deregulated, a
+system of primary dealers could be expected to
+emerge.
+43. To provide immediate Uquidity to govern-
+ment paper and to stimulate market-making ac- providing liquidity and facilitating turnover for
+various maturities. At the same time a National
+Stock Exchange of India Ltd. (NSE) promoted
+by a group of public sector financial institutions,
+is also being set up to tradc in both debt instru-
+ments and equities in a fully automated system.
+The exchange is expected to become operational
+by lid- 1994.
+44. At present, Non-Resident Indian (NRIs-
+individuals, firms with predominant ownership
+by NRIs etc.) are permitted to invest in govern-
+ment securities without restriction. However no
+movc has been made to encourage ownership or
+trading of government securities by foreign in-
+vestors and dealers, even though interest has
+been evinced by these bodies.
+45. When coupon interest payments are made
+to owners of securities, tax is deducted at source
+and a tax deduction certificate is given. As tax
+treatment of different institutions differs and
+some institutions are completely exempt from
+tax, this practice has encouraged what is called
+'voucher trading' around interest payment dates.
+1 have proposed that this practice should be dis-
+continued for development of genuine secondary
+market in government securities.
+46. While we have been successful in im-
+plementing an auction system through the use of
+tenders, there is a time gap between an-
+nouncement, acceptance of bids, payments and
+settlement. Technological improvements should
+make this more time efficient. A lot of educa-
+tional and training effort is also needed before
+putting in. place sophisticated system of auction.
+Overall, the system should become more
+transparent, giving feedback to the market for
+competitive price farmation. The quantum of
+securities issued in auctions should be pre-an- RESERVE BANK OF INDIA BULLETIN April 1994
+nounced and the auction should clcar the market
+through competitive bidding,
+47. The Reserve Bank of India has also taken
+a series of steps to bring about an efficient
+Electronic Clcaring Scttlcrncnt and Depository
+System 41) respcct of Government securities. A
+systcm of delivcry versus payment is being
+developed to reducc the counter-party risk and
+risk of diversion of funds through securities
+transactions. Comn~unication links between dif-
+ferent Public Dcbt Offices in the country arc also
+being strengthened.
+Moving to Indirect Monetary Instruments
+48. An active secondary lnarkct in Govern-
+ment securities and Ihc deregulation of interest
+rates will make possible the strengthening of in-
+direct tools of nionclary control. Most central
+banks conduct open market operations on lhc
+basis of a framework linking an operating target
+like hank reserves, monetary base or primary
+money with the ovcrall liquidity in the systcm
+captured through a monetary indicator. In India,
+for purposes of monetary control, the broad
+money measure M3 has remained the target
+variable and the source of reserve money crca-
+tion (usually the RBI's credit to government)
+was thc operating variable. However, control was
+also exercised through bank credit as an inter-
+mediate target. Thus, cash reserve ratio and
+refinance policies were combined with selective
+credir control, credir targets and administered in-
+terest rates, to acheve the monetary goals.
+49. With the phased implementation of' reduc-
+tion in sttutory liquidity ratio to 25 pcr cent and
+the cash reserve ratio to 10 per cent within a
+period of about 3 years, Reserve Bank has to
+develop other methods fhr regulating ovcrall li-
+quidity in the system. Open market operations
+will emerge as a major tool of monetary conuol.
+What will follow is the management of the
+Central bank balance shcet in terms of domcstic
+and foreign assets. This broader approach to monetary management may give more manoeuv-
+rability and also establish a linkage between
+interest rate management and exchange rate
+management. For example, larger inflows of
+foreign exchange and the Central bank's inter-
+vention to buy up such inflows with a view to
+stabilising the domestic currency rates might
+result in inflationary pressures unless they are
+sterilized through open market operations. Thus.
+thc management of domestic assets and foreign
+exchange &$sets has to be viewed togethcr.
+50. With the emergence of several money
+market inslrumcnts which are close substitutes
+for bank deposits. a set of paramclers like li-
+quidity, total credit, public borrowing require-
+ments, etc. along with one or two broad money
+indicators like M3 will need to be watched con-
+tinually.
+5 1. For the purpose of conducting open
+market operations, the Reserve Bank has LO
+strengthen ils own capacity to estimate and
+project the period to period growth in operating
+targets and use its halancc sheet management to
+regulatc the trajectory of the operating targct.
+Side by side, the impact of' Ccntral bank's inter-
+vention on overall liquidity has to be adequately
+captured so that the efficacy of different instru-
+ments could hc studied before a definite operat-
+ing framework gels validated.
+52. The transition from a controlled to a
+market-driven financial system is complicatcd,
+delicate and risky. It involves simultanccrus and
+coordinated action on a number of fronts. Our
+somewhat deliberate pace on these issues has oc-
+casionally evoked impatience from commen-
+tators. I believe that we have made good progress
+in nurturing a securities market. 1 have no doubt
+that, as reform in the fiscal and financial areas
+proceeds, we will succeed in establishing a firm
+foundation for an efficient debt market and in
+evolving appropriate tools of monetary manage-
+ment to subserve the overall objectives of
+monetary policy.

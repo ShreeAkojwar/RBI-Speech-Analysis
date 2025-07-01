@@ -1,0 +1,286 @@
+1 Governor’s interaction during Mint BFSI Summit & Awards
+2024 on January 11, 2024 (Edited Excerpts)
+Moderator :
+Thank you, Governor . Lots of interesting comments  you made in your speech.
+I would like to start with what you said towards the end,  where you said,  in your
+interaction with some bank CEOs , they had some areas of concern and I
+remember at the time when the RBI had raised the risk weights on unsecured
+loans , you had called it a pre-emptive measure. So, are there any other areas
+which make you a little bit worried and where you will now direct your lens with
+more intensity ?
+Shaktikanta Das:
+Thank you. At the moment , the Indian banking sector remains resilient and
+robust . Even if y ou look at the unsecured consumer loans and some segments
+of personal loans , the numbers that we have before us are not particularly
+alarming. The numbers are within reasonable limits . Even the NPA numbers
+are also within reasonable limits . They have not really significantly gone up. But
+what came to our notice were two or three points . One, as I mentioned in my
+address , there was a kind of exuberance which we saw that was building up
+and kind of a fear of missing out , what they call a FOMO approach also getting
+in. This was one opportunity which everybody thought they w ould capitali se on.
+In this process, what was happening was that every institution, whether it is a
+bank or an  NBFC, has a certain management bandwidth to appraise proposals ,
+to diligently examine a loan application.  Some of them have got model -based
+lending and there are models which automatically generate sanction letters .
+We saw that banks and certain NBFCs , as per our supervisory assessment , did
+not have that kind of bandwidth  of diligence, bandwidth of doing due diligence
+of the loan proposals to justify the kind of loan growth in these sectors that was
+seen. It was very clear that going forward this kind of growth would not be
+sustainable if it is not slightly moderated. So, we clearly smelt, saw and
+anticipated some problems  ahead of us down the road. W e, therefore, acted
+preemptively . Our approach is that , as I said in the last monetary policy , we do
+not wait for the house to catch fire and then act. We would like to see where the fire is likely to  arise and act in time so that there is no fire in the house.
+Moderator:
+But, do you think that over the medium  term, we need to revisit  the whole
+personal lending framework in regulated entities?
+Shaktikanta Das:
+It is for the banks to do it. H ow to do appraisal is not something which the
+regulators should be telling the banks. Each bank  and each NBFC have their 2 internal capabilities. U ltimately, they are collecting depositor money ; they are
+lending from that money. It is their responsibility  to do the appraisal . Our task ,
+from time to time , as the coach or referee, whatever you call  it, this is one area
+where perhaps you need to give a second look.
+This model -based algorithm or model -based lending is one area where
+currently we are looking at.  I have mentioned about it in one of the speeches
+about a month ago also. The robustness of models  is something for the Bank
+Management , Board of Directors , that includes NBFCs also , the audit
+committees or the risk management committees of these financial entities to
+see how robust are the algorithm s and how robust are the models.  The ground
+realitie s keep on changing. W hether your model is falling behind the curve or it
+is in tune with the times and what are the possible risks which the models can
+create?  That is one area which we are closely studying now. But again, our
+expectation is that the management of the banks, the boards of banks an d
+NBFCs should themselves analy se and look at the possible riskiness or the
+possible gaps which are there in their model -based, algorithm -based lending,
+which can lead to a potential crisis.
+Moderator:
+In this area, you had listed the changes in the regulatory architecture and the
+strengthening of the architecture. What other changes can we expect going
+forward ?
+Shaktikanta Das:
+I would not like to announce anything prematurely. Once we are ready with a particular analysis, we immediately issue it.  In most of the cases, we issue it as
+a draft circular and then finali se it. In c ertain situations, it is not possible to issue
+a draft circular. We have to straight away issue the circular. It is situation-
+specific. I would not like to make an announcement prematurely unless we are
+fully convinced that this is something which needs regulatory  intervention.
+Moderator:
+How are you dealing with these  illegal lending apps , sir? You said the
+Government and the RBI are  dealing with it. Are there any details which you
+can share?
+Shaktikanta Das:
+We have collected the list of apps from all lenders regulated by RBI viz., banks
+and NBFCs. The list has been furnished to Department of Financial Services
+and Ministry of Electronics and Information Technology, Government of India.
+It is a long list of the digital lending apps (DLAs) which are engaged by either the the banks/NBFCs themselves or third- party service providers which are
+engaged by them (banks/NBFCs).  3 The responsibility is more for the law enforcement agencies to look at and
+identify illegal apps. RBI does not regulate these apps. Since, we regulate only
+banks and NBFCs, we have cast the responsibility on our regulated entities to
+see that the fair Code of Conduct and fair business practices are adopted by
+their third -party service providers. But the problem is with regard to the illegal
+lending apps.
+Whenever we come across any further problem of illegal lending apps, we bring it to the notice of law enforcement agencies. There is an active engagement
+between the Reserve Bank, the concerned ministries, the Government of India
+and the law enforcement agencies. These coordination meetings are held regularly between these agencies to take appropriate measures against the
+illegal lending apps. There is growing awareness also among the people. We
+have been doing a lot of media campaigns and awareness programmes to sensitise the public not to fall prey to any sort of apparently attractive- looking
+loan or some other offerings.
+Moderator:
+Staying on the subject of FinTechs , you had said that after you have tightened
+regulations ; PE money was still flowing into the industry. But the fact remains
+that regulations are ti ght and many FinTechs  are still not in sight of profitability.
+Does that worry you?
+Shaktikanta Das:
+Somebody who is doing business, it is for him to decide on his investment and
+his tolerance level . Every business , whether it is a financial service sector
+company or it is a manufacturing company or any other real sector company ,
+cannot expect to see profit from day one.
+It is for those fintech companies to identify how much of initial loss or how many
+years of loss they can absor b. It is a question which they should be asking
+themselves. Is the model adopted by them  risky or likely to create loss ? If it is
+something which is loss -making, it is a question which they should answer
+themselves, whether they should travel down that lane and at what speed.
+So far as we are concerned, I would like to say that the digital lending apps, we
+have not done anything. We have only put the responsibility on the bank
+management to ensure that fair practices are followed by their lending apps.
+We have also sensiti sed the bank s through our direct interaction that they must
+also look at these lending algorithms and what you call model -based lending.
+The digital  lending guidelines have been issued after wide consultation. I would
+like to say very clearly that the digital lending guidelines have been well accepted.  4 Look at the FLDG  (First Loss Default Guarantee) . When we issued the digital
+lending guidelines, ther e was a lot of clamo ur that we should also recogni se
+FLDG. At that time, we clearly said that it wa s under examination and we w ould
+consider it. Then we had extensive deliberations and consultations with the
+actual players . The percentage,  which we have prescribed, is something which
+came from their side,  and we examined it,  and we accepted it.
+The fintech sector is growing. It will grow. The fintech sector, fintech lending
+sector, and digital lending sector  will grow, but they need to grow in a
+sustainable manner and that is our emphasis.
+Moderator:
+On a related note, with the success of UPI, there are also some murmurs that it has become a kind of monopoly. T here were some reports that the RBI is
+looking to revive the idea of a new umbrella entity  kind of a competitor to this
+NPCI. Any thoughts on that?
+Shaktikanta Das:
+NPCI is entrusted with our entire payment system and within that, the UPI is now treated as a digital public infrastructure. I t is open to all . Various apps like
+Google Pay, PhonePe , the B HIM app, and any private entity can sort of onboard
+into the UPI system and operate. So, it is a n open kind of platform . They have
+to apply to NPCI and NPCI has to give them the necessary permission and onboard them. S o, UPI has become a digital public infrastructure and UPI
+needs to grow. UPI has become an international model to be emulated by other
+countries. During G20 under India's presidency, there was wide appreciation
+and recognition of the fact that UPI is the l eader in payment systems across the
+world.  Both RBI and NPCI  are in discussion with a number of countries to assist
+them in developing similar payment systems in their country and to integrate
+them  with our UPI . Singapore has already done it. We have alrea dy signed an
+MoU with the Central Bank of the United Arab Emirates. There are a few other
+countries in our region with whom the discussions and the talks are at  various
+advanced stages . We are ready from our side. Once they are ready, we would
+like to integrate.
+UPI is now positioned in a place where it is a public infrastructure,  and it has to
+make its presence felt. So, UPI needs to grow and that is the first aspect I will
+say. I would not look it as a monopoly becaus e it is a kind of thing that anybody
+can come and play with that. It is based on the principle of public -private
+partnership. The success of UPI , in a large measure,  also owes a lot to the
+private sector payment players who have onboarded into UPI . Companies have
+had a major role. We want to position UPI as a digital public infrastructure. It is
+an open platform. It is available to all and that should grow . It is the best system
+in the world and should become a world leader in facilitating similar payment 5 systems in other countries and also help in developing and improving the cross -
+border payments that we have.
+Now, you are referring to the new umbrella entity. We got some proposals.
+There were many applications . Most of the proposals were just a replication of
+what the NPCI was already doing. What we were looking for are  some new
+innovative methods, some new, some innovative, some value addition to our
+payment systems, which we did not see. H aving said that, we will take an  official
+view o n this matter  then we will make the necessary announcements as and
+when we take the official view.
+Moderator:
+Yesterday , the US Securities and Exchange Commission allowed exchange-
+traded funds track ing these cryptocurrencies . So, I would like to know, does this
+give some legitimacy to cryptocurrencies? Now, will this influence regulatory
+thinking across the world? I mean, what is your view?  Shaktikanta Das:
+The US capital market regulators in that same announcement  have also issued
+necessary cautionary advice and if I can say , warning to the investors  to be
+careful, so pointed about the riskiness of the whole thing. T he capital market
+regulator in the US is fully aware of the risks that it poses. Our position, my
+position and RBI’s position on this whole crypto thing remains unc hanged
+irrespective of who does what . Just because somebody is doing something, we
+are not here to emulate them . We will know that especially  for emerging market
+economies and I would say the same would apply to advanced economies also.
+Traveling down that path will create huge risks which,  going forward, will be
+very, very difficult to contain.
+The question arises, why do you need to travel down that road? What is it that
+you get out of it? It is the speculative nature of that product  which enables some
+people to make perhaps big money  for some time, but the majority of people
+are not going to make big money for all time. In fact, the majority of people will
+encounter losses because it is an entirely s peculative product. I do  not wish to
+comment on what another  regulator of another country has done. I would not
+like to comment on that because they know what is best for their country and
+accordingly , they have acted. B ut I would like to  say two things. Firstly, they
+themselves have flagged the riskiness of the products and advised people to
+be very careful. S econdly, I would like to say that we are all familiar with the
+term, the tulip mania in the Netherlands which built up into a big asset bubble
+and then it collapsed. So, I do not think the world and in particular the emerging
+market economies can afford a crypto mania which will lead to similar
+outcomes.
+6 Moderator:
+Governor, can we take a coupl e of questions from the audience please? Please
+keep it short . That gentleman in the front.
+Anirudh Gupta:
+I am Anirudh Gupta. Sir, I have a question on the debt markets . Would the
+addition of ₹1.5 lakh limit which is there under the 80C provision of the Income
+Tax, under the debt funds deepen the debt markets  in your view?
+Shaktikanta Das:
+It is a G overnment tax issue. The budget is expected in less than 20 days. It is
+not fair for me to comment on that in public.
+Neerav:
+Hi. I am Neerav. I have a question around CBDC. Recently , we crossed an
+important milestone in terms of daily transactions, i.e., 1 million odd
+transactions per day. How do you view the road map going ahead in terms of
+CBDC adoption ? How is the use case panning out  for wholesale CBDC?
+Shaktikanta Das:
+In wholesale,  we started with the G -sec segment, both in the secondary market
+as well as in the primary auctions. Now we are moving towards money market
+operations , overnight call money market s. We are trying to ensure CBDC
+utilisation in that area. S lowly we will be adding new segments or new areas
+where CBDC operations we will do.  Let us remember that it  is a pilot project
+and we are in no great hurry because after all we are creating a new currency system,  and we hav e to be very careful about the integrity and the safety of the
+CBDC that we are creating. So, we are being very careful. There is no target
+date as such. We are moving very cautiously , but with the learnings that we are
+getting,  we are trying to utili se and further fine -tune our system. I n the wholesale
+segment , we will be expanding its scope slowly and steadily.
+Coming to retail, there have been many learning s. We are working on the
+possibility of programmability in CBDC, for example, the Government cash
+transfers to farmers or other segments . Whenever there is a direct benefit
+transfer or a cas h transfer, you program it in such a manner that the CBDC
+which is transferred to the wallets of the beneficiary, is utilis ed only for that
+purpose, i.e.,  where the end use is clearly defined by the person who is sending
+the money. T hat is one area where we are working.
+Recently we have made UPI and CBDC interoperable.  You can use your UPI
+payment system , you can use the CBDC wallet also, and you can use the same
+QR code. S lowly , there are many learnings which are coming up. There are few
+countries in the world which are in the pilot mode and there is a lot of interest
+from other countries also in our CBDC system. So, CBDC in times to come  is 7 the future currency system and in particular , CBDC will make cross -border
+payments much faster much more efficient and less expensive.  CBDC,  we are
+using the blockchain. We will go for the di stributed ledger technology ( DLT)
+method.  So, to the critics of th e RBI's view on cryptocurrency , let me say that
+we firmly believe that the technology of blockchain has its merits . It can be used
+and it is already being used by many companies even in India such as  the
+logistics providers , maintenance of land records , the land registration records .
+There are huge opportunities available in blockchain technology per se. B ut the
+technology does not need a product called cryptocurrency to grow. W e are
+using blockchain, for example, in C BDC. We will be using the DLT model also,
+but it  is a huge opportunity and that  is going to be the future currency system
+and we need to be there.
+Neil Borate:
+Sir, this is Neil Borate.  I am a Deputy Editor at Mint. The mutual fund industry 's
+overseas investment limit of US $7 billion has not  been raised by the R BI. All
+funds were stopped from investing fresh money overseas from February 1,
+2022 and in fact, this limit of US$ 7 billion was set in 2008 as far back as that.
+Now US$7 billion is a tiny blip in our Forex reserves of more than US$ 600
+billion . So, what is the RBI's stance on this? Why should this not be raised?
+Shaktikanta Das:
+This request has been coming to us from the mutual fund industry from time to
+time. We have just come out of the pressure on our currency  which we
+witnessed in the aftermath of the  starting of the Ukraine war. From February
+2022 onwards, the R upee exchange rate was under a lot of pressure. Initially ,
+there were a lot of outflows. So, it  is a question of timing. W e do not question
+the basis of their request. It  is a question of the right time for us to do it. We
+have just come out of the stress on the exchange rate of the Rupee. We
+experienced huge outflows. Now things have stabili sed, and the R upee has
+remained very stable. Of course, some people read it wrongly and call it a
+stabilis ed arrangement. But it is not stabili sed. It is market- determined. If
+somebody wishes to call it stabilis ed, so be it.
+In the description of the Indian rupee as a stabi lised arrangement , the
+fundamental strength of the Indian rupee is being missed out . They are, the
+strength of the macroeconomic fundamentals of the Indian economy, the resilience of the Indian financial system , the return of inflows into India, FPI
+inflows in particular . FDI inflows this year are less than what it was last year ,
+but given that the global FDI volumes have gone down, in that , India's share is
+one of the bigger  ones.  So, these are the points which are being missed out.
+Our exchange rate system, our economy today is not what it was a few years
+ago. But that is beside the point.  8 Coming specifically to your question, I  am not questioning the genuineness of
+their demand. It  is a question of timing. When we feel confident  that things are,
+it has to be stable on a durable basis. It is already stable. We will take the call
+at the right time.
+Moderator:
+One last thing I would like to ask.  I do not know whether you would like to
+answer it. Do you expect the pre- election budget to be inflationary?
+Shaktikanta Das:
+No, it will not be. That is one thing I can tell you.  I do not have any insi de
+information about what the Government will do, what the Finance Ministry will
+do on the budget, what the Finance Minister will do on the budget. But, going by the past  track record  and going by the kind of measures the G overnment
+has been taking in recent months  right after the inflation started rising and it hit
+7.8% after the Ukraine war . The Government has been taking several  supply -
+side measures . Particularly in recent weeks and months, a number of supply -
+side measures have been taken. So, what comes out very clearly is that the
+Government  is very particular that inflation should be brought down and there
+is appreciation of the fact that  supply -side measures can be done only by the
+Government.
+The s econd thing is that our fiscal has not fueled inflation in India. Unlike in
+many other countries, where a huge amount of liquidity was injected into the
+system . Even pre-COVID, it was there. B ut during COVID, the kind of huge
+liquidity that was injected is still sitting out there and circulating somewhere.
+The liquidity injection also fueled inflation. In India, that did not happen. From
+the monetary policy side, the liquidity which we gave w as for limited periods
+which have come back to us and we have also been pulling out liquidity. On the fiscal side, the fiscal support that  the G overnment provided during the COVID
+times and thereafter was also targeted,  and it was very calibrated and did not
+fuel inflation. I have talked about it at length outside. So, going by the past track
+record, there is no reason to believe that any announcement s in the budget
+would be inflationary.
+Moderator:
+Thank you S ir. Ladies and gentlemen, Governor Shakt ikanta Das.

@@ -1,0 +1,129 @@
+Address by Governor , Reserve Bank of India
+at the Digital Payments Awareness Week  celebrations,
+March 4, 2024, RBI, Mumbai
+It gives me immense pleasure to be here to celebrate the Digital
+Payments Awareness Week  organised  by the Reserve Bank of India.
+Over the years, we have not only navigated through the fast -evolving
+technological innovations but also played a pivotal role, as a catalyst,
+in developing one of the most modern payme nt systems in the world,
+be they large value, retail or fast payments. This has been made
+possible by nurturing diverse payment systems in the country,
+namely, the bill payments, merchant payments, vendor payments,
+transit payments, or recurring payments.
+2. We have seen retail digital payments in India growing from  162
+crore  transactions in FY2012 -13 to over 14,726 crore transactions in
+2023 -24 (till February 2024)  i.e., approximately 90-fold increase over
+12 years.  Today, India  accounts for  nearly 46% of the world ’s digital
+transactions (as per 2022 data)1. The extraordinary growth in digital
+payments is also evident in the Reserve Bank's Digital Payment
+Index, which has witnessed a four-fold rise in the last  five years.
+3. The flagship of our payment sy stems , the ‘UPI’, has become
+the most talked about fast payment system not only in India but
+across the world . It is the biggest  contributor to the growth of digital
+1 https://pib.gov.in/PressReleasePage.aspx?PRID=1973082
+2
+payments in India.  The share of UPI in digital payments has reached
+close to 80 per cent in 2023.  At a macro level, the volume of UPI
+transactions increased from 43 crore in CY -2017 to 11 ,761 crore in
+CY-2023.  Apart from being a user-friendly  interface and facilitating
+QR code -based  payments , the UPI has evolved  to include advanced
+functionalities such as offline payments through near field
+communication (NFC) technology (UPI Lite X), payments through
+feature phones (UPI  123Pay), AI based conversational payments
+(hello! UPI) , etc.
+4. It is also worth noting that progressively it has taken less time
+for reaching tipping point of next 1000 crore transaction s in UPI .
+While reaching the first 1000 crore UPI P2M transactions , it took
+1668 days (~4.56 years), the latest 1000 crore transactions took just
+45 days. Similarly, for UPI P2P transactions, while reaching the first
+1000 crore UPI P2P transactions took 1329 days (~3.63 years), the
+latest 1000 crore transactions took 65 days  or just over two months2.
+The recent progress of the UPI has thus been enormous. Currently,
+UPI is processing close to 4 2 crore transactions  in a day
+5. There is, however, considerable scope for expanding the use of
+digital payments in India.  Last year, we had embarked on a mission
+to make every person in India a user of digital payments - “Har
+Payment Digital ”. It was aimed at reinforcing the ease and
+convenience of digital payments and thereby facilitate onboarding of
+2 Data analysed till December 31, 2023
+3
+new consumers into the digital fold . Since the start of the mission  in
+March 2023 , the number of new UPI users added has been 6.65
+crore between March 1, 2023 to January 31, 2024. The Reserve
+Bank ’s Payments Infrastructure Development Fund (PIDF) has also
+further aided  this growth, with additional deployment of over 1.2 crore
+digital payment touch points .
+6. Trust in digital payments is built on the pillars of transparency,
+ease of use  and above all, security . Hence, reinforcing the notion of
+safety and security of the system is very important.  With today ’s
+message of – “Digital Payment, Safe Payment ” – “Digital Payment,
+Surakshit Payment ”, we are aiming to create awareness around
+safety and security of Digital Payments . The goal  is to reach out and
+empower every individual with the  knowledge and tools necessary to
+navigate this digital payments landscape with confidence and ease.
+7. Currently, the Reserve Bank, through its regional office s,
+conducts Electronic Banking Awareness and Training (e -BAAT)
+programmes  across the country. The main thrust of e -BAAT
+programme comprises  of:
+i) Awareness about Digital Payment Products ;
+ii) Awareness about Frauds and Risk Mitigation ; and
+iii) Awareness about redress of grievance s.
+8. In addition , the Reserve Bank  conducts 360 -degree,
+multimedia and platform based public awareness campaigns under
+the tag of ‘RBI Says ’ or ‘RBI Kehta Hai ’. Going forward, all the
+4
+regional offices of the Reserve Bank  will start regional  campaign s to
+develop  marketplaces like vegetable markets / mandis  and public
+transport infrastructure like auto/  taxi drivers as digitally enabled
+clusters in their chosen areas .
+9. Historically, the Reserve Bank has been a trendsetter in
+ensuring security of digital payment transactions. We were one of the
+first countri es to fully adopt additional factor of authentication (AFA).
+Since then a host of measures such as EMV3 Chip and PIN based
+cards; transaction alerts; facility to switch on and off and set or modify
+transaction limit s for all types of transactions;  tokenisa tion of cards ;
+restrictions on storage of actual card data ; localisation of  payment s
+data etc., have been implemented to enhance the security of digital
+payment s.
+10. All operators and participants of authorised  payment systems
+are required to do time -bound resolution of failed transactions.
+Failure to do so may lead to payment of compensation to the users.
+Similarly, we have also implemented a web -based payment -related
+fraud reporting solution - Central Payments  Fraud Information
+Registry (CPFIR) for reporting4 of all payments related frauds.
+3 EMV is short for Europay, Mastercard  and Visa: the three companies that created the EMV standard.
+4 All payment -related frauds either reported by the customer to the issuer banks / non -bank
+Prepaid Payment Instrument (PPI) issuers / non -bank Credit Card issuers [together termed
+as Regulated Entities (REs)] or detected by the REs themselves, are required to be reported
+to the CPFIR.
+5
+11. Internet Banking is one of the oldest modes for online merchant
+payment transactions.   It is a preferred channel for payments like
+income tax, insurance premium, mutual fu nd payments, e-
+commerce, etc.  At present, such transactions processed through
+Payment Aggregators (PAs) are not interoperable, i.e., a bank is
+required to separately integrate with each PA of different online
+merchants.  As a result, if a customer wants to  make payment from
+his bank account to a certain merchant, the merchant ’s PA and
+customer ’s bank must have an arrangement. Given the multiple
+number of payment aggregators, it is difficult for each bank to
+integrate with each PA.  Further, due to lack of a  payment system
+and a set of rules for these transactions, there are delays in actual
+receipt of  payments by merchants and  settlement risks.
+12. Keeping in view these bottlenecks,  in our Payments Vision
+2025, we had envisaged an interoperable payment system f or
+internet   banking  transactions . In pursuance of this objective, we
+have given approval for implementing such an interoperable system
+to NPCI Bharat BillPay Ltd (NBBL). We expect the launch of this
+interoperable  payment system for internet banking during the current
+calendar year . The new system will facilitate quicker settlement of
+funds for  merchants.
+13. This measure will further boost the user confidence in Digital
+Payments. As a regulator, we are committed to play our part in India ’s
+journey  in digital payments .  I urge all stakeholders like industry,
+payment system operators, media, digital payment users, and others
+6
+to take up the responsibility of fulfilling the mission of ‘Har Payment
+Digital ’. It is a mission not just for the Reserve Bank  but for the entire
+country.
+Thank You, Namaskar

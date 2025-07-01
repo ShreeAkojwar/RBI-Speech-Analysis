@@ -1,0 +1,250 @@
+Page 1 of 8
+Edited Transcript of Reserve Bank of India ’s Fourth Bi -
+Monthly Monetary Policy Teleconference with Researchers
+and Analysts
+October 4, 2019
+PARTICIPANTS FROM RBI:
+SHRI  SHAKTIKANTA DAS – GOVERNOR , RESERVE BANK OF INDIA
+SHRI N.S.  VISHWANATHAN – DEPUTY GOVERNOR , RESERVE BANK OF INDIA
+SHRI B. P. KANUNGO - DEPUTY GOVERNOR , RESERVE BANK OF INDIA
+SHRI M.K.  JAIN -- DEPUTY GOVERNOR , RESERVE BANK OF INDIA
+DR. MICHAEL D. PATRA – EXECUTIVE DIRECTOR , RESERVE BANK OF INDIA
+SHRI M. RAJESHWAR RAO – EXECUTIVE DIRECTOR , RESERVE BANK OF INDIA
+SHRI  YOGESH DAYAL  – CHIEF GENERAL MANAGER , RESERVE  BANK OF INDIA
+Page 2 of 8 Moderator:  Good Day, Ladies  and Gentlemen . Welcome to the Fourth Bi -Monthly Monetary Policy
+Conference with Researchers and Analysts. As a reminder, all participants' lines will be in the
+listen -only mode, and there will be an opportunity for you to ask questions after the presentation
+concludes.  Should you need assistance during the conference call, please signal an operator by
+pressing '*' then '0' on your touchtone phone. Please note that this conference is being recorded.
+Ladies and gentlemen, I now hand the conference over to Mr. Yogesh Dayal . Thank you and
+over to you.
+Yogesh Dayal:  Thank you, Stanford and good afternoon to all of you and welcome for this teleconference with
+researchers and analysts. The first question is from Mr. Kaushik Das.
+Kaushik Das:
+Deutsche Bank AG
+The recent report on liquidity framework states, “ under the corridor system, build-up of liquidity
+into a large deficit (greater than about 0.25 % to 0.50 % of NDTL ) or surplus, if expected to
+persist, should be offset through appropriate durable liquidity operations. ” While it is understood
+that if liquidity deficit were to increase beyond 0.25-0.5% of NDTL, RBI will infuse liquidity
+through different instruments. But on the surplus side, is the upper tolerance band defined and
+symmetrical . The above statement gives an impression that if liquidity surplus were to also
+increase beyond 0.5% of NDTL on a durable basis, RBI may want to reduce the surplus through
+appropriate liquidity absorption instruments. Or is it the case that the upper tolerance band
+related to surplus liquidity has not been defined yet and can persist above 0.5% of NDTL ?
+Yogesh Dayal:  I will request Executive Director, Shri Rajeshwar Rao to take this question.
+M. Rajeshwar Rao : Thank you, Mr. Das for your question. As you are aware,  the group had  stated that the banking
+liquidity being kept in deficit tolerance surplus mode is a design feature of the liquidity
+management framework. While the report suggests that a corridor system would not be efficient
+while dealing with surplus liquidity, it has recommended that if the financial conditions warrant
+a situation of liquidity surplus , the framework could be used flexibly. The group’s
+recommendation does not specify any level for surplus liquidity under specific financial
+conditions.
+Yogesh Dayal:  Thank you, Rao sir. The next question is from Mr. Dhaval Gada.
+Dhaval Gada:
+DSP Investment Managers
+What is RBI's thought process on allowing one -time restructuring for builder loans given by
+NBFCs and HFCs?  And second, w hat is RBI's vie w on allowing one -time dispensation on
+shareholding guidelines for one of the large private banks which is looking to raise equity capital
+post rise in bad loans and significant fall in share price?
+N.S. Vishwanathan : As for the first question, we have a framework under the June 7, 2019 circular  on restructuring,
+everything shoul d work as per that framework. As far as the second question is concerned, I
+think this is a hypothetical question. So I do not think we will be able to answer that one.   Page 3 of 8 Yogesh Dayal:  Thank you, sir. Next question is from Mr. Amay Sathe.
+Amey Sathe:
+Tata Asset Management
+What are the steps RBI is taking to ensure stability of financial system in the country? How does
+RBI see solvency of some of the housing finance companies?
+Yoge sh Dayal:  I will request Deputy Governor, Shri Jain to take this question please.
+M.K. Jain : RBI makes periodic assessment of risk and vulnerability of the financial system to shocks
+emanating both from domestic and external adverse developments and takes mitigating steps to
+enhance its resilience. Such assessments are published twice a year in the financial stability
+report. The vulnerability arising out of interconnectedness between banks and non-banking
+financial institution also forms part of the assess ment.
+Yogesh Dayal:  Thank you, Jain,  sir. Next question is from Rohan Mandora.
+Rohan Mandora:
+Equirus Securities
+Once a Small Finance Bank (SFB) gets a universal banking license , will the clause of lock -in of
+a minimum promoter shareholding of five years apply again from the date of conversion to
+Universal Bank? Will the SFBs having no other operating entities , that is , Equitas/Ujjivan need
+to have a Non-Operative Financial Holding Company (NOFHC) on conversion to a Universal
+Bank?
+Yogesh Dayal:  I will request Deputy Governor, Shri Vishwanathan to reply.
+N.S. Vishwanathan : The first part of the question is again hypothetical. So we do not want to hazard a guess on that.
+To the seco nd part, there is a very clear framework on this as per the on- tap licensing guidelines
+for universal banks. That will apply to everybody.
+Rohan Mandora:
+Equirus Securities
+What all factors will the RBI consider while deciding whether promoters can complet ely exit
+from SFB after five years from the start of operations?
+N.S. Vishwanathan : It is not possible to state that upfront.
+Rohan Mandora: Equirus Securities
+Post a fraud  at PMC, are there any changes in the annual review process of banks or NBFCs that
+RBI proposes to make? Can you specify the proposed changes? Will that be effective for ongoing
+annual review of financial year 2019? I will request D.G. Shri Jain to take th is.
+Page 4 of 8 M.K. Jain : Governor during his press conference has stated very well on this issue but still I will basically
+give our views. RBI has decided to revamp its regulatory and supervisory structure and creating
+a specialized cadre. Offsite supervision as we ll as analytical vertical is being strengthened, and
+for NBFC supervision also we have str engthened all the core pillars - onsite supervision, offsite,
+market intelligence and statutory auditor  angle .
+Yogesh Dayal:  Thank you, Jain sir. Next question is from  Mr. Ankit Maheshwari .
+Ankit Maheshwari
+Isec PD
+In the financial markets, there is an extreme lack of confidence to lend to below AAA names
+and the liquidity problems faced by such entities could create further stress on financial system,
+impede monetary t ransmission and affect growth. Does the RBI think that it needs to be a lender
+of last resort to address these systemic issues or are traditional policy tools such as rate cuts
+sufficient to address these issues?
+N.S. Vishwanathan : Reserve Bank’s position is that there is adequate liquidity in the system and it is for the lenders
+to take a view on which borrower to give money to and I do not think at this moment we are
+looking at  a liquidity facility for NBFCs .
+Yogesh Dayal:  Thank you, sir. Next question is  from Mr. Mukul Mehta.
+Mukul Mehta
+Individual Investor
+Post implementation of LEF  framework from April 1, 2019 , FX swap market basis has risen
+compared to the money market rate structurally. In last 10- years pre -January 2019, FX swap
+compared with one -year OIS differential between US and India always traded lower with some
+exceptions whereas post change in LEF from April, FX swap never traded below O IS
+differential. This can have impact on businesses who could not tap INR funds or raise at higher
+rate due t o deleveraging happening in the PSU bank space. These corporates (mostly MSME )
+are also unable to raise ECBs due to higher hedging cost. If corporate decides to not hedge its
+obligation, then it may create excessive short position in the system. In such a scenario, whether
+RBI is looking for another FX swap buy/sell window or any measure to bring swap cost lower
+to make hedging affordable and lucra tive so that corporate ( MSME ) clients can tap global
+liquidity till PSU banks are still under deleveraging phas e?
+Yogesh Dayal:  I would request executive director, Shri Rao to take this question please.
+M. Rajeshwar Rao:  Thank you for your question. I think it may not be correct to say that the rise in the FX swap
+market basis is purely driven by the implementation of the LEF framework. The forward
+premiums are driven by demand and supply dynamics among other factors. The long-term FX swap auctions are a liquidity tool and Reserve Bank’s liquidity operations are aimed at managing
+the system liquidity so as to achieve the monetary policy objectives while meeting the
+economy’s demand for reserve money growth. RBI has multiple instruments  at its dispo sal to
+manage durable liquidity in the system which in cludes long-term FX swap auctions . The choice
+of instrument depends upon the prevailing liquidity and market conditions.   Page 5 of 8 Yogesh Dayal:  Thank you, Rao sir. Next question is from Mr. Abhishek Gupta.
+Abhis hek Gupta
+Bloomberg Economics
+One of the biggest risks that I and other market participants see to a sustained growth recovery
+ahead is the possibili ty of a policy misstep by RBI-  similar to last year’s rate hikes when the RBI
+changed its policy stance has  favorable base effect pushed growth higher. We are once again
+likely to see a sharp recovery in second half of fiscal 2020 due to a lower year earlier base. It is
+both a suggestion and a question. Can the MPC consider providing a forward- looking guidance
+on its policy path so as to reduce policy uncertainty?
+Yogesh Dayal:  Thanks. I would request Governor Sir to take this question please.
+Shaktikanta Das : Thank you for your question. I would like to draw your attention to the first para and also the
+penulti mate para of the MPC resolution where we are talking of the accommodative stance and
+I quote from the MPC resolution, “The MPC also decided to continue with an accommodative
+stance as long as it is necessary to revive growth.” Now, again to emphasize, I am  just repeating
+myself, “the MPC also decided to continue with the accommodative stance as long as it is
+necessary to revive growth while ensuring that inflation remains within the target. ” “The MPC
+has noted that while re cent measures announced by the G overnment are likely to help strengthen
+private consumption and spur private investment activity, the continuing slowdown warrants
+intensified efforts to restore the growth momentum. ” Now, this is something which I had also
+said in my statement. Now with inflation expected to remain below the target in the remaining
+period of the current financial year and also in the first quarter of next financial year, that is ,
+2020-2021, there is  policy space to address these growth concerns by reinvigorating domestic
+demand within the flexible inflation targeting mandate. It is in this context that the MPC provided the forward guidance that I mentioned earlier.
+Yogesh Dayal:  Thank you, sir. Next question is from Mr. Nikhil Walech a.
+Nikhil Walecha:
+Sundaram AMC
+Is the RBI planning to introduce mandatory external benchmark rate mechanism for NBFCs and
+HFCs as well ?
+Yogesh Dayal:  I will request Deputy Governor, Shri Vishwanathan to take this question.
+N. S. Vishwanathan:  Thank you for the question. At the outset, please note that currently there is not any inter est rate
+setting framework at all for the NBFCs and HFCs. Therefore, the question of moving over to
+benchmark rate cannot happen without bringing some order there. So, we will have to examine
+in that direction before taking a view on moving them to a benchmark base rate.
+Yogesh Dayal:  Thank you sir. Next question is from Ms. Sangeetha Vivek
+Page 6 of 8 Sangeetha Vivek
+Self employed
+Market seems getting surprises on both NBFC and banking front. Can't RBI in the larger interest
+of market stability and protection of investors, be more proactive and bri ng in PCA/AQR for
+more NBFCs and banks? Once and for all, based on a review, identify the weakest links and
+bring stability to marke t.
+Yogesh Dayal:  I will request Deputy Governor, Shri Vishwanathan to take this question.
+N.S. Vishwanathan : Prompt corrective action framework in particular is trigger-based. They are already put in public
+domain. It is  only when the different triggers  hit that the PCA can be put in place for a particular
+entity. So , we cannot put  an entity under PCA  if it does  not hit the triggers and that could be
+counterproductive . So, I think a question of front -loading PCA is not a  right thing to do.
+Yogesh Dayal:  Thank you, sir. Mr. Arjun Nagarajan has this question.
+Arjun Nagarajan
+Sundaram Asset Management
+What does  the RBI’s research indicate on the numbers of quarters  it takes for rate cut action to
+find traction on t he ground?
+Yogesh Dayal:  I will request Dr. Michael Patra to take this question please.
+Dr. Michael D. Patra : Actually, the RBI has a lot of research on this subject. The latest one is available on our website.
+It is working Paper  No.8 of 2016. And according to that paper,  rate change takes action in two
+quarters and reaches its peak impact on output in three to four quarters and its peak impact on
+inflation in up to eight quarters.
+Yogesh Dayal:  Thank you, sir. Next question is from Rahul Jain.
+Rahul Jain:
+Goldman Sachs
+With NBFCs likely coming under the purview of LCR from April ’20 (draft circular at the stage ),
+what is the possibility of offering them a sustainable line of credit against G -Secs?
+Yogesh Dayal:  I will request Deputy Governor, Shri Vishwanathan to take this question please.
+N.S. Vishwanathan : At this stage, the circular still in draft. Let the final guidelines  be issued . We have not thought
+on this. Incidentally, they  can go for market repos that is already available to them, I do not think
+if they have G -Sec they should only come to this line of credit.
+Rahul Jain:
+Goldman Sachs
+Can RBI provide any update on implementation of holding company structure for existing
+banking entities who have insurance and other subsidiaries underneath?   Page 7 of 8 N.S. Vishwanathan : The current stance continues , which is that the framework that is put out as per the on- tap
+licensing that will apply for the new entit ies, and for the legacy  entities , we are still examining.
+Rahul Jain:
+Goldman Sachs
+A specific private bank has  seen a significant erosion of market cap which has impaired its
+capital raising ability , which could potentially hinder growth and could create a systemic concern
+if LCR depletes or CET -1 goes below regulatory threshold. What are RBI’s thought s on it?
+Yogesh Dayal:  I will request Deputy Governor, Shri Vishwanathan to take this question.
+N.S. Vishwanathan : I think we cannot discuss individual bank’s responses.
+Yogesh Dayal:  Thank you, sir. One question from Mr. Arjun Nagaraj an.
+Arjun Nagarajan
+Sundaram Asset Management
+From t he angle of domestic growth, would the RBI see a synchronous phase  of monet ary policy
+accommodation ahead? W hat is the probability it attaches to renewed fiscal stimulus in advanced
+economies?
+Yogesh Dayal:  So, I will request Governor sir to take this question please.
+Shaktikanta Das : Even at the current juncture, central banks in both advanced and emerging economies are
+increasingly becoming accommodative in their monetary policy stance. Now, as you know, since
+monetary policy has predominantly a domestic orientation, each central bank would assess its
+own initial conditions and outlook in deciding the monetary policy stance and actions. On fiscal stimulus, each country will have to assess the availability of space for policy action. So therefore,
+it will depend on country situations and you cannot say that it will be synchronized or otherwise
+because monetary policy action depends on the domestic situation and domestic orientation and
+fiscal stimulus again will depend on the specific circumstances in that domestic economy
+including how much space they have for further fiscal action.
+Yogesh Dayal:  Thank you, sir. One question from Mr. Gautam Singh.
+Gautam Singh
+Spark Capital
+Do you see a risk of India getting into stagfl ation situation  in next six months where growth
+become s stagnant and inflation rise s sharply due to higher food inflation as the food price cycle
+is turning around globally?
+Yogesh Dayal:  I will request Executive Director, Dr. Michael Patra to take this question please.
+Dr. Michael D. Patra : I would say this is very speculative question. But as far as we are concerned and our latest policy
+resolution is any indication, the baseline projection path in the resolution indicates that growth
+will pick up in the second half of 2019-2020 to a range of 6.6% to 7.2% and inflation remains  Page 8 of 8 below target over the one year forecast horizon. So, the issue of stagfl ation question in our
+situation does not seem to arise.
+Yogesh Dayal:  Thank you, sir. Stanford, we are done from this side. M aybe two or three more questions we can
+accommodate.
+Moderator : Sure, sir. Thank you. Ladies and gentlemen, we will now begin the question-and- answer session.
+The first question is from the line of Nikhil Gupta from Motilal Oswal Securities. Please go
+ahead.
+Nikhil Gupta:  My question is - when we look at either GDP growth or inflation,  base effect has a very important
+role because of which we saw GDP growth slowing to as low as 5% in 1Q and the projections
+of inflation rising in the second half of FY’20,  primarily because there was a food deflation of
+1.5% in the second half last year. So,  in the last two to three years, this base effect has affected
+both GDP growth and inflation. I just want to understand if the RBI looks at these numbers
+adjusted for the base effect and if yes, what is your assessment of the actual GDP growth and inflation?
+Dr. Michael D. Patra : Hi, Nikhil. You know we just do not look at year- on-year growth rates which are affected by the
+base effect, year -on-year growth rate can be dec omposed into base effect  and momentum and
+we measure momentum in several ways like you do too. So that provides an indication of growth rates adjusted for base effect as you call it. As far as our headline numbers are concerned, they are out there in the policy and we go by them.
+Moderator : Thank you. The next question is from the line of Kaushik Das from Deutsche Bank. Please go
+ahead.
+Kaushik Das:  My question this one is related to growth. You have reduced the forecast to 6.1% from 6.9% and
+we have had th is corporate tax cut announcement before you revise d this forecast. So, does this
+6.1% have some element of calculation of how much fiscal multiplier or impulse it has on that
+6.1%-odd? The other way to look at it is if this corporate tax announcement did not happen,
+would you have forecasted growth to be on the lower side than 6.1%?
+Dr. Michael D. Patra:  As Governor mentioned in the press conference, we go by the G overnment’s recent
+announcement that the fiscal deficit will be kept unchanged from budgetary targets. And
+therefore, the question of an additional fiscal stimulus or anything like that does not factor in our
+projections . It is just that we take into account the compositiona l change in expenditure by the
+Government that is announced and that will influence our growth projections .
+Yogesh Dayal:  Stanford, I think we are running short of time. We will wind up here.
+Moderator : Sure, thank you, sir. Ladies and gentlemen, with that we conclude today’s conference. Thank
+you for joining us and you may now disconnect your lines.

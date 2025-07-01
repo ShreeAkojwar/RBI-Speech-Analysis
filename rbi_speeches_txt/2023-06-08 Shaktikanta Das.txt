@@ -1,0 +1,370 @@
+Page 1 of 11
+“Reserve Bank of India Post Policy Conference Call for
+Researchers and Analysts”
+August 6 , 2014
+PARTICIPANTS FROM RBI:
+DR. RAGHURAM G. RAJAN – GOVERNOR
+SHRI H. R. KHAN – DEPUTY GOVERNOR
+DR. URJIT PATEL – DEPUTY GOVERNOR
+SHRI R GANDHI  –DEPUTY  GOVERNOR
+SHRI  S. S. MUNDRA –DEPUTY  GOVERNOR
+SHRI DEEPAK MOHANTY , EXECUTIVE DIRECTOR
+MODERATOR : ALPANA KILLAWALA – PRINCIPAL CHIEF  GENERAL MANAGER   Reserve Bank of India
+August 6, 2014
+Page 2 of 11 Moderator : Ladies and Gentlemen , good day and welcome to the Reserve Bank of India Post Policy
+Conference Call for Researchers and Analysts . As a reminder , all participant lines will be in the
+listen -only mode. There will be an opportunity for you to ask questions after the presentation
+concludes. Should you need assistance during the conference , please signal an operator by
+pressing ‘*’ then ‘0’ on your touchtone telephone. Please note that this conference is being
+recorded. I now hand the conference over to Ms. Alpana Killawala. Thank you , and over to
+you, Ma’am.
+Alpana Killawala : Thank you , Inba and good morning to everyone in this Post Policy Teleconference for
+Researchers and Analysts . The Governor along with all the Deputy Governors and Executive
+Directors is here.  I will straightaway go to the questions.  We have received th ese in advance on
+the net .
+Kaushik Das :                       Kaushik Das , Deutsche Bank . How many months does it take for a 25 bps cut to trans mit into
+the real economy , in RBI ’s view ?
+Dr. Urjit R. Patel : Our work  indicates that the transmission lags are of the order of 3 to 4 quarters , and it  is a bit
+faster on the inflation side and possibly a bit slower on the real side depending on where we are
+in the interest rate cycle , but these things need not be constant a ll the time but as reported in our
+work a fair number of times , this is of the order of three to four quarters , give or take.
+Kaushik Das:  Does RBI consider  unsterili sed FX intervention as a tool to improve domestic liquidity?”
+Dr. Raghuram  Rajan : I do not think so , I do not think we manage liquidity through the foreign exchange markets ,
+sometimes there may be situations where we can temporarily take advantage of any
+interventions we have undertaken to alter the liquidity position take delivery or postpone
+delivery given the liquidity situation but it  is not a long -term or a tool which we rely on , it is
+more an opportunistic tool that sometimes comes into play.
+Naveen Sharma : Naveen Sharma , HDFC Life Insurance Company . Governor in July 2013 , while assuming the
+office you mentioned that RBI would look to find new buyers for Indian sovereign bonds so
+that it can reduce banks ’ SLR. However , RBI seems reluctant to increase FII limits in G-Sec
+and it seems talks on pushing Indian bonds ’ inclusion in benchmark ind ices have not moved
+forward . There is some contradiction, request you to please help us understand this .
+Dr. Raghuram Rajan : No, I think the assumption in the question is th at only new buyers will be foreign institution s or
+investors . We have other sources  of buying for government bonds , and I think as the Indian
+markets develop more domestic institutionary investors  – pension funds, insurance companies  –
+will start looking at redeploying more of their funds in India n bond markets. We have to
+facilitate the  way for Indian retail investors also to get in . Furthermore , I think when we look at  Reserve Bank of India
+August 6, 2014
+Page 3 of 11 some of the actions we have taken such as these SLR cuts , people assume automatically that
+when we cut SLR , banks will no longer be clients for government bonds , and that  is not
+necessarily true . It essentially gives them the flexibility of choice when that choice has to be
+made . But I think for the foreseeable future we will probably see some excess investment in
+SLR. So whatever we  are doing is in a measured way , we are interested in foreign institutional
+investors coming into the markets . I had for example , discussions with long -term investors,
+government investment companies over the last few days who are starting to see some interest
+in government bond markets , and we are open to an increased presence . But when we are
+talking about external debt , we have to be careful about the pace at which we do it and what
+maturities and so on. We I think at this point are fairly comfortable with the fact that there is
+room in the G-Sec market for more investment fr om foreign investors, we are also comfortable
+with the maturity at which they are coming in incrementally , it is at the 3 -year plus range and
+that is a pretty decent level for us to be at . And going forward if those limits fill up , we will
+certainly examine the possibility of increasing it . We are not in any way against changing it ; we
+just are doing it at a better pace. Finally , we are exploring the possibility of trying to get various
+systems like Euro clear or Clearstream engaged in India. The important issue we have to
+consider is whether liquidity stays in India or goes somewhere else , and in order to facilitate the
+deepening of the bond markets in India , we are looking for finding ways that trading occurs in
+India rather  than elsewhere.
+Gautam Singh : Gautam Singh , Spark Capital . The expectations that Fed  could raise interest rates sooner than
+expected led to  around  2% depreciation in the rupee in last one month . Assuming inflationary
+pressures continue to ease more than t he RBI’s expectations what would be your s tance  on the
+monetary polic y when  the Fed actually starts raising the rates? How would the Fed’s rates
+tightening cycle impact the RBI’s monetary policy decisions?
+Dr. Raghuram Rajan : This is what one would call a really hypothetical question because I think Fed raising rates is
+still someway off and the Fed keeps insisting every time when  the question is directly put - that
+its further off than you think. Nevertheless, i t is a legitimate question in the sense that w ould
+we be driven by interest differentials with other countries in determining the domestic interest
+rate. My sense is that for the most part we would be driven by domestic conditions rather than
+external conditions in determining the interest rate . Which  is precisely why we are fighting
+very hard to build inflation credibility, because I think once you get some inflation credibility it
+gives you a certain amount of flexibility in focusing on domestic conditions rather than trying
+to act kneejerk towards e xternal developments.  So a combination of macro -stabili sation of
+which inflation credibility is an important component , I think will give us much more room as
+and when the Fed tightening happens. You want to add to something , Urjit?
+Dr. Urjit R. Patel:  Only to paraphrase what the Governor said yesterday , that it  is very difficult to predict the
+outcomes of what the Fed actions will be . If you recall that when taper talk first started , US  Reserve Bank of India
+August 6, 2014
+Page 4 of 11 rates were 30 to 40 basis points higher than what they are now and the y continue to be at the
+rates that they are now which is 30 to 40 basis points lower even after the talk on the interest
+rate hike has gathered some momentum . So it is difficult to predict how much of what has been
+said by the Fed and what the data says , has already been brought into the information set of the
+players on the bond markets . And therefore I think it  is not very constructive to speculate on
+what we would do if and when these things happen.
+Bekxy Kuriakose : Bekxy Kuriakose , Principal Mutual Fund . What is the RBI’s thought process  in announcing
+multiple price led G-Sec auctions recently ? Does this indicate discomfort with current rates of
+on-the-run securit ies?
+Dr. Raghuram Rajan : I think this is one situation where too much is being read into a m ove. Let me explain what
+happened . Before the volatility we experienced last year , the RBI was on a multiple price
+auction system , and there was a feeling here when the volatility occurred that perhaps investors
+may be more comfortable with the uniform pri ce even though that may lead to perhaps more
+muted participation and it may also allow to some extent a less efficient , from our perspective ,
+auction outcome . So we moved to that. Now , there is a lot of debate on which system is better
+multiple price or un iform price . And across the world you have some central banks on the
+uniform price , some central banks on the multiple price . The feeling here was that we could go
+to uniform price while the volatility was on , and as the volatility has come down we have be en
+moving back to many of the pre -volatility measures we had . So, for example on the foreign
+outflows we took a step to move back towards what we had earlier , which is allowing
+households to send out more money than they could in a period of volatility . So we have been
+reversing many of these measures and this was one of the measures we reversed. There has
+been a lot read into this , because it accompanied the new bonds that came in  - the 10 -year
+bonds . So I do  not think you should read too much into it . We are just going back to a system
+we had before the volatility ; that was a system that was preferred here. Of course , the legitimate
+question is which system is really better , which helps us create a more liquid market , which
+helps investors invest more effe ctively ? And as I said the world is split on this , we have to do is
+more research domestically to look at which system is better and that research is ongoing . So
+next time we make a shift we will make sure if it occurs , and I am not saying it is going to
+occur, but if our research indicates some great advantage to one system or the other , we will
+make sure that we communicate it much more widely before any such shift happens.
+Bekxy Kuriakose : The credit -deposit data as per the Reserve Bank’s  Weekly  Statisti cal Supplement released for
+the period ended July  11, 2014 shows a significant pick -up in deposits and fall in outstanding
+credit . Given this, isn’t the SLR cut again within a span of two months premature?”
+Dr. Raghuram Rajan : Let me take the piece on the SLR cut and then ask Urjit to take the question on pick up in
+deposits and the fall in outstanding credits. First , people say on the one hand your SLR cut is  Reserve Bank of India
+August 6, 2014
+Page 5 of 11 not going to have much effect because credit pick up is still very dormant, banks are  not going
+to use the space to make loans and that  is certainly true given the stage we are at. On the other
+hand , they say “Oh! The SLR cut will large effects in the bond markets .” The two statements
+do not go together. If banks are not going to increase credit they a re going to stay with their
+current allocations to the bond markets and this will have limited effect . In fact that is our belief
+that at this time when credit is relatively muted we are not creating too much volatility in any
+market , either in the credit market or in the bond markets by doing some of these SLR cuts .
+And that gives banks the ability to anticipate ,  gives the bond markets the ability to anticipate as
+and when credit picks up , and therefore price movements would be somewhat smoother than
+they would be  if we  did this in the middle of heavy credit season. Now that said I do  not think
+the implication you should take away from this is its going to be 50 basis points every
+monetary policy meeting . These were two cuts we made because we thought the re was room,
+going forward we will investigate the conditions in both , the credit markets as well as the bond
+markets and make appropriate decisions at that point. The broader longer term  and  by long
+term I am talking about 5 -year program , is that we shou ld reduce the amount of preemptions
+we have in the system including SLR and make a more effective priority sector lending
+process . We have a committee looking at priority sector lending to make it more effective , but
+these are necessary changes in the syst em and should  not be seen as tied to the monetary cycle.
+Urjit.
+Dr. Urjit R. Patel : Just to add one bit on the SLR cut I think that we concentrate a  fair bit on the aggregate SLR
+holding by the banking system . But the changes in the SLR also help or help t he banks that are
+at 23% much more , and therefore if those banks need the elbow room to lend more , then they
+have that all elbow room . While your observation on the SLR holdings at the aggregate level is
+correct , so actually it  is not a policy cut that eff ects the entire banking system in the same way .
+The banks that have the elbow room and have the demand for credit will obviously benefit , that
+is part of the motivation. Credit depends on demand and the fortnightly numbers are fairly
+volatile, the year -on-year is still lower , and what we are doing is creating the enabling
+conditions so that supply is not a constraint when credit picks up as we envisage . Firstly , as we
+move towards the busier end of the fiscal year in this regard  and secondly as some of the supply
+constraints and the government conditionalities and clearances come through for the larger
+projects , we are hopeful that credit will pick up then.
+A. Prasanna : A. Prasanna , ICICI Securities . My question is on RBI’s balance sheet and G -Sec holdings .
+Does the RBI have a policy regarding the reinvestment of maturing G-Secs in its portfolio , and
+will such policy be placed in the public  domain ? More generally , is the RBI contemplating
+providing more information about the comp osition  of its G-Sec holding s?
+Dr. Raghuram Rajan : Let me ask Mr. Khan to answer this.   Reserve Bank of India
+August 6, 2014
+Page 6 of 11 Shri H.  R. Khan : Policy of reinvesting the maturing G-Sec per se,  the G-Secs we are holding , whenever we do
+OMO operations , and th e OMO operations are linked with our liquidity assessment . So there i s
+no such policy as I mentioned. On the s econd question, we do publish how much is the G-Sec
+and how is the oil bond so that composition is available in our balance sheet , so that breakup is
+available.
+A. Prasanna : My second question is on the H TM classifi cation;  currently the H TM limit is higher than SLR
+by 2% . Over the medium -term does the RBI intend to bridge this gap or is there a preference
+for maintaining higher ceiling  on H TM compared to SLR requirements?
+Shri H. R. Khan:  As we mentioned we had la id out a roadmap last time  of reducing the H TM proportion  in a
+phased manner.  But immediately after that last year we had huge  volatility in the market so we
+had to put a pause to that . So again since we have found some stability and we need to further
+improv e the liquidity in the market , we have started moving the process . But in what  exact
+measured pace we will do , will depend on how th ings pan out.
+Dr. Raghuram Rajan : Absolutely , I think the message to take away from these moves is not that it  is part of a steady
+every policy meeting measure . It is more that when there are opportunities to reduce some of
+these constraints , I would emphasi se on the banking system and allow for a freer market , we
+will take them , but there is no predetermined path in any which way.
+M. J. Raghavan : M. J. Raghavan , SBI Life Insurance . Why did the RBI l eave out the words of J une policy
+document, “ On the other hand if disinflation , adjusting for base effect s,  is faster than currently
+anticipated , it will provide headroom for easing  of policy stance ” from the August policy
+statement ? So is it that the RBI will react to a faster than expected disinflation in a different
+way now as compared to what it felt in June 2014?”
+Dr. Raghuram Rajan : No, I do not think so , I think the reason we left it out is the statement seems to have been
+misinterpreted by the market. Let me read out the first part of that statement in June, “If the
+economy stays on this course further policy tightening will not be warranted .” That is if it stays
+on the course  we wo uld no t tighten , but if it does not stay on the course we will tighten . I think
+that is how you read that first sentence. Second sentence is if it disinflates faster we will be
+more accommodative , if it does  not disinflate faster we will not be more accommodative. I
+think it was a two -way statement which was conditional on developments on inflation. The
+market seems to have misinterpreted it first as a n unbalanced statement because it thought the
+second phrase was more pointed than the first phrase . And I can see how that misunderstanding
+and I have to emphasi se, it was some players in the market rather than the market uniformly
+because a number of players understood what we were saying . But some player s seem to think
+that it meant a bias , and there wa s no intent of bias , it was a conditional statement and
+conditionalities can happen on both sides. We thought that we were on the path which we still
+reiterate . So in that sense the policy statement has not and the policy actions that are intended  Reserve Bank of India
+August 6, 2014
+Page 7 of 11 conditio nal on developments have not changed since June. I think what is different in this
+policy statement is that we are closer to the end of the year and therefore we have also
+emphasi sed that we have to be thinking about the next phase of the target which is r eaching
+6%. But in our willingness to be acting on either side depending on developments - that has not
+changed.
+Siddhartha Bhotika : Siddhartha Bhotika  from Aviva Life Insurance . When we talk about upside risk,  the 6% CPI
+target for Jan 2016 , would it not be fair to construe that policy rates need to be higher (at
+current assessment , that is ) to ensure those risks are roughly balanced ? Is the repo rate
+endogenous or exogenous when we make these  fan chart  projections ?
+Dr. Raghuram  Rajan : Let me ask Urjit to  answer.
+Dr. Urjit R. Patel : If you look at the 6% CPI target rate , at the moment we feel that where we are is in line with
+the glide path that has been guiding our policy since January . But of course as the policy also
+makes clear , that the incoming data over the next few months , correcting for base effects and
+other seasonalities will inform the policies going forward . And that  is why both the previous
+policy statement and this one has emphasi sed the balance of risk s on both sides of that number.
+Samiran Chakraborty : Samiran Chakraborty , Standard Chartered Bank . Are you comfortable with the flat /inverted
+yield curve continuing for a prolonged period ? If not, how do you plan to normali se it?
+Dr. Raghuram Rajan : Our ability to act on the long end of the mar ket is very , very limited . All we can do is ensure
+that there is adequate liquidity , adequate demand /supply or whatever . But really we cannot
+really move prices at the long end . What we can do of course is at the short end through the
+policy rate . So the y ield curve is going to be what it is and I do  not think we are going to act
+actively on creating a yield curve . It does of course reflect a variety of issues including demand
+and supply , including the path of developments in the economy and the anticipated  policy
+reaction that will happen when that path evolves . So I think we are not going to try and affect
+that. Of course central banks in western countries where there is a certain amount of inflation
+credibility have tried to guide that through forward gui dance and perhaps quantitative easing . I
+suspect that the effect is more limited than most people conclude .
+Saugata Bhattacharya : Saugata Bhattacharya , Axis Bank . India is hopefully entering into a growth upcycle . Rarely has
+monetary policy been eased , particularly rates cut,  during such a phase . What combination of
+inflation, growth, currency , and financial savings might allow policy easing in the month
+ahead , if indication s are that CPI inflation might sustain around 6% ? Will there even be a need
+for easi ng?
+Dr. Raghuram Rajan : Our first objective is to ensure that the economy disinflates according to the path that we have
+laid out . If we believe that the path of disinflation will be faster than what we have laid out ,  Reserve Bank of India
+August 6, 2014
+Page 8 of 11 certainly , there is a room for easing.  We laid out this path because we thought it is something
+that we can achieve and consistent with reasonable rates of growth. If the economy shows signs
+of doing it faster , there is no reason why we should  not be in a position to cut rates in order to
+may be have somewhat faster growth , again consistent with the targets we have laid out. On the
+other hand , if things look much tougher on the inflationary front , we are prepared to raise rates ,
+if need be. Now , as I said again , it is a two -way statement . Our sense is the risks are balanced ,
+but we have to see because it depends on a number of issues which are uncertain at this point ,
+for example , the monsoon, for example , the government actions ,  a number of which have been
+promised , some have been undertaken . So a number of things have to happen . And of course
+every economy is a complex animal , and we have to see how it behaves.
+Kumar Rachapudi:  Kumar Rachapudi , ANZ Bank . To help us estimate the total systematic liquidity deficit , would
+it be possible to give a n estimate of governm ent cash balances with the RBI?
+Shri H. R.  Khan : On Government cash balances we have been in discussion with government whether they can
+release the figure . But as of now they have some reservations about releasing the figures , so
+that is the constraint . But we are in discussion with government about auctioning the ir balances .
+So if and when that happens that will give an indication how much balance they are giving . But
+the other important point here is that we are in dialogue with gove rnment to see that there is
+some information available to RBI on a real -time basis about how the balances are fluctuating
+so that we can modulate our liquidity management.
+Dr. Raghuram Rajan : Let me also add at this point that on liquidity management , we h ave said in the policy that we
+would review liquidity management , and the idea is that we will examine some of the reasons
+for volatility , and our intention is not to foster more volatility . Some of it is unavoidable ,
+because of fluctuations in balances an d demand for cash , but we have to try and smooth that
+process . Our intent is to keep the call money rate close to the policy rate , and we will come out
+very shortly with any measures that we think might be necessary to further this process, we are
+examinin g what is required.
+Dr. Urjit R. Patel : Something that we had mentioned at the press conference yesterday also , that call market
+volumes have actually come down by about 40% and therefore when you have a thin market
+you are going to have some volatility . Therefore, I think if you look at some of the other
+attributes that affect this market . For example , if we have a weighted average call rate or we
+look at the term repo auction spread , the utili sation of LAF and ECR to required reserves , the
+number of banks  that are participating in this - I think that whole gamut needs to be looked at to
+determine the condition of liquidity in this market , where volumes are now lower by  Rs.16,000
+to Rs.10,000 crore.
+Alpana Killawala : Would you like to take some direct questi ons Sir?   Reserve Bank of India
+August 6, 2014
+Page 9 of 11 Dr. Raghuram  Rajan : We can take a couple of questions if anybody has questions after these that we have answered.
+Moderator : Ladies and Gentlemen , if you wish to ask a question at this time you may press ‘*’ and ‘1’ on
+your touchtone telephone. Our first question is from Srinivas V aradarajan of Deutsche Bank.
+Please go ahead.
+Srinivas V aradarajan : Sir, just two questions . In your inflation targeting framework what element of the central
+bank’s reaction function is driven by a monetary policy rul e like a Taylor  rule and what
+proportion of it would actually be discretionary? The second question really relates to the
+household inflation expectations survey that you released yesterday . If one looks at these
+numbers , the 3-month forward expectations h ave actually gone up to about 14% and the 1 -year
+is at about 15% . Now if the economy actually begins to disinflat e as you envisage but if
+inflation expectations continue to be sticky , and they have  been sticky and rising for the last 4 -
+years , and if they c ontinue to exhibit that behavior in the back drop of labile food and primary
+article prices , how would the reaction function actually change?
+Dr. Raghuram  Rajan : The first, while we have a glide path in mind, I would not say we are currently in an inflati on
+targeting framework, but we have many of the elements in place. That said, I think we do look
+at what kind of policy would be consistent with a Taylor  rule. But remember,  Taylor  rule is just
+an empirical statement based on behaviour  of some other centra l banks, and we cannot be
+guided solely by that at this point. There are structural forces changing in the Indian economy,
+there are shock s which would not exist in other economies. So while it is a mistake often to say
+that the Indian economy is so genero us on this, we have to be a little careful that we do not
+simply take experiences elsewhere and translate immediately. But, we are working with
+models . We are trying to see what would be appropriate interest rates given the kind of
+sensitivity of the econo my to interest rates in the past , of course  the economy itself is changing .
+So this is not - here is what the model says, here is where we have to go kind of proce ss at this
+point. Over time, we hope to move towards a more analytical model -driven process, but we are
+not there yet. The economy has disinflated considerably if you look at headline inflation since
+November. Too early to claim victory by any means, we are not claiming any kind of victory ,
+but there is a process of disinflation. That has not show n up as yet in inflationary expectations
+in a significant way .And of course, one could argue that people still believe expectations are
+really high or we could say that maybe we have to be a little careful about what the surveys tell
+us. I would say that p erhaps being careful about what the surveys tell us is perhaps where we
+should be. When we look at the surveys we find a significant number of people expect inflation
+to be above 16%, we do not even tally…there are some which is 30, 40, there are people wh o
+are talking about hyperinflation in India , when you look at th is survey. I would guess that many
+of them are not really looking at the overall experience, but looking at salient products –
+tomatoes   go up by 40 -50-60% in the current season, and they extr apolate that to all the goods
+that they buy. So we have to be a little careful about looking at the level of these surveys . I  Reserve Bank of India
+August 6, 2014
+Page 10 of 11 would feel more comfortable with the change in the surveys as an indication that we are having
+some effect . There is some minor re duction, but not enough to feel confident about. So, I think
+there is some way to go for the disinflationary process to go into these expectations. But, I
+think our policy would be more driven by actual inflation than by these survey inflationary
+expectati ons. Of course, expectations as evidenced or embedded in bond yields might be
+something that we would also pay attention to, but I would not take the level of thes e surveys
+as Gospel truth.
+Moderator : Thank you. The next question is from Chintan Mehta of P ramerica Mutual Fund. Please go
+ahead.
+Chintan Mehta : In one of your recent policies, you had talked about making available that export refinance
+money partially between export refinance and productive sectors. But, since then there has been
+only one speci al 28-day term repo . So sir, just wanted the outlook on that particular parameter?
+Dr. Raghuram Rajan:  We did the 28-day term repo, and then when that matured there was a huge amount of liquidity
+being released into the economy, because of government spend ing. So we worried about
+renewing that amount once again for a similar period and seeing the economy overly flooded
+with liquidity and then the next day having to do reverse repos. So, this goes back to the point I
+made earlier that perhaps we have to look  into the maturity of these repos, the frequency with
+which we do them and ensure that we manage that auction ed liquidity a little better in
+streamlining that process. Keeping in mind as Dr. Patel said that if you look at more measures
+things are not as ba dly off as if you just look at fluctuations in the call rate. But that said, I
+think there is scope for improvement, we are looking at these things, let us see what we can do.
+The idea of course of the Urjit Patel Committee Report was to move away from win dows
+where you have assured access to auction liquidity . I think we are going to make sure that the
+auction liquidity is available in a smooth way.
+Moderator : Thank you. The next question is from Sriram Ramanathan of L&T Mutual Fund. Please go
+ahead.
+Srira m Ramanathan : One or two things related to the Urjit Patel Committee Report and how a lot of things have
+been implemented. A couple of things that seem  still to be in the pipeline; one of the things that
+was mentioned is the move towards using the 14 -day t erm repo as the overnight policy rate
+given its superiority. So just wanted to understand where we stand on the transition? Second
+thing is in terms of just a real rate part of it and how that is linked to financial savings, and how
+much of a factor that i s going to become from a medium -term perspective to determine where
+the appropriate policy stands? Third and a very quick one was in terms of the GBI-EM index
+inclusion which has been talked about a lot. Anything at all that the market can take in terms of
+any fresh thoughts on that front?   Reserve Bank of India
+August 6, 2014
+Page 11 of 11 Dr. Raghuram Rajan:  Let me start with the first question when will the term repo what we are looking at in terms of
+the effectiveness of policy. I think we need more frequent term auction than we have right now,
+because t he 14 -day is driven by a whole lot of factors including fluctuations in liquidity during
+that period . So we have to be careful about taking a one 14 -day auction as evidenced over the
+whole period. I think if we go towards more frequent term repos, then we will be able to make
+a call, especially that market becomes more liquid than the call money market as a measure of
+the conditions in the money market. Real rate, if you take the deposit rate as around 9%, and
+you take year -on-year inflation at about 7.5% , 7.3% was last month, we are into positive real
+rates and these real rates are certainly on par if not better with deposit real rates across the
+world. So, we are getting there in terms of real rates. We should see stronger deposit growth on
+a sustained ba sis. Let us see. I think we are getting to that point. On the inclusion in the
+emerging market index, we are still in talks, those have not been abandoned . But I think the
+indices want for the most part a complete elimination of limits on government securi ties
+holdings by international investors, and I think until we see through the process of unwinding
+of this quantitative easing as well as the beginning of the interest rate tightening cycle, it would
+be premature for us to completely abandon all limits . We have said repeatedly, we will expand
+the limits as and when they get filled . We did this again just recently, and we are prepared to
+look at them as and when they get near being filled. But to completely abandon them at this
+stage I think would be irresponsible. If there are indices that want to include us with the
+promise that we will expand as and when necessary we are happy to have a discussion . We are
+still in discussion with some, but this is the main stumbling block. In the meantime, however,
+we are  also discussing with Euroclear for example . And this is a statement made by the Finance
+Minister in his budget speech, and to the extent that we can open up access to foreign
+institutional investors and through these mechanisms, I think that maybe more im mediate step ,
+given the limitations that indices have or given the requirements that indices have.
+Alpana Killawala : So that is it, Inba from our side. Thank you, Governor and the Deputy Governors and
+Executives, and thank you all participants for joining us. Good day.
+Moderator : Thank you. Ladies and Gentlemen, on behalf of Reserve Bank of India that concludes this
+conference. Thank you for joining us. You may now disconnect your lines.

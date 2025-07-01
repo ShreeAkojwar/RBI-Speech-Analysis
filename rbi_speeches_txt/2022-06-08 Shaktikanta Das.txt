@@ -1,0 +1,417 @@
+Edited Transcript of Reserve Bank of India’s Monetary Policy Press
+Conference:  December 08, 2021
+Participants from RBI:
+Shri Shaktikanta Das –  Governor, Reserve Bank of India
+Shri M. K. Jain –  Deputy Governor, Reserve Bank of India
+Dr. Michael D. Patra – Deputy Governor , Reserve Bank of India
+Shri M. Rajeshwar Rao – Deputy Governor, Reserve Bank of India
+Shri T. Rabi Sankar –  Deputy Governor , Reserve Bank of India
+Shri Yogesh Dayal –  Chief General Manager, Reserve Bank of India  (moderat or)
+Shaktikanta Das:
+Good morning everyone. Welcome to this press conference. I would request Shri
+Yogesh Dayal from RBI to conduct the proceedings. Please go ahead.
+Yogesh Dayal:
+Thank you Sir. Welcome to Reserve Bank’s post Monetary Policy Press Conference,
+which we are doing virtually, and hopefully maybe not for long. Today we have with us Hon’ble Governor, RBI, Shri Shaktikanta Das, respected Deputy Governors Shri M. K. Jain, D r. M. D. Patra, Shri M. Rajeshwar Rao and Shri T. Rabi Sankar, representing
+the Top Management of Reserve Bank of India. S ir, just to give a brief background,
+we have 30 media colleagues who have joined in the press conference. I'll call out their names one by one and they will be asking the questions and with your permission, we are going ahead with the questions. Thank you. So first, I'll invite Mr. M Govardhan
+Rangan from ET to ask his question please.
+M.Govardhan Rangan, Economic Times:
+Hello Sir, you m aintained the status quo on policy , as expected by the market.  And
+you also mentioned that you want to look at the durability of the economic recovery.
+So, the growth forecast for the first quarter of next fiscal is 17.2% a nd for the second
+quarter it is 7.8% . So, what is the metric that w ould convey to you that the economic
+recovery is beyond zero, so that you could act ? Thank you.  Shaktikanta Das:
+As I have pointed out in my statement, activit ies in various segments of the economy
+have crossed their pre pandemic levels, but in certain key components like private
+investment, private consumption and a few other sectors , which are very critical for
+the growth of GDP , we are still lagging behind the pre -pandemic levels. The economy
+is facing several headwinds today , emanating from mostly international factors in
+terms of financial market volatility , in terms the world utility in crude prices , in terms of
+supply side bottlenecks, like container shortages, shipping charges and the shortages of key inputs, semiconductors and several other important components. T here are
+headwinds, that also has to be factored in. And then we have this surge in infection in
+many European and other advanced economics. The latest entrant adding to these
+uncertaint ies is the Omicron variant of COVID -19. Therefore, in this background, the
+MPC ju dged that it is better to be cautious and caution is a better option at the current
+stage. So far as India is concerned, as I mentioned,  economic activity in a few critical
+sectors are still below the pre- pandemic levels. So,  that is how broadly I would explain.
+Yogesh Dayal:
+Thank you S ir. I'll invite Mr. Anup Roy  from Business Standard to ask his question.
+Anup Roy, Business Standard:
+Thank you S ir. I am trying to understand that with so much of liquidity due to
+extraordinary measures taken by the RBI, you still didn't introduce the Standing
+Deposit Facility, you are actually doing it through V RRR . So the SDF as an instrument,
+will it e ver be used as a liquidity tool? I mean, if not now, then when? S ir, may we know
+what is your reservation around it? Thank you, sir.
+Shaktikanta Das:
+I would r equest Deputy Governor, Dr. Michael Patra to take that question.
+Michael D. Patra:
+Thank you Governor. To the question, I will say that the SDF will be used when it is
+needed. At the current time, the Reserve Bank has several instruments in its arsenal
+and we have chosen to use those which are time tested and are  market friendly , such
+as auctions.  Now, the SDF will not involve the exchange of collateral . At the current time when people deposit money at the reverse repo, they get collateral in the form of
+government securities . That will not be available in the SDF. To that extent, there might
+be a reluctance on market participants to engage at that time. Therefore, we chose
+the time -tested market friendly approaches.
+Yogesh Dayal:
+Thank you Sir. I'll invite Ms . Latha Venkatesh representing CNBC TV 18 to ask her
+question.
+Latha Venkatesh, CNBC TV18:
+Sir, you have said that come January, all the excess money will be absorbed largely
+through the 14 day variable reverse repo. Now, it is possible that banks may still want
+to keep money for overnight purposes in the fixed rate reverse repo that will be cleared
+through one-day, three- day or some other kind of variable rate reverse repo. I s that in
+your game plan? A nd if you can enlighten us a little about this payment discussion
+paper ? As it is , we don't pay anything on UPI . So, if you want all the money to come
+through variable rate reverse repo, you will have to introduce either a one- day or a
+three- day VRRR. I s that the game plan? O therwise banks will continue to put some
+money in the fixed rate reverse repo. Then what is the game plan to clear out
+everything towards the 14th  day? Secondly , on payments what is in the discussion
+paper ? Will merchants not  be not charged anything at all ?
+Shaktikanta Das:
+Okay, there are two questions. So, I would request DG Michael Patra  to take the first
+part and Deputy Governor  Rabi Sankar to address the second part relating to the
+discussion paper on payment charges.
+Dr. Michael D. Patra:
+Thank you Governor. Let me clarify that zero amounts under the fixed rate reverse repo is neither necessary nor sufficient. We are just looking at securing a reasonable control over the liquidity overhang. And we are not conditioned by any specific amount under the fixed rate reverse repo. So, our rebalancing of liquidity is  actually yielding
+the same result that you would get by the fixed rate revers e repo action. Because the
+weighted average reverse repo rate is already at 3.80% . So, as I said in the path of rebalancing, the fixed rate reverse repo falling to zero is not at all a consideration.
+Thank you.
+Shaktikanta Das:
+Let me go to DG Rabi Sankar , to reply to the next part of the question.
+T. Rabi Sankar:
+Thank you for asking that question. T he proposal is that we will study all charges and
+fees that pervade the payment space. W e will look at the incidents  of all stakeholders .
+The idea is to float a discussion paper, get the feedback from all stakeholders, then
+take a view on the fees. So, I would request that have patience until the paper comes
+out. Thank you.
+Yogesh Dayal:
+Thank you Sir. I will move on to Madam Mythili Bhusnurmath from ET Now.
+Mythili Bhusnurmath, ET Now:
+Good afternoon Governor and t hank you Yogesh as well . Governor, you say that
+managing a durable, strong and inclusive recovery is your mission. So my question
+really is, is inclusive recovery best achieved in pursuit of a K -shaped  recovery, or lower
+inflation? Given that inflation rather than growth is what m onetary policy is best suited
+for. I'm talking about inclusive growth.
+Shaktikanta Das:
+I think I answered a similar question from you the last time. So this time I would request
+Deputy Governor  Michael P atra to  take that question.
+Michael D. Patra:
+Even the anchoring of inflation around a certain target is important for inclusive growth.
+There is  a lot of research to show how monetary policy and financial inclusion for
+instance, find complementarities. And one of them is that monetary policy needs to choose the correct metric for inflation. And the choice of the headline CPI is actually
+inclusion friendly  inflation policy.  Yogesh Dayal:
+Thank you Sirs. I will move on to Mr. Anirban Nag from Bloomberg , request  him to ask
+his question.
+Anirban Nag, Bloomberg:
+Good afternoon Governor, congratulations on your second term. I had a quick question
+for you Governor , in reference to your paragraph 16 where you said the objective is to
+re-establish the 14 day V RRR as the main liquidity management operation tool. And
+forgive me if you've already replied to that . Can you clarify if the fixed rate  repo will still
+be held? T he overnight one especially , after this 14 -day VRRR s hift? Thank you.
+Shaktikanta Das:
+As the D eputy Governor just mentioned, no,  we are not  looking at a situation where
+there will be no overnight fixed rate repo. That we are not looking at. But  it is a part of
+our liquidity management framework , which was released last year in February 2020
+where we had very clearly stated that our main instrument for liquidity management will be the 14- day. And  as you can see, we are doing longer term VRRRs  also,  and
+from time to time we have been doing fine tuning operations. Ba sically the effort is that
+we get a control we control the liquidity , which is floating around in the market. So,
+therefore, to manage whatever is left out , we have been doing fine tuning operations
+of 7-days from time to time . In between we did fine tuning operations of 3 -days , 4-days
+like that and in this statement also I have said that while 14- day VRRR will be the main
+instrument, it will be complemented by longer term VRRR auctions and by fine tuning
+operations also. T he key point is that the auction route will be our major approach from
+1
+st January  2022 onwards.
+Yogesh Dayal:
+Thank you Sir. I'll move on to Ms. Ira Dugal from Bloomberg Quint. I request  her to
+ask a question.
+Ira Dugal, Bloomberg Quint:
+Good afternoon Sir. My question is on inflation. W orld over now, one is coming around
+to the view that transitory inflation was more wishful thinking. In India too,  all the way
+into the second half of next year, we are predicting 5% headline inflation. Core  inflation is at near 6% , even when we are saying that there is slack in the economy and the
+pass-through of input cost pressures is not complete. I'm just trying to understand,
+whether there is a little bit of  underestimation of the inflationary pressures . I
+understand that the data may not be suggesting a turn in policy, but the central bank
+is not even calibrating the possibility of a turn in policy at this point in time, which
+seems a little bit ultra- dovish, if I can just  say that.
+Shaktikanta Das:
+I will ask Dr. Patra  to reply to that. But before that, let me add two pieces of my wisdom
+for whatever it is worth. Now, I would like to say that it would be unfair to compare Indian econom y, Indian inflation dynamics to what  is prevailing in the most advanced
+econom y, that is, the United States . What is the United States ’ inflation target, and
+where they are, see the gap between their target and where they are. In case of other
+advanced economies also see where it is their target and where they are. So far as India is concer ned, our target is 4% plus minus 2 , but if you take 4% as the median
+target, in the  last two prints we were at  2.5. And we are projecting that in Q 4 this year,
+it will go up and thereafter for two successive quarters  it is at 5%. So, therefore, we
+are full y mindful and I have said i n my statement that we are fully aware and conscious
+and cognizant of the requirement to maintain price stability together with financial
+stability . We are looking at a composite set of factors as a central bank, which is a
+inflation targeting central bank ; but which has got several other responsibilities , the
+major responsibility being to ensure financial stability, we look at a whole lot of other things, and in which of course, inflation targeting is a very important component. And thereafter, we have taken a decision and we feel that we are very much in sync with the evolving growth inflation dynamics, how it is playing out. Dr. Michael Patra may
+probably wish to add something.
+Ira Dugal:
+On core inflation S ir, in particular.
+Dr. Michael D. Patra:
+Thank you Governor . Ira, before starting to answer, I just wanted to say that the debate
+between transitory and permanent is by no means settled. You know, the current
+research suggest that there is a team permanent and a team transitory . And the transitory school keeps saying that, it is just the incidence of several shocks one after
+another that is giving it a persistent character, but the individual shocks themselves
+are actually transitory. In fact, there are now a lot of reports saying that port congestion
+is unclogging and containers are getting available, so that the much dreaded supply chain bottlenecks etc . are slowly unwinding. And the sense one gets is that there is
+what is called a bullwhip effect, that today's shortages will  become the surpluses of
+tomorrow. You know, when finished goods inventory is build up in countries , and at
+that time when finished goods inventories are led on to the market , there will be very,
+very little new orders and,  therefore,  low growth and low inflation because there will
+be very big pricing power  too. Now  coming to your question,  as G overnor very clearly
+explained,  monetary policy is for the medium term, not for instant reactions. And over
+the medium term, as we have set out  in our projections, we see a peak in the fourth
+quarter of this year, and then inflation trending down. And if you look at our projections in conjunction with the monetary policy report, we are going to look at inflation in the range of 4  to 4.3% by the end of 2022 -23. So, I think, the reaction to inflation always
+involves a sacrifice of growth. And so,  one must not shoot from the holster, they keep
+saying. W hen you see the inflation hump in sight and the progress of inflation towards
+the target in view, I  think , it gives us the space to address concerns about growth,
+which as governor pointed out, is still very weak and needs policy support from all
+sides . Thank you.
+Yogesh Dayal:
+Thank you S irs. I'll move on to Mr. Bijoy Idicheriah from Informist Media, please go
+ahead.
+Bijoy Idicheriah, Informist Media:
+Thank you for taking my question. S ir, in the last two policy  press meets you have
+been very distinct in saying that the liquidity rebalancing should not be seen as policy
+normalisation. But considering that the whole operative rates, everything seems to be moving on towards the 4% mark, in closer and closer to the repo rate, it increasingly starts looking like there is a move to try and take the market to a level where they are comfortable. And then when the move actually happens, everybody will be comfortable with it. Is that a fair read and did the fact that there  are global spill -over concerns and
+core CPI concerns that weigh on the MPC decision today? Shaktikanta Das:
+This is  your interpretation. And,  I would not like to validate or not validate your
+interpretation. I mean, I leave it to the various analysts like you to make your own
+interpretation. So for as R BI is concerned, whatever I have said in my statement, I
+stick to that. And you're free to interpret it the way you want. And what is it that you
+asked about retail inflation?
+Bijoy Idicheriah:
+Sir, I  was asking about core CPI and global spill -overs for the MPC decision.  I was
+asking whether those were factors that came up because you mentioned core CPI in
+detail this time. And global spill -overs also has come up as a as a point of discussion
+because policy normalisation is playing out in other parts of the of the of the world. So how detailed were the discussions that actually played out on this? And did that also
+influence how the MPC was thinking?
+Shaktikanta Das:
+We had quite a bit of discussion on core inflation, even in my statement, as well as the
+MPC statement, which has been already placed in the public domain, it is  there in the
+RBI website, we have recognised that code inflation is a policy concern. So,  there was
+a discussion in the MPC about cor e inflation remaining elevated for quite some time.
+And with regard to the global spill -overs, the international markets today or the global
+mark ets are turning increasingly volatile to the extent that it varies from day to day . On
+one day, the Omicron prospects look grim , the next day, people say it's not so grim.
+It's rather benign. So the international markets, global markets are volatile. And t he
+US Fed is  probably looking at a faster taper than other countries. But the on the other
+hand, the ECB has given a completely different narrative, and we are extremely
+watchful, but whatever it is, we have over a period of time, over the last couple of
+years, built up our buffers . We have strengthened our macro financial stability
+parameters, whether you look at the banking sector or the non- banking sector or you
+look at the overall fiscal deficit numbers . The fiscal defici t has gone up to 6.8, but then
+it's not the way people were initially fearing it to be. And this is something which I
+mentioned it in the second paragraph of my statement, that the overall macro financial stability parameter s so far as India is concerned, they look, reasonably well in th e current context . They  look good, and we have built up adequate buffers to deal with
+any possible g lobal spill- over effect and the possible consequences therefrom .
+Yogesh Dayal:
+Thank you sir. I'll move on to Mr. K . Ramk umar from the Hindu Business Line.
+K. Ramkumar, The Hindu Business Line:
+Good afternoon S ir. I wanted to know why is the cash intensity in the econom y so high
+despite a sharp rise in digital transactions and the related question is, why deposit
+flows in the banking system are so volatile ? Up one fortnight and down the next
+fortnight. Thank you.
+Shaktikanta Das:
+For the fi rst part of the question, I will request DG Rab i Sankar to take it and the second
+part Deputy Governor M. K. Jain can take.
+T. Rabi Sankar:
+Thank you Sir. As you know , currency has demand as medium of exchange, as store
+of value. While as  medium of exchange in terms of payments, there has been a great
+progress in in digital payments, cash also continues to be a major instrument used for
+very small value transactions. In  fact, if you had seen in a speech I had given some
+time back , an overwhelming portion of transactions below the size of rupees 500 are
+still done in  cash. So, there is demand even for transaction demand for cash. Plus of
+course, there is a store of value demand for cash.  I presume these two together
+contribute to the to the growth in currency in circulation, which is probably what you
+had in mind. I hope that answers your question. Thank you.
+M. K. Jain:
+Thank you, Governor.  We have also seen the fortnight ly volatility in the deposits of all
+the banks . We are studying and analysing it with regard to its reasons .
+Yogesh Dayal:
+Thank you sirs. I will move on to Mr. Mayur  Shetty from the Times of India. Please go
+ahead.  Mayur Shetty, The Times of India:
+Thank you Yogesh ji. Good afternoon G overnor. My question is on the surplus liquidity
+and its impact on lending. There are comments  from banks  and they continue to be
+there that the surplus liquidity is  causing a rise in credit r isk. I wanted to know whether
+that is a matter of concern for RBI. And also another clarification I needed on the digital
+payments like the RBI ’s digital payment index has gone up substantially in the last
+three years from the base year by  almost three times.  So, is the discussion paper
+going to go beyond the adoption? The parameters that the digital payment index
+measures?
+Shaktikanta Das:
+DG Raj eshwar Rao can take the first part of the question. Thereafter M. K. Jain c an
+take the second part of the question relating to the digital index.
+M. Rajeshwar Rao:
+The issue of mispricing of risk on account of surplus liquidity, I think that may not be a
+correct inference in the sense that the pricing of the risks is that decision taken by the
+bankers themselves based on their perception of the credit ratings of the individual
+borrower s. So , I think the pricing would be factoring in the risk profile of the borrowers
+and then a decision would be taken thereafter. Well, surplus would certainly lead to lowering of costs f or the banks to reprice their resources, but I think the pricing of the
+risk will depend on the risk profile of the borrowers concerned.
+M. K. Jain:
+Sir, on the second part, digital index, I will request DG Rabi Sankar to respond.
+T. Rabi Sankar:
+You are right that the digital index has gone up,  nearly three- fold. But I presume you're
+referring to the discussion paper that we talked about here. T hat discussion paper
+would focus on charges and the incidence on various stakeholders. So, I hope that
+clarifie s. If you had something else in mind, I'd be happy to clarify.
+Mayur Shetty:
+Thanks Sir. So, the objective is to increase the penetration or to make it more viable
+for players ?
+T. Rabi Sankar:
+I think both of them are pretty much the same thing. T he more viable it becomes , the
+better the penetration would be.  Reserve Bank ’s objective has been to popularise and
+increase the use of digital payments. C harges are an important component of it, so we
+decided to review that.  Thank you.
+Yogesh Dayal:
+Thank you sirs. Now I would like to invite Shri Neeraj Bajpai from CNBC Awaaz to ask
+his question.
+Neeraj Bajpai, CNBC Awaaz:
+Thank you Yogesh ji, thank you Governor Sir. My question is that the policy has been
+accommodative for quite some time now. Despite this the credit growth, especially in
+the corporate sector  has not been so encouraging. The demand is also not picking up,
+which is a pre- requisite for the economy to grow. Wanted to know your views on this
+aspect.
+Shaktikanta Das:
+The question was not fully audible and clear. However, I will answer from whatever sense I could make of it. I understand your query emanates from the latest data on credit growth that has come out. We have mentioned about this in the MPC statement also that the credit growth presently is at 7%. This is low for the Indian economy, but I would like to move your attention towards the flow of credit. The credit flow is on outstanding credit, and if you notice, there has been considerable improvement in the flow of resources to the commercial sector. Whether it is bank credit or market related
+credit instruments, such as, debentures, commercial papers and ECB (in last year) there has been improvement in flow of credit to the commercial sector. And flow of bank c redit itself has shown progress. As regards corporate sector, because there
+were liquidity surplus conditions and the borrowing rates were tuned to the policy rates
+of RBI and stared falling in tandem with policy rates, in that situation, large and medium corporates raised a lot of money from the market and good amount of deleveraging
+has happened, by repaying high cost bank deposits and replacing them with low cost borrowings from the market. All this taken together culminates in the present position. As y ou mentioned, demand pick -up is still awaited, it needs to go up, private
+investment has to pick -up. The demand growth that we expect is still not happening.
+There was the first wave of COVID, then the second wave, then Omicron variant, so, there is still uncertainty in the outlook. Based on our interactions with corporates, I can say anecdotally that they still have surplus capacity and they are in wait and watch mode. Once they utilise their capacity and move ahead, credit growth will improve.
+Thank you.
+Yogesh Dayal:
+Thank you Governor. Now I invite Ms. Swat i Khandelwal from Zee Business.
+Swati Khandelwal, Zee Business:
+Thank you Governor. Sir, on the usual debate on growth versus inflation, in your opinion, what should be the priority for India? On one hand, there are concerns of
+rising inflation, but maintaining growth is also important. So, priority -wise, at this
+juncture, what is more important as a regulator? On cryptos, there has been a lot of discussion, and, after clearance from the Parliament, how  much time would it take to
+launch Central Bank Digital Currency? Also, by when would the Report on digital
+lending be implemented?
+Shaktikanta Das:
+You have asked three questions. The first question that you asked was regarding
+RBI’s priority at the moment. As I have clearly mentioned in my statement, the overarching priority of RBI at this stage is revival of growth. And in parallel, I have said that price stability is also our concern. So, therefore, at this moment, without losing sight of price stabilit y, we would make growth as the overarching priority. Regarding
+Central Bank Digital Currency, I would request Deputy Governor Rabi Sankar to
+answer.
+T. Rabi Sankar:
+Thank you Governor. As we have said earlier, work  is in progress on two categories
+of CBDCs - wholesale and retail. Lot of work has happened on wholesale account
+based CBDC. Retail based CBDCs is a bit more complicated and may take some more
+time. As soon as they are ready, we will release them on pilot, whi chever is ready for
+release first.
+Swati Khandelwal:
+And by when would the Report on digital lending be implemented?
+Shaktikanta Das:
+I understand you are referring to the Report of the Committee on digital lending that
+was set up under the chairmanship of Shri J. K. Dash. We have asked for comments on it and the last date is not yet over. Once we receive the comments, we would
+examine them and take the next course of action.
+M. Rajeshwar Rao:
+I would just like to add that the last date for submission of comments on the report is
+December 31
+st, 2021. After that, depending on the comments, we will take a call.
+Yogesh Dayal:
+Thank you s irs. I now invite Shri Ankur Mishra from ET Now Swadesh to ask his
+question.
+Ankur Mishra, ET Now Swadesh:
+Sir, first of all I would want to know the status of CBDC. Second, you have made some
+UPI based announcements. Especially with regard to feature phone based UPI
+transactions, what all steps are remaining? Since testing was already going on, is it the same players who would be given the license? What would be the entire process,
+if you could throw some light on that?
+Shaktikanta Das:
+Deputy Governor Rabi Sankar has already responded to the query on CBDC and
+explained ab out the retail and wholesale models on which we are working. On feature
+phones, some basic payments can be done now also using the *9 9# feature. We had
+announced some regulatory sandbox cohorts, one of them being on retail payments. Good number of innovative solutions have been suggested in that cohort, out  of which
+we have discussed some solutions with NPCI and work is in progress to launch that.
+This move would help users of feature phones.
+Yogesh Dayal:
+Thank you Sir. I would now invite Ms Swati Bhat Shetye from Reuters to ask her question.
+Swati Bhat Shetye, Reuters:
+Thank you Yogesh Sir. Good afternoon Governor. My question has partly been asked
+before but I just wanted to understand again. You have repeatedly said that sustaining core inflation at these levels is a concern and it has been discussed at the MPC. Sir,
+don’t you think that the concerns on inflation as getting downplayed as regards the concerns on the growth front. And firms have started to raise prices because of demand side pressures . When do you expect the output gap to close because that
+would cause further problem on the inflation front. So how do you see that playing out? When is that likely to happen? And is RBI risking falling behind the curve with this
+current stand that it has taken? Thank you.
+Shaktikanta Das:
+Dr. Michael Patra can take that question.
+Michael D. Patra:
+Thank you Governor. Our target is defined in terms of headline CPI inflation and as
+far as  headline CPI is concerned, we are at 4.3- 4.5%, which is broadly in line with the
+target. That gives us some headroom to address issues relating to growth, which is really weal and needs a lot of support. Your question about core inflation is valid, but you must remember that starting from November reading, you are going to see a
+decline in core because of excise duty on petrol on diesel which will start to feed in to the economy from November and December. The fuller effects will be seen in
+November and December but the indirect effects will last for a full year and that will help to bring down core inflation. That also gives tim e to the authorities to contemplate
+measures to bring down cost pressures that impact on core, including their readiness to bring down taxes, bring down margins and help to bring down core. But, all in all, relative prices given the budget constraint must adjust to each other and headline
+inflation will be our metric by which we will guide monetary policy.
+Swati Bhat Shetye:
+Sir, on the output gap, what is your expectation? When is it likely to close?
+Michael D. Patra:
+Currently, our assessment is that the output gap is very very wide and it may take
+several years to close.
+Yogesh Dayal:
+Thank you s irs. Ill move on to Mr. Benn  Jose from Press Trust of India.
+Benn Jose, Press Trust of India:
+My question is about the near silence on Fed tapering and its impact on our economy.
+Is that the reason why the policy is more policy than the market was suspecting? And
+also your reading on the impact of the Omicron variant of the virus, which is mentioned
+many times in the document.
+Shaktikanta Das:
+You can’t go by  the number of times it is mentioned in our document. On a serious
+note, Omicron has been factored in and we have referred to faster than expected
+normalisation by advanced economies. In response to an earlier question also I said that India is better plac ed to deal with the possible spill -overs from such global
+developments. So, we are fully mindful of all that is happening. I think there is one
+component of your question on tapering.
+Benn Jose:
+Is tapering the reason that the document sounds more dovish than what the market
+was suspecting?
+Shaktikanta Das:
+Let me reiterate my statement. I mentioned in the previous MPC press conference
+also. Our decisions, MPC decision, is primarily determined by domestic macroeconomic situation and domestic financial co nditions. We are watchful of what
+is happening internationally. We are watchful of what possible impact they will have on Indian economy. But our policy is primarily dependent and determined by domestic
+factors.
+Yogesh Dayal:
+With your permission, we will take a last question, Sir?
+Shaktikanta Das:
+Ok.
+Yogesh Dayal:
+Mr. Anand Adhikari from Business Today, please go ahead.
+Anand Adhikari, Business Today:
+Thank you Yogesh ji. Good afternoon Governor. My question is on the CBDC. Deputy
+Governor Shri Rabi Sankar talked about the pilots and progress side on the wholesale side. I want to understand what are the challenges on introducing CBDCs? Are there
+any known unknowns?
+Shaktikanta Das:
+Please go ahead, Shri Rabi Sankar.
+T. Rabi Sankar:
+The major challenges ar e in the digital  space. This will be a digit al version of the paper
+currency. There are challenges in terms of the cyber risks associated with it. And in
+terms of risk of digital frauds. That needs to be addressed as we go along to make robust systems. Other than that what impact it would have on consumer behaviour
+and the consequent impact on banking and currency is an impact that we will assess
+as we go along. Thank you.
+Shaktikanta Das:
+Basically what Deputy Governor said and I just want to repeat as there was some
+audio disturbance, main concern comes from the angle of cyber security and possibility of digital frauds. So, we have to be very careful about that. Just as few years ago, we had a major concern on fake Indian currency notes. Similar things can also happen in launching CBDCs. So, in a CBDC universe, we have to be that much more careful for ensuring cyber security, with regard to taking pre- emptive steps for
+preventing any kind of frauds. Because, there will be attempts, so we have to build a robust system with firewalls to prevent such things from happening. So, these are the
+major challenges. So, we can conclude?
+Yogesh Dayal:
+Sir, there is a request for one last question. Mr. Lalatendu Mishra from the Hindu is
+patiently in the queue for long. So, I request you to take his question.
+Lalatendu Mishra, The Hindu:
+Good afternoon Governor. My question is about the PMC Bank. Some depositors have
+expressed concerns on the amalgamation scheme that has been proposed. Thank
+you Sir.
+Shaktikanta Das:
+The question was not fully audible but I hope I am clearly audible to everyone. I
+understand you asked about PMC Bank. As you know, we have put out a draft scheme on amalgamation of PMC Bank and we have given a timeline up to 10
+th December
+2021 for various comments from all stakeholders. We will get the comments by 10th
+December and examine them thereafter and the final scheme, as finalised by us, as per law and based on the inputs, it will be sent to the Government for approval. We propose to do it very quickly after 10
+th December and we will finalise the scheme based
+on the inputs received.  Yogesh Dayal:
+Thank you Sir. With this, we come to the conclusion of today’s press conference.
+Ladies and gentlemen, thank you for participating in the post monetary policy press conference. I thank Hon’ble Governor and Deputy Governors who participated and answered all the questions. I am sure there would be many more questions after this and there would be many more opportunities as well.  With this, I thank you for
+participating in the press conference and wishing you stay  safe and Happy New Year
+in advance. Thank you very much.

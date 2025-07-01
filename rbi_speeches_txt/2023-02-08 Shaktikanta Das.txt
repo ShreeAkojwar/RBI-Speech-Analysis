@@ -1,0 +1,413 @@
+Edited Transcript of Reserve Bank of India’s Post Policy
+Conference Call with Researchers and Analysts
+February 02, 2016
+PARTICIPANTS FROM RBI:
+DR. RAGHURAM G. RAJAN – GOVERNOR
+SHRI H.R.K HAN – DEPUTY GOVERN OR
+DR. URJIT R. PATEL – DEPUTY GOVERNOR
+SHRI S.S.  MUNDRA – DEPUTY GOVERNOR
+DR. MICHAEL D. PATRA – EXECUTIVE DIRECTOR
+MODERATOR : MS. ALPANA KILLAWALA – PRINCIPAL ADVISER ,
+COMMUNICATIONS
+1
+Moderator:  Ladies and Gentlemen, Good Day and Welcome to the Sixth Bi -Monthly Monetary Policy
+Governor’s Teleconference with Researchers and Analyst s. As a reminder, all participant lines
+will be in the listen -only mode. And there will be an opportunity for you to ask questions after
+the presentation concludes. Should you need assistance during this conference call, please
+signal an operator by pressing ‘*’ then ‘0’ on your Touchtone phone. Please note that this
+conference is being recorded. Thank you, we are connected to the call. Over to you.
+Dr. Raghuram G. Rajan:  No, opening statement, happy to take questions.
+Alpana Killawala:  Okay. So then we have received some questions already.
+Gautam Singh:
+Spark Capital
+As the Governor has mentioned the 5% inflation estimate for March 2017 is based on the
+assumption of crude oil prices at current level s and impact of 7th Pay Commission  has also not
+been factored in . Apart from that there is a high possibility of 2% increase in service tax rate in
+the Budget 2016, which would result in higher service inflation. Considering these factors ,
+does not the 5% inflation estimate for March 2017 seem  more of a blue sk y scenario and the
+actual inflation figure can be much higher at around 5.6% by March 2017? In that scenario,
+how would RBI react to it?
+Dr. Raghuram G. Rajan : We have not taken the Pay Commission  estimates into account because we do not know what
+the gov ernment is going to take on board, what it will implement. Broadly speaking on the
+overall effects on inflation , to the extent that the government sta ys on the fiscal consolidation
+path,  the pressure on inflation will be offset by other cuts that the government will make to
+incorporate the Pay Commission . The key issue is on the effects on rental housing inflation
+where there will be some impact if the HRA recommendations of the Pay Commi ssion  are
+accepted. Clearly, this will be an adjustment which has to take place,  which we have to take
+into account to some extent . The extent to which we will take into account we will have to
+figure out once we see the actual recommendations and we are doing some analysis on our
+own in the meantime. I do not know ‘Blue Sky’ usually means completely of dreaming.  I do
+not think that is a fair characterization of around 5% estimate that we have for 2017, it takes a lot of factors into account . And for every factor you mention there are offsetting factors but the
+key again is that we have not taken the Pay Commission  recommendations into account. Dr.
+Patel would you like to add anything?
+Dr. Urjit R. Patel : Thank you, sir. I think there are couple of issues  – one in many of these changes whatever
+mechanical cosmetic implications are there for the index with respect to the Pay Commission
+especially in relation to HRA is something that we would under ideal conditions look through.
+And only the secondary and tertiary effects are what monetary policy should take care of. So I
+think that like we would for any other shock which is one -time this is not going to have long-
+lasting implication for the inflation which is what we would be looking at. Secondly, as low inflation does take hold and as it is now persisting and we hope that it continues to do so,  at
+some point inflationary expectations will also come down and hopefully, that will help in wage
+and salary settlements as we go forward,  which is particularly important for the services side of
+the CPI.
+2
+Rahul Sangle :
+Exide Life Insurance
+Sir, bond market s are not witnessing transmission of policy rate cuts done till now, as we can
+see 10-year government security yields are more or less at the same level s as last year. Do you
+plan to take any measures in this regard?
+Dr. Raghuram G. Rajan:  We do  not target  the long-term yield.  We see that as a consequence of necessary actions we
+take elsewhere. Clearly, we are focused on staying within our inflation targets that is one
+which we hope will bring down yields over the medium -term. Second to the extent there are
+liquidity needs in the market, we are supply those liquidity needs. Of course, also to some
+extent we have to look at the availability of buyers and one of the things the government has
+been looking at is how to facilitate greater entry of pension funds, insurance companies and so
+on into these markets. But we see the long-term yield as a consequence of a variety of factors
+and we don’t  directly intervene to manage it perhaps unlike some other Central Banks. Khan
+Sahib , would you like to add something?
+Shri H.R. Khan : Just to say that it has not reacted will be not a correct statement we cannot just take one single
+point and say it  has not reacted.  If you take for example, a two- year horizon 1st January, 2014
+when the repo rate was 7.75 %, 10-year was 8.86 %, now when it is 6.75% if you take the whole
+10-year it is 7.79 %, new 10- year is 7.76%. In fact more than 100 basis point it has reacted to
+take over a period of time because sometimes they factor the expected cuts and sometimes they
+don’t factor there wil l be no cuts . Plus as Governor has mentioned, in the morning statement
+also there are variety of factors including supply issues and outlook issues and expectation
+issues and particularly State Government loans have  ballooned  like anything,  last year aroun d
+2 lakh, this year around 3 lakh.  So the supply has increased,  so that has to be factored , So
+variety of factors as Governor has mentioned that contributes and it is not true to say as I said
+earlier that it has not reacted. You have to take a  slightly  longer period to see how it has
+reacted.
+A. Prasanna :
+ICICI Securities
+and
+Radhika  A. R. :
+Barclays
+Does the RBI consider CRR or OMOs to be one of the tools for long-term liquidity
+management ? If so, does the RBI have a view on current CRR level as optima l?
+Dr. Raghuram G. Rajan : First, yes, both are possible inputs to liquidity management. As I said this morning, we have a variety of instruments to manage short -term liquidity and as well as long-term liquidity and
+OMOs are one of them. As far as optimal l evel of CRR goes, we do not think there is a strong
+reason right now to move away from this level but we are also looking at our entire liquidity frame work over the next few months and as we review that we will keep you apprised of
+developments.
+3
+Jayesh Ku mar:
+Kotak Securities
+In CPI forecast you have assumed crude oil to remain at current level s. Is it just for
+convenience or is it your forecast?
+Dr. Raghuram G. Rajan : Michael, would you like to take that?
+Dr. Michael D. Patra : As you know every forecast  has to set down certain initial conditions , so this assumption is
+about initial conditions and it takes into account recent developments in spot and future
+market s. Also it is consistent with forecast made by agencies like IMF and International
+Energy Agency.
+Promit Sengupta :
+AIWMI
+Given the lag in wage transformation and at the same time latest norms for disclosure of
+stressed assets have  increased  banks ’ cost since recent result s of two India’s of big banks show
+very sorry state of affairs . So how do you think going forward entire banking system will
+absorb the se systemic risk s?
+Dr. Raghuram G. Rajan : Okay, that is a very long question. First, I think it would be a mischa racterization to say very
+sorry  state of affairs. Yes, there are stressed assets and  what we need to do is get banks to
+continue the action they are taking to put them back on track. Broadly speaking this process is
+well underway, our attempt is to make sure that it is across the board and that at the end of this
+process we have banks wit h relatively well -understood,  transparent balance sheet s, and
+adequately provisioned. I think we are getting there and I think there is enough capital in the
+system that our various scenario s suggest would be enough for variety of eventualities and that
+capital will be there to absorb any potential losses that happen.  And I think the system will be
+poised to fund future growth at the end of the exercise. So I think one should be alarmist about
+this process, it is well in hand. Clearly, it involves some short -term subtractions to the profit
+and loss account as banks provision.  But as I have said repeatedly if the  assets come back on
+track some of these provisions will come back into profitability . But it best to take
+precautionary measures. Hopefully, as growth picks up in the economy and picks up in the world economy some of the stress ed sectors will improve . But what we are doing is making
+sure that we are not dependent on the hope of improvement , that in fact we are positioned for
+variety of alternative s. We firmly believe the system can do it now. If we postpone this process
+down the line it may get much bigger and harder to handle. So government and the RBI
+together are moving on, on this along with the banks.
+Sanj ana Dadawala:
+UBS Securities
+You have recently referred to IMF estimates for India’s consolidated fiscal deficit figures,
+while the Central Government does have room given oil , etc., states clearly do not. How would
+you look at Pay Commission  implementation by states , leading to effective cons olidated fiscal
+expansion for India in terms of impact on macro parameters?
+Dr. Raghuram G. Rajan : Let me ask Dr. Patel to answer this.
+4
+Dr. Urjit R. Patel : As you are aware the Central Government actually has built -in a provision for the 7th Pay
+Commission impact as per the medium -term expenditure framework of February. The
+additional expenditure due to the 7th Pay Commission was projected at about 54,000 crores and
+the states need to emulate the C enter and build in such buffers prior to implement ing the 7th
+Pay Commission recommendations;  that would be good housekeeping.
+Amit Agrawal :
+Societe Generale
+What you think about ECB loans and their hedging.  The last data point was given in 4th August
+meeting which talked about ECB hedging at 41% Q1 2015-2016. Do you think the foreign
+loan repayment problems are manageable while the INR is depreciating?
+Dr. Raghuram G. Rajan : Let me ask Mr. Khan to address this.
+Shri H. R. Khan:  Actually we are trying to fine tune the data collection system for this . But as things stand now
+nine months from April to December more or less it is the same figure , around 42% intention
+to hedge. What we are trying to do is we are not prescribing any hedge ratio for t he corporates.
+But through our regulatory side we are trying to sensitize them about the risks involved in
+unhedge d exposure . That is why we have provisioning and capital charge norms and we are
+trying to get to  capturing the data , that is one side. Other side in the  recent changes which w e
+announced on 30th November,  the focus is on more and more rupee -denominated ECBs  so that
+the exchange  risk is on the lender.  For example infrastructure we do  not have a dollar balance
+sheet , they are being moved to the rupee side . So that should help them mitigate this external
+loan related exposure itself . And third point is that ECB in the recent past has not been very
+robust , compare d to last year this year ECB has been lower may be by around 2 million-3
+million . So we do not think that we have that serious problem on that account because we have
+prudential measure s in place and we are  trying to move people to rupee -denominated.
+Dr. Raghuram G. Rajan : There are also two reasons why this 42% may be understating the ext ent of hedges. First, it
+does not include entities that have natural hedges that essentially price in dollars. But second not all ECB borrowing is in dollars , of course the bulk is but not all is . And remember that the
+rupee while depreciating against the dollar has actually strengthened  against some other
+currenc ies. So we have to be careful about saying that immediately there is exchange rate
+depreciation.  In fact in real effective terms we have not really moved this year.
+Manish Banthia:
+ICICI Prudential  AMC
+Though we talk about real GDP at 7.4%, nominal GDP has been much lower from the trend. If
+I take the five -year government bonds a s proxy for risk-free rate , we have  nominal interest
+rates higher than the nominal growth. When income levels go below interest cost s, it affects
+debt re payment capabilit ies. What is RBI’s view on this?
+Dr. Urjit R. Patel : Well currently, the five -year government bond yield is 7.6% . In the Ministry of Finance’s mid-
+year review the nominal GDP growth for 2015-2016 is projected at 8.2% . Therefore, nominal
+income growth is higher tha n the interest cost even by your example.
+5
+Rajesh Agr awal:
+Bank o f America
+Going back to the September policy, first, external developments in August were an important
+factor in RBI cutting reported by 50 bps then . We had a similar risk of development in
+January. Second,  you had also highlighted then that the expected one -year T -bill at 7% would
+roughly be 1.5% to 2% higher than the one year expect ed inflation of 5% to 5.5%. One -year T -
+bill yield did not fall to 7% but ha s been trading at 7.25% and the forecasted inflation is 5% by
+end of 2016-2017 excluding Pay Commission  impact. Why were these two factors not too
+relevant today while deciding on rates?
+Dr. Raghuram G. Rajan : You can always pick a couple of factors and say the policy should be driven by those. We look
+at a whole range of factors and policy is determined by the agglomeration of these factors. So,
+I would not fixate  on one or two and say this is what is driving t he policy, else you would
+replace all of us by machine and give it that rule . That said, I think the point we made today is
+that we are wai ting to see whether our projections  of how inflation will develop, whether
+incoming information on inflation , remembe r the last few readings have been up.  So we want
+to see how the new readings pl ay out . Our sense is they will come down but we want to get
+more certainty about it. But also over the next month, we will get a lot of events happening .
+Most important of all i s the budget as well as the implementation of the Pay Commission
+recommendation. So this will allow us to have a  better sense of the path of future inflation and
+that is why we are certainly on the wait and watch mode.
+Badri nivas Chakravarty:
+Citibank
+The last para in the policy mentioned that “ structural reforms in the budget will create more
+space for monetary policy to support growth” . Does that open possibility for inter -meeting cut
+or you would say there is no emergency situation for an inter-meeti ng that?
+Dr. Raghuram G. Rajan : I do not think it is our policy to advertise or deny inter -meeting  cuts. As and when they are
+necessary we will undertake them . But I do not think a Central Bank ever binds its hands.
+What we have said in the past which I w ill reiterate is typically inter -meeting cuts happen at a
+time when there is a great sense of urgency. Sometimes to signal a broad change in direction of
+policy which was really when we employed it last time a nd that was I think centre stage at that
+point.  So we will have  to see rationales , which are strong for doing it . But I do not want to
+either say that we are going to do it or deny the possibility.
+Namrata Mittal :
+SBI Mutual Fund
+While we have been looking at weighted average call money rate which is well -anchored to
+the repo rate , other measures of money market s rate like C P and CD rates are moving high.
+The higher rates in other market instruments do impede  transmission and is indicative of
+liquid ity shortage in  the economy . Your view on this?
+Dr. Ur jit R. Patel : There have been times during this easing cycle when the CP and CD rates have actually also
+moved down.  So a Central Bank can only at an operational daily level look at how the  policy
+repo rate and the call -weighted average call market rates are moving together.  And the
+6
+difference between the two has actually come down for most of this fiscal year so the CP and
+CD rate movements could also be reflecting things other than just the transmission from the
+repo rate to the call money rate and conse quently beyond that.
+Dr. Raghuram G. Rajan : Again I think what we are engaged in is certainly trying to look at liquidity conditions and our
+liquidity framework and all these factors will be looked at . But in general at this point our
+sense is that the ma rket certainly has a demand for liquidity but we are also supplying plenty of
+that demand and the proof of the pudding is precisely that the weighted average call rate is
+hugging the policy rate.
+Vishal Goel:
+UBS Securities
+The question is on the stressed  loans again. So what was the scope of asset quality review
+which RBI did ? So did RBI go through all the weak corporates  for these  banks  or only select
+corporates ?
+Dr. Raghuram G. Rajan : Let me ask Mr. Mundra  to answer this question.
+Shri S.S. Mundra : See scope in the sense we conduct the asset quality review of banks every year . The only
+difference in the process this time has come that rather than spacing it over the year we have
+pooled it within a certain period . Otherwise it has followed the same process as it was being in
+the past year. Doing together has given the advantage that some of the accounts rather than
+looking them at an isolation could be looked at in totality across the banking system. Our
+observations were discussed with the banks, shared with the banks , and then they were
+encouraged to proactively and conservatively look at these accounts, classify them appropriately, if there is a need then prepare  themselves for the future possibility or weakness
+arising by way of enhanced provisioning.  So that is how it was.
+Vishal Goel:  So basically, can we assume that RBI has already highlighted  like almost all the cases which
+they would have thought is stressed or do you think like there would be more such list s which
+can come from RBI?
+Shri S.S.  Mundra : I think we have to appreciate one thing that portfolio is not a static entity . At one give point of
+time you look at the portfolio.  There will always be development s which can either take out
+the account which are identified earlier because of the positive movement which has happened
+or looking to the economy around other developments there may be some inclusion. But what
+we can say at this point of time with reasonable assurance is that a larger part of such
+portfolios , they have been looked at.
+Dr. Raghuram G. Rajan : So a couple of additions, one of course the banks themselves look at the entire portfolio all the time plus we look at the entire portfolio but perhaps  not with degree of scrutiny again through
+all our annual financial inspections . So I think the answer broadly is yes, as Mr. Mundra said,
+the bulk of the problem has been looked at by us in detail but also broadly looked at by us and the banks will contin ue looking at it. Second, even in the course of this process because of the
+height ened  awareness and the proactive behavior  by the banks some of the loans have actually
+turned around or some of the loans have been put back on track by promoters selling ass ets,
+brining in money , etc. O f course the reverse can also happen some of the loans which are
+7
+normal may go off track.  But this is something that in a dynamic situation we have to watch
+and see but broadly, yes.
+Anurag Mantr i:
+Jefferies
+Firstly, can we assume that the asset classification for the accounts that have been identified
+through the review will be uniform across banks by the end of FY16,  by the end of these two
+quarters?
+Shri S.S. Mundra : What exactly you mean by uniform?
+Anur ag Mantr i: Sir, for example, that certain banks have spoken about second degree effects of the asset
+quality review in terms of may be some bank classifying o n account as NPA and another
+probably not . So what I am asking at the end of it will all the accou nts that have been identified
+as potentially stressed, have the same asset classification across banks as  currently they are
+diverging?
+Shri S.S. Mundra : I think some of the explanation of what you have asked was also contained in our previous
+reply. But let me clarify that the asset classification continue s to the governed  by the rule -
+based system which is in vogue at this point of time and within that it is quite possible that an
+account can be NPA at one bank and may not be NPA at another bank when it i s viewed  from
+the record of recovery perspective . But what essentially , there can be two outcome s and which
+Governor just mentioned that when identification come s in a bank as per the rule and classified
+as an NPA it can trigger two things . One, there may be a corrective action on the part of
+promoters as well as the banks and there may not be a need for account slipping into the NPA
+category in other banks and in the existing bank also it can upgrade over a period of time . And
+the other outcome could be wh en account is NPA in a bank may be it gives an indication to
+other banks to become more sensitive about the weakness in the account, they can start preparing themselves for such weakness to manifest by way of have provisioning. And that is how this whole e xercise has moved in the direction but  going forward as I mentioned either the
+account can come back into an upgraded category or i f provisioning has started and it prepares
+the banks better to deal with the account when it really falls into NPA category.
+Anurag Mantr i: Secondly, could you help us understand what would be the typical haircut that you would have assumed for the various stressed sectors like say iron and steel, metals, infra, etc., under the
+various scenario s that you would have worked out?
+Dr. Raghuram G. Rajan:  Typically, the stress in a particular loan depends on the period of deterioration that has taken
+place and the longer the period of deterioration, the bigger the haircut. So in that sense I don’t
+think there is a uniform number that I can give you on an account -to-account basis . But
+broadly as soon as the entity starts getting into a period of say cash flow stress from that period
+onwards as the account ages the extent of provisioning that is required goes up.
+Anurag Mantr i: Could you give us your take on the takeover of Discom bonds by the states and 25% extra
+bonds that will be issued by the Discoms which would be bagged by the states in terms of what
+the asset classification and provisioning for those will be?
+8
+Dr. Raghuram G. Rajan:  If a state will replace a bank’s loan with bonds of equal value against the state , there is no asset
+classification there, it will be performing. Since all our states are paying it will be a performing
+loan. It is an investment essentially.
+Anurag Mantr i: Even though the bonds would be issued by the Discoms eventually bagged by the states and not issued by the states directly?
+Dr. Raghuram G. Rajan:  I think we are still discussing how that plays out but on the bonds issued by the state to the
+banks in lieu of the loans that the banks have made to the Discoms there is absolutely no
+question about the asset quality.
+Dhaval Gada:
+Motilal Oswal Securities
+Firstly, does the RBI asset quality review cover the stressed exposures of banks in the overseas
+operations as well and also the exposures to stressed group taken by our credit substitutes ?
+And the second question was just more clarity on the balance sheet clean-up by March 2017.
+Does this mean that we are going towards direction where banks recognize all  the potential
+stressed  asset s as NPA by then and increase the coverage on those exposures by March 2017  or
+we could see increase provisioning even in the subsequent years?
+Dr. Raghuram G. Rajan:  Your second question,  the intent is broadly to get the problem t aken care of by that time as
+Shri Mundra said there will be continuing loans coming back into standard classification and
+loans going out . But we hope that by that time the bulk of the exercise is finished and that the
+positives match the negatives in that  sense so the balance sheet is stabilized. Moreover, the
+balance sheet is transparent , that you know that all the problems are largely taken care of.
+Shri S.S. Mundra:  I will just further add considering the first part of your question about the overseas exposure .
+As we mentioned this whole exercise was intended to have an overall review and then
+encourage the banks to proactively deal with this problem. So as we know that a large part of the overseas exposure of the banking community is in respect of the same entity where the
+exposure is sitting in the India n book. So once this kind of review is done and banks take a
+proactive measure I think it is quite logical that while doing so they would be looking at both –
+the exposure sitting in to the books in India as well as the exposure sitting in their overseas books .
+Dhaval Gada: Sir would it be possible to  give a broad sense of what would be the level of provisioning or the
+quantum of stress ed loan that could materialize in the whole exercise?
+Dr. Raghuram G . Rajan:  This is a moving target. As I said we mapped out different scenarios but I think it is important
+for the banks to basically follow the process . And I think a good indicator is probably the
+results that they declaring as they clean -up. So we don’t want to pre -judge the process by
+giving out numbers. What we have done is basically looked at the variety of possible numbers
+under various scenarios and assured ourselves that the system has enough capital to absorb
+those numbers and that this is a well and truly a feasible possibility.
+9
+Mahrukh Adajani ya:
+IDFC
+My question also pertains to asset quality. Basically, will there be  a review of the asset quality
+review as in that we have seen bank results and we have seen similar size banks reporting very
+divergent asset quality . And if you go by the data that is available,  whether it is MCA data or
+sector wise disclosures by banks themselves, it just does not feel right that there should be such
+a divergence. So would you do a review on the review?
+Dr. Raghuram G. Rajan:  I know where you are going. We are actually in constant communication with the banks as
+they prepare to declare their results they certainly  consult us on what they intent to do and we
+have been essentially making sure that there is a level -playing field on the disclosures so what
+you see is what there is , in that sense. As Mr. Mundra said there are some banks which because
+of the record of the recovery  - that is a technical phrase , implying the history of payments on
+the loan. A loan may be performing in one bank while it may be non-performing in another bank simply because the borrower has been keeping up with one bank’s payments but not with
+the other. Now over time these asset classification differences  do tend to equalize but for that
+reason it may be that a certain bank has not classified a particular loan which is classified
+elsewhere. So to that extent there may be some variation but broadly the announcements by the
+banks reflect our sense of what they need to do and if you see a bank which is announcing
+relatively low provisioning this time it probably means it does not need to do it.
+Shri S.S. Mundra:  I would say  that by similar size banks it does not mean that there are  similar kinds  of
+portfolios. So while the banks may be of similar size but the portfolios may be vastly different
+and even if the same accounts are sitting in the portfolio of both the banks it is quite possible
+that the loan size s are very different. So I think all these things would ultimately reflect in the
+level of provisioning and the charge on the P&L which the respective banks make.
+Hemendra Bhatia:
+Vadilal Forex
+If you look at Indian Rupee over the last one month it has almost appreciated by 1% against
+the Chinese Yuan. So will there be a policy by RBI to actually allow rupee to depreciate
+further against the US dollar to counter the Yuan depreciation ?
+Dr. Raghuram G. Rajan:  I can just repeat our “ mantra ” which we actually follow that we intervene in case of excessive
+volatility but not to try to maintain a level or a rate of depreciation against other currencies .
+That is what we have done and that  is what we continue to do and we don’t look at part icular
+currencies and say we have moved a lot against this and that and intervene on that basis.
+Srinivas V .:
+Deutsche Bank
+Given the nominal growth challenge that the economy faces right now and given this backdrop
+and really the imposition of an inflation targeting framework which is really necessary, how do
+you balance this out ? And given the nominal growth challenge can there be a case to actually
+change the functioning of the interest rate corridor from the current width of about of 200 basis
+points , calibrate that lower may be to 100 or 50 basis points with a  recalibration of the targeted
+liquidity deficit while keeping sanctity of inflation targeting framework.
+10
+Dr. Raghuram G. Rajan:  So I am missing the link between the nominal G DP “difficulty ” and the corridor. F irst I would
+say that it seems to me that with CPI still in the 5s and with services accounting for 60% of
+value -added , assuming a deflationary structure for the economy at this point is perhaps a little
+stretched. I am not denying the  fact that overall GDP deflators depending on how you calculate
+them have come down.  But it is hard for me to see a significant negative given the size of
+services in this economy as well as to some extent the agriculture sector. Yes, m anufacturing is
+experiencing a period of deflation but largely as a result of lower input cost and not so much for other traditional reasons. So I think that the nominal GDP problem to some extent is
+perhaps over-stated at this point.  But let us see how it progresses and if in fact it is an actual
+problem we should see inflation coming down substantially which will give monetary  policy
+sufficient room to act. On the broader  issue of the size of the corridor, those are amongst the
+issues that we will explore as we take an o verall look at our framework again.
+Srinivas V .:  So just to clarify the link really what I meant if it is not clear was really from a transmission
+perspective given the shock.  Are there some degrees of freedom that can be provided by
+changing the  width of the corridor?
+Dr. Raghuram G. Rajan:  The biggest contribution to transmission will probably be the change to marginal cost pricing
+from April 1
+st. This would be direct contribution to credit . Of course you may have in mind a
+transmission through the bond markets and there as I said again we will take an overall view
+and see if there are any additional concerns . But broadly speaking at this point we think we are
+doing a reasonable job in providing liquidity.
+Mangesh Kulkarni :
+Almondz Global
+Securities
+I just wanted to know about the progress of the Gyan Sangam meeting which was held last
+year and when the next Gyan Sangam meeting is expected?
+Shri S.S. Mundra : You would appreciate that in the Gyan Sangam exercise the  RBI’s presence is as an observer.
+To get a more detailed or elaborate answer this question needs  to be direct ed elsewhere . But
+the second part of your question, we understand that the next Gyan Sangam is proposed to be
+held in the first week of March.
+Brinda Jagirdar :
+Independent Economist
+Given that the books of banks are still a concern and government has not moved on the small
+saving rate s and bond market rates have also not softened, how conducive are conditions now
+for a transmission of monetary policy rate s?
+Dr. Raghuram G. Rajan:  Good question which I guess I tried to answer in different ways. You did give me the phrase
+‘small saving rates’. Clearly, we are looking to government linking those to bond market rates
+so as to allow them to be more flexible over time and give investors who put their money in
+the small saving instruments a n adequate return but which ties them to market returns. That
+will help transmission. On the broader issue of transmission as Shri Khan said about the bond
+markets there has been some over time. I think there has been some in the credit markets also .
+But clearly we are looking for more and my sense is come April 1st with the change in the
+11
+marginal cost pricing as well as over time as banks now compete to lend more I think we
+should see greater transmission take place . So I am optimistic that this is a matter of time
+rather than any significant impediments to the process.
+Alpana Killawala:  On that optimistic note shall we close ?
+Dr. Raghuram G. Rajan:  Thank you.
+Alpana Killawala:  Thank you Sir. Thank you e veryone for joining.
+Moderator : Thank you very much.  Ladies and gentlemen with this we conclude the conference call. Thank
+you for joining us and you may now disconnect your lines.
+12
